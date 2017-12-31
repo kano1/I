@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: tes123
 
+all cannot no track you and cannot go an all site extept facebook
+
 @@||github.com
 @@||facebook.com
 @@||fbcdn.net
