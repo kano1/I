@@ -12643,9 +12643,6 @@
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com
 @||crunchyroll.com/*/ads_enabled_flag*.js$script
-[AdblockPlus1.1]
-[AdblockPlus2.0]
-^name=atatracker^
 _.gif?ref=
 _.gif?t=
 _247seotracking.
@@ -14096,6 +14093,4 @@ zoomtv.me###membz
 zoomtv.me##[class^="topad"]
 zorofiles.com###z662
 zuuk.org###fl10
-
-
 
