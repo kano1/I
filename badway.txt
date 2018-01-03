@@ -2,6 +2,7 @@
 
 ! Title: Garuda Adaware BL
 
+
 ||-=--=-=----=-------zonasegura1viabcp.agsgroupenlineas.com^
 ||-a.akamaihd.net
 ||-akamaihd.net
@@ -671,6 +672,7 @@
 ||9rojo.com.mx^
 ||9stoneinvestments.com^
 ||RELISH.com.cn^
+||[Adblock]^
 ||a-bankieren.com^
 ||a-c-sky.rzb.ir^
 ||a-cave.net^
@@ -2467,11 +2469,14 @@
 ||appleid.app.intl-member.com^
 ||appleid.apple-accounted.com^
 ||appleid.apple.benhviendakhoae.com^
+||appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify4.server-w0a.com
 ||appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify4.server-w0a.com^
+||appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify6.server-w0a.net
 ||appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify6.server-w0a.net^
 ||appleid.apple.com-account-rev.com^
 ||appleid.apple.com-stores-secure.com^
 ||appleid.apple.com-subscriptions.manager784393.weekendtime.com.au^
+||appleid.apple.com.cgi-bin.webobjects.myappleid.woa.enhance3339.i-dconfirmation3.com
 ||appleid.apple.com.cgi-bin.webobjects.myappleid.woa.enhance3339.i-dconfirmation3.com^
 ||appleid.apple.com.d0c92f8b2a16e69758f90be6660e8508.com^
 ||appleid.apple.com.onefamilycatering.com^
@@ -5300,6 +5305,7 @@
 ||cg79wo20kl92doowfn01oqpo9mdieowv5tyj.com^
 ||cgaasqydlxvfdbewtri.pw^
 ||cgarfort.5gbfree.com^
+||cgi-bin.paypal.com.95j8g63f2v1b3n5f6gh32v1c3n1f56r7t89y6f3g21hv5b6nn3gh1j4f56g.pinamalayan.gov.ph
 ||cgi-bin.paypal.com.95j8g63f2v1b3n5f6gh32v1c3n1f56r7t89y6f3g21hv5b6nn3gh1j4f56g.pinamalayan.gov.ph^
 ||cgi-webapps-payment-information.com^
 ||cgi3bayuigs.altervista.org^
@@ -25311,6 +25317,7 @@
 ||usaa.com.inet.ent.logon.logon.redirectedfromlogoff.truemain.warefpub.globalproducts.priauth.nav.studentsuccess.com.au^
 ||usaa.com.inet.ent.logon.logon.redirectjsp.true.registrationaccountsummary.abanicosgarciashop.com^
 ||usaa.com.inet.ent.logon.logon.redirectjsp.true.registrationaprofile.estatement.myaccountsregistration.vesplast.com^
+||usaa.com.inet.ent.logon.sec.auth.ent.darlanesudameventos.com.br
 ||usaa.com.inet.ent.logon.sec.auth.ent.darlanesudameventos.com.br^
 ||usaa.com.inet.entlogon.logon.redirectjsp.ef4bce064403e276e26b792bda81c384ce09593b819e632a1.3923ef2c8955cooskieid112824nosdeasd.2300928072ghdo687fed.dobermannclubvictoria.com.au^
 ||usaa.com.inet.entlogon.logon.redirectjsp.true.details.refererident.906ce097206.keystoneinteriors.com.au^
@@ -26591,6 +26598,7 @@
 ||www.fbcom.review^
 ||www.fchabkirchen-frauenberg.de^
 ||www.fcmrealtorbenefits.com^
+||www.flog.ie^
 ||www.fmbj.science^
 ||www.foklddo.com^
 ||www.furnexegypt.com^
@@ -26762,6 +26770,7 @@
 ||www.wayrestylephotoblog.com^
 ||www.webandcraft.com^
 ||www.weigezhiyao.com^
+||www.wellsfargo.com.brokerage-requiredlog.origincob-valid.present-secureconnect.lob.authconh65465gfytrfs9cqhjgfrw4awmdawtyddkcrhtee.cridgey.com
 ||www.wellsfargo.com.brokerage-requiredlog.origincob-valid.present-secureconnect.lob.authconh65465gfytrfs9cqhjgfrw4awmdawtyddkcrhtee.cridgey.com^
 ||www.westbournec.com^
 ||www.ww-tv.net^
