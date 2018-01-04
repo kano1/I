@@ -2,7 +2,7 @@
 
 ! Title: Garuda Adaware BL
 
-
+||*-amazon.co.uk.security-check.ga^
 ||*-a.akamaihd.net^
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
@@ -604,6 +604,7 @@
 ||amateuree.com^
 ||amazingunigrace.com^
 ||amazingvacationhotels.com^
+||amazon.co.uk.security-check.ga^
 ||amazon-sicherheit.kunden-ueberpruefung.xyz^
 ||ambulanciaslazaro.com^
 ||ameim.com^
@@ -777,6 +778,7 @@
 ||autobkk.com^
 ||autocapital-500.com^
 ||autogas-adapter.eu^
+||autosegurancabrasil.com^
 ||autoritet.by^
 ||av.ghura.pl^
 ||av356.com^
