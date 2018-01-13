@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
-
 ! Title: Garuda Adaware BL
 
-||*-amazon.co.uk.security-check.ga^
 ||*-a.akamaihd.net^
+||*-amazon.co.uk.security-check.ga^
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
@@ -604,8 +603,8 @@
 ||amateuree.com^
 ||amazingunigrace.com^
 ||amazingvacationhotels.com^
-||amazon.co.uk.security-check.ga^
 ||amazon-sicherheit.kunden-ueberpruefung.xyz^
+||amazon.co.uk.security-check.ga^
 ||ambulanciaslazaro.com^
 ||ameim.com^
 ||amerarani.com^
@@ -778,8 +777,8 @@
 ||autobkk.com^
 ||autocapital-500.com^
 ||autogas-adapter.eu^
-||autosegurancabrasil.com^
 ||autoritet.by^
+||autosegurancabrasil.com^
 ||av.ghura.pl^
 ||av356.com^
 ||av5k.com^
@@ -6332,8 +6331,6 @@
 ||ya-googl.ws^
 ||ya-toptal-tvoyu-dushu.com^
 ||yadr0.com^
-||yahoo-statistic.com^
-||yahoosite.ru^
 ||yalen.com.br^
 ||yalovacimenemlak.com^
 ||yalovasehri.com^
@@ -6439,7 +6436,6 @@
 ||ylprwb.com^
 ||ylpzt.juzojossai.net^
 ||ymack.co.uk^
-||ymailadminhome.com^
 ||ymcvyjxjljyfiqop.com^
 ||ymtgwnuysvp.com^
 ||ymvvdsfhix.pw^
