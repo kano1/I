@@ -2,9 +2,6 @@
 [Adblock Plus 2.0]
 ! Title: Spyware BL
 
-[Adblock Plus 2.0]
-! Title: Garuda Spyware X BL
-
 /system/logs/3523523.exe
 /system/logs/43d5f67n8
 /system/logs/7t6f65g.exe
