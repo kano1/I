@@ -1,16 +1,15 @@
+                       adware
 
-                   Badware Rabit Kiler         
+https://raw.githubusercontent.com/kano1/I/master/adware.txt
 
-https://raw.githubusercontent.com/kano1/Kano/master/BadPupetAlice.txt
+                       malware
 
-                     Spyware Block              
+https://raw.githubusercontent.com/kano1/I/master/malware.txt
+
+                       Spyware
 
 https://raw.githubusercontent.com/kano1/Kano/master/Spyware.txt
 
-                      Coal Mine           
-
-https://raw.githubusercontent.com/kano1/Kano/master/CoalMine.txt
-                      
                       Wanna Cry
 
 https://raw.githubusercontent.com/kano1/Kano/master/CybervCry.txt
