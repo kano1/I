@@ -29704,3 +29704,7 @@ Domain Bad Isue Ads
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
 ||nextoptim.com^
+||realtime.services.disqus.com
+||disqusads.com/ads-iframe/prebid/
+||6.adsco.re^
+||c.adsco.re^
