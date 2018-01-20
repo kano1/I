@@ -1,3 +1,8 @@
+                       
+                       popup 
+
+https://raw.githubusercontent.com/kano1/I/master/pop.txt
+
                        adware
 
 https://raw.githubusercontent.com/kano1/I/master/adware.txt
