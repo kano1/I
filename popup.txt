@@ -313,12 +313,10 @@
 ||4menshop.com^$image,~image,popup,third-party
 ||4online-gambling.com^$popup,third-party
 ||4playbet.com^$popup,third-party
-||4sex4.com/pd/
 ||4shared.com/js/blockDetect/blockDetect.4min.js$script
 ||4thmedia.org^$third-party,popup
 ||4threvolutionarywar.wordpress.com^$third-party,popup
 ||4tube.com/tb/banner/
-||4ufrom.me/xpw.gif
 ||50.7.128.74^
 ||5000ktv.com^$popup,third-party
 ||50starscasino.com^$popup,third-party
@@ -345,7 +343,6 @@
 ||5ilthy.com/porn.php
 ||6000ktv.com^$popup,third-party
 ||622222.com^$popup,third-party
-||64.62.202.124^*/cumlouder.jpg
 ||6568.com^$popup,third-party
 ||666cp.com^$popup,third-party
 ||6688bet.com^$popup,third-party
@@ -518,7 +515,6 @@
 ||abab16.com^$popup,third-party
 ||abadionlinestore.com^$popup,third-party
 ||abbeyblog.me^$popup,third-party
-||abc-celebs.com/spons/
 ||abcnews.com.co^$third-party,popup
 ||abeldanger.net^$third-party,popup
 ||abgqq.com^$popup,third-party
@@ -527,7 +523,6 @@
 ||abovetopsecret.com^$third-party,popup
 ||abrts.pro^$popup,third-party
 ||absbet.com^$popup,third-party
-||absoluporn.com/code/pub/
 ||absoluteclickscom.com^$popup,third-party
 ||ac1188.com^$popup,third-party
 ||accede.site^$popup
@@ -546,11 +541,7 @@
 ||ad-emea.doubleclick.net^$popup,third-party
 ||ad-feeds.com^$popup,third-party
 ||ad-maven.com^$popup,third-party
-||ad.adflazz.com^$third-party
-||ad.eporner.com^
-||ad.slutload.com^
-||ad.theequalground.info//ads/*
-||ad.theequalground.info/showads.php?*
+||ad.adflazz.com^$third-part
 ||ad.thisav.com^
 ||ad.truongton.net^$image,~image,popup,third-party
 ||ad.userporn.com^
@@ -583,8 +574,6 @@
 ||adexchangeprediction.com^$popup
 ||adexchangeprediction.com^$popup,third-party
 ||adexec.net^$popup
-||adexp.net^$third-party
-||adf.ly
 ||adf.ly/*.php?$popup
 ||adf.ly/_$popup
 ||adf.ly/puscript$script,domain=imgnova.xyz
@@ -622,7 +611,6 @@
 ||adplxmd.com^$third-party,popup
 ||adpop-1.com^$third-party
 ||adpstatic.com^$third-party
-||adreactor.com/js/FAB.js$script,third-party
 ||adreviewcamp.com^$third-party
 ||adrive.com/images/fc_banner.jpg
 ||adrotate.se/?*$popup
@@ -8272,8 +8260,6 @@
 ||qam888.com^$popup,third-party
 ||qertewrt.com^$popup,third-party
 ||qq2889yes.com^$popup,third-party
-||qqc.co/Webservices/jsParseLinks.aspx$script,third-party
-||qqc.co/visitScript/$script,third-party
 ||qqdomino.net^$popup,third-party
 ||qqsamsungbet.com^$third-party
 ||qqtangkas.com^$popup,third-party
@@ -8294,7 +8280,6 @@
 ||quierest.com^$popup
 ||qwvktoqxqum.bid^$popup
 ||r.radikal.ru^
-||r.search.yahoo.com/_ylt=*;_ylu=*.r.msn.com$popup,domain=search.yahoo.com
 ||r1122.com^$popup,third-party
 ||r1166.com^$popup,third-party
 ||r1p.pw
@@ -8885,7 +8870,6 @@
 ||shanghai4d.com^$popup,third-party
 ||shanghaipools.com^$popup,third-party
 ||shareasale.com^$popup,domain=9to5mac.com
-||sharew.org/modalfiles/
 ||sharkpokertour.com^$popup,third-party
 ||sharksvegasstrip.com^$popup,third-party
 ||sharpgambler.com^$popup,third-party
