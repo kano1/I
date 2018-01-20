@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/kano1/I/master/malware.txt
 
                        Spyware
 
-https://raw.githubusercontent.com/kano1/Kano/master/Spyware.txt
+https://github.com/kano1/I/blob/master/Spy.txt
 
                       Wanna Cry
 
