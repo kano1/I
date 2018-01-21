@@ -8742,7 +8742,6 @@
 ||seriousdeals.net/visitScript/$script,third-party
 ||serveporn.com/images/a-en.jpg
 ||serveporn.com/images/plug-in.jpg
-||serving-sys.com^$popup,third-party
 ||servingclks.com^$popup,third-party
 ||servingit.co^$popup,third-party
 ||setanjudi.com^$popup,third-party
@@ -8869,7 +8868,6 @@
 ||sinoindex.biz^$popup,third-party
 ||sinthaistudio.com/thehouse2/
 ||sisielektronik.com^$popup,third-party
-||site.img.4tube.com^
 ||siteunder.unclejeans.com^$popup,domain=referencemega.com
 ||sitti.co.id^$third-party
 ||situs-judibola.com^$popup,third-party
@@ -9273,9 +9271,6 @@
 ||t3338.com^$popup,third-party
 ||t8.*.com/?$xmlhttprequest,domain=tube8.com
 ||tabletporn.com/images/pinkvisualpad-
-||taboola.com^$domain=spaste.com
-||taboola.com^$popup,domain=ndtv.com|scoopwhoop.com
-||taboola.com^$third-party
 ||tafyeta.ru^$domain=pronpic.org
 ||tagsd.com^$popup,third-party
 ||taipeipools.com^$popup,third-party
@@ -9982,7 +9977,6 @@
 ||truebluebingo.com^$popup,third-party
 ||truepoker.com^$popup,third-party
 ||truma.pitchonlev.org.il^$popup,image,~image,third-party
-||trustbookie.com^$popup,third-party
 ||truthfrequencyradio.com^$third-party,popup
 ||truyenthuyetthucson.com^$image,~image,popup
 ||trw12.com^$popup,third-party
@@ -10042,7 +10036,6 @@
 ||twinspires.com^$popup,third-party
 ||twinsporn.net/images/delay.gif
 ||twinsporn.net/images/free-penis-pills.png
-||twitte.ga
 ||twofuckers.com/brazzers
 ||twqiqiang.com^$popup,third-party
 ||tyc006.com^$popup,third-party
@@ -10193,18 +10186,7 @@
 ||vic0022.com^$popup,third-party
 ||vic003.com^$popup,third-party
 ||vic004.com^$popup,third-party
-||vid2c.com/js/atxpp.js?
-||vid2c.com/js/pp.js
-||vid2c.com/pap.js
-||vid2c.com/pp.js
-||videarn.com/vibrate.js
 ||video.notizie.it^$popup
-||videocrot.org/wp-content/uploads/*/iklan.gif
-||videodroid.org/vip/adblockcheck.js$script
-||videopoker.com^$popup,third-party
-||videos.com^*/jsp.js
-||videoslots.com^$popup,third-party
-||videowood.tv^$popup,domain=micast.tv
 ||vidgrab.net/adsbar.png
 ||vidgrab.net/bnr.js
 ||vidgrab.net/images/adsbar
@@ -10479,7 +10461,6 @@
 ||worldwidehealthy.com^$third-party,popup
 ||wormgush.com^
 ||wowomg.com/*.html
-||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||wp88.com^$popup,third-party
 ||wpanda.net^$popup,third-party
 ||wpgambling.com^$popup,third-party
