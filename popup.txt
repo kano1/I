@@ -153,8 +153,6 @@
 ||2guys1stump.org^
 ||2hot4fb.com/img/*.gif?r=
 ||2hot4fb.com/img/*.jpg?r=
-||2mdn.info^$popup,third-party
-||2no.co^$important
 ||2win22win.com^$popup,third-party
 ||302203.com^$popup,third-party
 ||303agent.com^$popup,third-party
@@ -484,8 +482,6 @@
 ||ad-emea.doubleclick.net^$popup,third-party
 ||ad-feeds.com^$popup,third-party
 ||ad-maven.com^$popup,third-party
-||ad.adflazz.com^$third-part
-||ad.thisav.com^
 ||ad.truongton.net^$image,~image,popup,third-party
 ||ad.userporn.com^
 ||ad121m.com^
@@ -508,7 +504,6 @@
 ||adcash.com^$popup,third-party
 ||adcash.com^$third-party,popup
 ||adcdnx.com^$popup,third-party
-||addesigner.com^$third-party
 ||addict-jav.com^$popup,third-party
 ||addictinginfo.org^$third-party,popup
 ||adexc.net^$popup,third-party
