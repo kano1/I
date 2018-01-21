@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: Adware BL
-
 Domain Bad Isue Ads
 
 ||*-a.akamaihd.net/a24/gsd.html?$third-party
@@ -22093,51 +22092,3 @@ Domain Bad Isue Ads
 ||zzqwaxxybf.info^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
-
-
-
-||afobal.cl^
-||alvoportas.com.br^
-||bestdove.in.ua^
-||blogerjijer.pw^
-||bright.su^
-||dau43vt5wtrd.tk^
-||domnicpeter.in.net^
-||dzitech.net^
-||ebesee.com^
-||fadzulani.com^
-||hotelavalon.org^
-||hruner.com^
-||hui-ain-apparel.tk^
-||ice.ip64.net^
-||interlogistics.com.vn^
-||ivansaru.418.com1.ru^
-||jangasm.org^
-||kesikelyaf.com^
-||kntksales.tk^
-||l3d.pp.ru^
-||luenhinpearl.com^
-||lzediamike.trade^
-||machine.cu.ma^
-||maminoleinc.tk^
-||metalexvietnamreed.tk^
-||mycraft.com.br^
-||nasscomminc.tk^
-||ns511849.ip-192-99-19.net^
-||ns513726.ip-192-99-148.net^
-||p-alpha.ooo.al^
-||panel.vargakragard.se^
-||projects.globaltronics.net^
-||prtscrinsertcn.net^
-||sanyai-love.rmu.ac.th^
-||server.bovine-mena.com^
-||servmill.com^
-||ssl.sinergycosmetics.com^
-||telefonfiyatlari.org^
-||update.rifugiopontese.it^
-||vodahelp.sytes.net^
-||www.antibasic.ga^
-||www.nikey.cn^
-||www.poloatmer.ru^
-||www.slapintins.publicvm.com^
-||www.witkey.com^
