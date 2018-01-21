@@ -2,11 +2,11 @@
 ! Title: Adware BL
 Domain Bad Isue Ads
 
-||*-a.akamaihd.net/a24/gsd.html?$third-party
-||*-a.akamaihd.net/a24/scripts/gsd.js?$third-party
-||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
-||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
-||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
+||*-a.akamaihd.net^
+||*.amazonaws.com^
+||*.amazon.co.uk.security-check.ga^
+||*.cloudfront.net^
+||*.kameleoon.eu^
 ||0000shgfdskjhgfoffice365.000webhostapp.com^
 ||000security-center00.000webhostapp.com^
 ||00info-security.000webhostapp.com^
@@ -952,6 +952,7 @@ Domain Bad Isue Ads
 ||amazon.com/empty.gif?
 ||amazon.com/follow/log-metrics^
 ||amazon.com^*/impress.html
+||amazon.co.uk.security-check.ga^
 ||amazon.update.payment.billing.restore.com.gameoflovez.info^
 ||amazonamzo.temp.swtest.ru^
 ||amazonaws.com/?wsid=
