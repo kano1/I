@@ -16,6 +16,6 @@ https://raw.githubusercontent.com/kano1/I/master/Spy.txt
 https://raw.githubusercontent.com/kano1/Kano/master/CybervCry.txt
 
             
-         popup (tidak di recomendikasikan)
+                    block the ads popup 
 
-https://raw.githubusercontent.com/kano1/I/master/pop.txt
+https://raw.githubusercontent.com/kano1/I/master/popup.txt
