@@ -9929,3 +9929,10 @@
 ||zunjue88.com^$popup,third-party
 ||zzun88.com^$popup,third-party
 ||zzwin168.com^$popup,third-party
+||realtime.services.disqus.com
+||disqusads.com/ads-iframe/prebid/
+||c.adsco.re
+||symassets.com^domain
+||newrelic.com
+
+
