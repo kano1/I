@@ -12709,6 +12709,7 @@ Domain Bad Isue Ads
 ||lumierehealthcare.com.sg^
 ||lumigroupgoo2011.com^
 ||luminate.com^$third-party
+||lumiere-a.akamaihd.net^
 ||lumpyleaf.com^$third-party
 ||luna.suprnova.cc^
 ||lunebluemedia.com^
