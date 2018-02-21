@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Pup up ADBL
+! Title: Pop up ADBL
 
 0001.2waky.com^$popup,third-party
 009blog.com^$popup,third-party
