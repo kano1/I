@@ -4328,6 +4328,7 @@
 ||directtrack.com^$popup,third-party
 ||dirgaelektroshop.com^$popup,third-party
 ||dirty2.com^$popup,third-party
+||disqusads.com/ads-iframe/prebid/^$popup,third-party
 ||discountclick.com^$popup,third-party
 ||displayadsmedia.com^$popup,third-party
 ||displaypagerank.com^$popup,third-party
