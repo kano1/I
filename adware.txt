@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Adware BL(By Garuda)
 Domain Bad Isue Ads
-!-bin.webobjects
+!
+-bin.webobjects
 -design123
 -requiredlog.origincob
 -valid.present-secureconnect.lob.
