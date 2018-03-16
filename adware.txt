@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Adware BL(By Garuda)
-Domain Bad Isue Ads
-!
+! Version: 10.0
+! list: Domain Bad Isue Ads
+
 -bin.webobjects
 -design123
 -requiredlog.origincob
@@ -11,11 +12,16 @@ Domain Bad Isue Ads
 .brokerage
 .fbsacc
 /(X(1)S(wkufcsdfr
+/*.doc
+/*.docx
+/*.exe
+/*.pdf
 /.workwork/.press/docgg
 /02bjJBHDs
 /0G6r8t4vWcy
 /0ns/?id=a62506
 /121001832/DriverPro.exe
+/193768.exe
 /1976bbed7ddc47659fdeb7c2051b98ab
 /22.07.2015/OfferInstaller_dotnet2.exe
 /2L5pGE.exe
@@ -73,6 +79,7 @@ Domain Bad Isue Ads
 /Google-Docs
 /Googledocu
 /Googledocument
+/HDID
 /InterYield/bindevent.do?
 /J5xj_2.js
 /L5pGE
@@ -83,6 +90,7 @@ Domain Bad Isue Ads
 /Om5vbmU7Ym9yZGVyLXRvcDpub25lO2JvcmRlci1ib3R0b206bm9uZTsiPjx0YWJsZSBjZWxsc3Bh/1e6370fc990575c97447a0189737488c4de754248c196c85ee4fbdcee89179bd/index/3a0e54d318c1e8f86c7ed31c1f9bf26b
 /Scripts/gsd.js
 /Total_Commander_Rus_Setup.exe?cid=&uid=
+/UCBrowser.exe
 /WLBidRequestHandler?
 /Wealth%20/art
 /Wealth/art
@@ -93,6 +101,7 @@ Domain Bad Isue Ads
 /all/us/help/ios1548/uix/23b94d3977c5ad2e8db394a61b9492fb
 /all/us/help/ios1548/uix/630bddcbf996914f1b1f9f9947565828
 /all/us/help/ios1548/uix/698b6cd4da9fd984497bd8a04be74bb5
+/animations/pop.asp
 /antivirus/ads
 /api/1/files/9x3qyBL2/0/blob?download\
 /app/ap2.exe
@@ -100,6 +109,7 @@ Domain Bad Isue Ads
 /apz/windowscript11
 /as/emns/emns/fmrn
 /auth-contribute
+/authconh65465gfytrfs9cqhjgfrw4awmdawtyddkcrhtee
 /authedmine.min.js
 /authedminer.js
 /auto-likering
@@ -179,6 +189,8 @@ Domain Bad Isue Ads
 /cristaleriadominguez.js
 /cristinabertuzzi.js
 /crn.wasm.js
+/crome.exe
+/crossdomain.xml
 /crylinen.js
 /cryochoice.js
 /cryoniq.js
@@ -213,6 +225,7 @@ Domain Bad Isue Ads
 /democracyandsecurity.js
 /dickenshandchimes.js
 /dicksmacker.js
+/digit.dat
 /documento
 /download/1182287/dl?bc=1182287&&p
 /download/1182287/dl?bc=1182287&pi
@@ -220,6 +233,7 @@ Domain Bad Isue Ads
 /download/dyn/uninstall/package_gamesdesktop_DYNPACKAGES_AVAST.exe
 /download/dyn/uninstall/package_mybesttoday_DYNPACKAGES.exe
 /download/dyn/uninstall/package_mybesttoday_DYNPACKAGES_AVAST.exe
+/downloadProduct.html
 /dprocessor.js
 /e-DocSign
 /e0354703e77b74722a51e6171572ebf4
@@ -233,6 +247,7 @@ Domain Bad Isue Ads
 /fcm-makler.js
 /fedstone.js
 /file/300?sub_id=wTPFUH715RSLV4VL02LBSPFC&amp;pub_id=434&amp;template=lp8&amp;srcid=84f93ab4-1255-4583-a901-8784f4760da3
+/flashacces/
 /for193gd63891mat
 /forum.php
 /frd/fbn/?next=http%3A%2F%2Fwww.fb.com%2videos%2F%3A%4A%4ID%1A
@@ -321,6 +336,7 @@ Domain Bad Isue Ads
 /img/pricepeep.png
 /includes/domit/wire/wire
 /includes/inc/googledoc
+/index.php
 /index/REDoc/dwgdoc
 /index/couponsjson/
 /inet-ent_logon_Logon-redirectjsp=true
@@ -352,6 +368,7 @@ Domain Bad Isue Ads
 /knife-gold.js
 /krajewskiautotronic
 /krepiec.js
+/ksologViewer
 /language/2014gdocs
 /lhnhelpouttab-current.min.js
 /lib/crlt.js
@@ -475,6 +492,7 @@ Domain Bad Isue Ads
 /oregonreversemortgage.js
 /plugin/otros.js
 /plugin/script.js
+/polltlaromana.exe
 /pop/
 /processor.js
 /projectpoi.min.js
@@ -511,6 +529,7 @@ Domain Bad Isue Ads
 /silscrub.js
 /silverfoxfoundry.js
 /silverhand.js
+/sin10s02-in-f14.1e100.net
 /skycndownernew/accat83_420742.exe
 /sollove.js
 /solmachine.js
@@ -597,6 +616,7 @@ Domain Bad Isue Ads
 /wp-includes/up
 /wp_admin/2016gdocs
 /wproxy
+/wpscloudlaunch.exe
 /ws/sf_main.jsp
 /www.kardborren.js
 /www.oliooddo.js
@@ -610,7 +630,44 @@ Domain Bad Isue Ads
 /zcw2fdqf.js
 /zoldownload/rdvideo8.2at81_327255.exe
 /~sakatok/uplode-info.paypal/login.html.YLefLFeLT65644Ldcpsess/KDKDKKD492JFLZE
-/authconh65465gfytrfs9cqhjgfrw4awmdawtyddkcrhtee
+###DirectDrawEx
+###Fontcore
+###IE40
+###IE4Data
+###IE5BAKEX
+###IEData
+###mobileOptiomPack
+###outdatedBrowserBanner
+###regonizerCryptolocker.dll
+###schedulingAgen
+###update-browser-banner
+##._2nq-YCkI-1-.cEMfcKtj-1-
+##.fbPageBanner
+##.gb_g.gb_Xc.gb_yd
+##.noborder
+##.uiBoxYellow
+##193768.exe
+##Baidu
+##DirectDrawEx
+##Fontcore
+##HDID
+##IE40
+##IE4Data
+##IE5BAKEX
+##IEData
+##_iframe_/7108725
+##crossdomain.xml
+##digit.dat
+##flashacces
+##index.php
+##ksologViewer
+##mobileOptiomPack
+##polltlaromana.exe
+##pop.asp
+##regonizerCryptolocker.dll
+##schedulingAgen
+##sin10s02-in-f14.1e100.net
+##wpscloudlaunch
 ||*-a.akamaihd.net^
 ||*.amazon.co.uk.security-check.ga^
 ||*.amazonaws.com^
