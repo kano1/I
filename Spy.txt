@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Spyware Filter
 
-
 *.blogspot.*/js/cookiechoices.js$script
 .95j8g63f2v1b3n5f6gh32v1c3n1f56
 .buyercentral.discussion-04
@@ -26591,3 +26590,5 @@ zumi.pl###cookieView
 ||zyngapokerchips4free.com^
 ||zz166039.myjino.ru^
 ||zzsbrvzb.info^
+
+!list 26594
