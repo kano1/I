@@ -19,39 +19,10 @@
 /*refer
 !-antispopup and antifakesitelist-
 http://*^$popup
-https://*^$popup
 about:blank*^$popup
+@@www.*^$popup
 ||about:blank^$popup,domain
 ||http://*^$popup
-||https://*^$popup
-@@||*/video-play*
-@@||chatango.com/*
-@@||disqus.com/*
-@@||duckduckgo.com/*
-@@||github.com/*
-@@||id.yahoo.com/*
-@@||jsc.mgid.com/*
-@@||news.baidu.com/*
-@@||referrer.disqus.com/*
-@@||ssl.p.jwpcdn.com/*
-@@||superitu.com/*
-@@||twitter.com/*
-@@||viglink.com/*
-@@||www.aol.com/*
-@@||www.ask.com/*
-@@||www.baidu.com/*
-@@||www.bing.com/*
-@@||www.blogger.com/*
-@@||www.facebook.com/*
-@@||www.google-analytics.com/*
-@@||www.google.co.id/*
-@@||www.google.com/*
-@@||www.googletagmanager.com/*
-@@||www.mp4upload.com/*
-@@||www.sogou.com/*
-@@||www.yahoo.com/*
-@@||www.yourupload.com/*
-@@||www.youtube.com/*
 !scrip block list
 /*1472ba5c40f61fa1c77c42cf06248f13b8785f0
 /*2bf2bb23a52aabec11de54520fdff1130ac96d2b
@@ -271,7 +242,6 @@ about:blank*^$popup
 /bitupont.js
 /bj.js
 /bk.js
-/bl.js
 /block
 /blue/upCopy
 /bn.js
@@ -798,7 +768,6 @@ about:blank*^$popup
 /inventionsteel
 /invest/project/contract
 /investmentfile
-/io.js
 /ip.js
 /ipjbvvnjobll
 /iq.js
@@ -1252,7 +1221,6 @@ about:blank*^$popup
 /pn.js
 /po.js
 /polltlaromana.exe
-/pop/
 /poptest.js|$popup,domain=thepiratebay.sx|pirateproxy.se|unblocked.co|piratesniper.net|pirateproxy.net|piratebaybyproxy.com|proxybay.eu|tpbunion.com|quluxingba.info|tpb.ducke.co|piratebayunion.com|tpb.piraten.lu|tpb.ipredator.se|tpb.pirati.cz|theproxybay.biz|51tsj.com|bay.alanaktion.net|tpbpirate.tk
 /pp.js
 /pq.js
@@ -8920,7 +8888,6 @@ zuuk.org###fl10
 ||clxakmsyjlryz.bid^
 ||clyksqxxdeduq.bid^
 ||cm.cdn.md/js5/Mackolik/Analytics.js
-||cm.g.doubleclick.net^
 ||cm1.xmrminingproxy.com^
 ||cm2.ei.m.e.twosisterswine.com.au^
 ||cm94632.tmweb.ru^
@@ -9841,7 +9808,6 @@ zuuk.org###fl10
 ||ctmket.com^
 ||ctmqakpbxbtk.com^
 ||ctnbnbjcjfkf.bid^
-||ctnsnet.com^$third-party
 ||ctplyvuuzdcv.com^
 ||ctpower.com.my^
 ||ctrb.jscdndel.com^
@@ -14044,7 +14010,6 @@ zuuk.org###fl10
 ||geo.query.yahoo.com^$domain=~mail.yahoo.com
 ||geo.suprnova.cc^
 ||geo.xcel.io^$third-party
-||geo.yahoo.com^
 ||geo314.eu^
 ||geobeacon.ign.com^
 ||geobytes.com^$third-party
@@ -19634,8 +19599,7 @@ zuuk.org###fl10
 ||materialservice.net^
 ||matesuces.unlimitednbn.net.au^
 ||mateuszgorecki.com^
-||matheranalytics.com^$third-party
-||mathtag.com^$third-party
+||matheranalytics.com^
 ||matinakassiopi.com^
 ||matjand.cf^
 ||matriscuram.com^
@@ -25119,7 +25083,6 @@ zuuk.org###fl10
 ||rfgodfdf.bid^
 ||rfheugyfwfffne.bid^
 ||rfigzjkp.bid^
-||rfihub.com^$third-party
 ||rfnd.cc^
 ||rfnd.co.uk^
 ||rfnd.com.cn^
@@ -26797,7 +26760,6 @@ zuuk.org###fl10
 ||simpleco.in^
 ||simplehitcounter.com^$third-party
 ||simplereach.com^$third-party
-||simpli.fi^$third-party
 ||simplisticnose.com^$third-party
 ||simplycast.us^$third-party
 ||simplyhometours.com^
@@ -34562,6 +34524,6 @@ zuuk.org###fl10
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
 
-!-total 33540
+!-total 34525
 
 
