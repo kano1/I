@@ -31,6 +31,7 @@ about:blank*^$popup
 /india*kill
 /india.js
 /*?email=ransomedia@india*
+/*csginst.exe
 /*1472ba5c40f61fa1c77c42cf06248f13b8785f0
 /*2bf2bb23a52aabec11de54520fdff1130ac96d2b
 /*2dac76d4330f671c2a20527d72a8ae74f2c363f7
@@ -2638,15 +2639,6 @@ zuuk.org###fl10
 #@#.afs_ads
 #@#div[itemtype="http://schema.org/WPAdBlock"]
 !-Domain List-
-||hsufwxpdtddlh.com^
-||ipehunxxyir.com^
-||nbvbblmksiahf.com^
-||notifa.info^
-||tfqexqeldxjvet.com^
-||tqixovpneycfmk.com^
-||uwidtpjwh.com^
-||wdjbxcdriyjoeu.com^
-||xsgacudwlysw.com^
 ||*-a.akamaihd.net^
 ||*.aceadsys.net^
 ||*.adsrotator.com^
@@ -3226,6 +3218,7 @@ zuuk.org###fl10
 ||*.jollywallet.co.in^
 ||*.jollywallet.com^
 ||*.jollywallet.in^
+||*.jqfkitrkhpxl.com^
 ||*.kameleoon.eu^
 ||*.kaytri.com.de^
 ||*.kaytri.com^
@@ -3256,6 +3249,7 @@ zuuk.org###fl10
 ||*.kaytrixxke.com^
 ||*.kaytriyoti.top^
 ||*.kingtopdeals.com^
+||*.klmdwvqhi.com^
 ||*.lightquartrate.com^
 ||*.linkbolic.com^
 ||*.linknavi1.com^
@@ -3397,6 +3391,7 @@ zuuk.org###fl10
 ||*.pricejs.net^
 ||*.pricejson.com^
 ||*.pricora.com^
+||*.prpkhpjxghhn.com^
 ||*.rfnd.cc^
 ||*.rfnd.co.uk^
 ||*.rfnd.com.cn^
@@ -3435,6 +3430,7 @@ zuuk.org###fl10
 ||*.rfndzqak.com^
 ||*.rotatemyads.com^
 ||*.rotatemyads.net^
+||*.rswgoccwzs.com^
 ||*.searchassist.ca^
 ||*.searchassist.co.uk^
 ||*.searchassist.co^
@@ -3786,6 +3782,23 @@ zuuk.org###fl10
 ||*.zytradecity.com^
 ||*.zytrader.com^
 ||*.zytraders.com^
+||*adtrustmedia.com^
+||*adtrustmedia.info^
+||*adtrustmedia.net^
+||*adtrustmedia.org^
+||adtrustmedia.com^
+||adtrustmedia.info^
+||adtrustmedia.net^
+||adtrustmedia.org^
+||hsufwxpdtddlh.com^
+||ipehunxxyir.com^
+||nbvbblmksiahf.com^
+||notifa.info^
+||tfqexqeldxjvet.com^
+||tqixovpneycfmk.com^
+||uwidtpjwh.com^
+||wdjbxcdriyjoeu.com^
+||xsgacudwlysw.com^
 ||*/*/wow_widgets.css^
 ||*agcccfehpnnbbkkhbpgigdnhgdicffng*^
 ||000.0x1f4b0.com^
