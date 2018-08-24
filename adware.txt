@@ -24,6 +24,7 @@ about:blank*^$popup
 ||about:blank^$popup,domain
 ||http://*^$popup
 !scrip block list
+/india*kill
 /*1472ba5c40f61fa1c77c42cf06248f13b8785f0
 /*2bf2bb23a52aabec11de54520fdff1130ac96d2b
 /*2dac76d4330f671c2a20527d72a8ae74f2c363f7
