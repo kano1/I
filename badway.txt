@@ -625,6 +625,7 @@ Domain Bad Isue Ads
 @@||www.facebook.com/*
 @@||www.google-analytics.com/*
 @@||www.googletagmanager.com/*
+@@||www.youtube.com/*
 ||*-a.akamaihd.net^
 ||*.amazon.co.uk.security-check.ga^
 ||*.amazonaws.com^
