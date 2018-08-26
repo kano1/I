@@ -2623,6 +2623,7 @@ zuuk.org###fl10
 /*/doc/
 /*.docx
 /*/docx/
+/*.Docs
 /*.exe
 /*/exe/
 ||*.exe^
