@@ -5,7 +5,7 @@
 
 ##[id*="ScriptRoot"]
 ##[id*="ScriptRoot"]*regedit.exe
-##[id*="ScriptRoot"]*cmd.exe
+##[id*="ScriptRoot"]*cmd
 ##[id*="ScriptRoot"]^$script,popup
 .95j8g63f2v1b
 .brokerage
@@ -2632,6 +2632,7 @@ zuuk.org###fl10
 /*.cgi
 /*4d0bee.js
 /*Cookies
+/*/cmd
 /*cookies
 /*document
 /*refer
