@@ -2636,9 +2636,10 @@ zuuk.org###fl10
 /*cookies
 /*document
 /*refer
-/*refer*^$popup
 http://*^$popup
-about:blank*^$popup
+http://*$popup
+||http://*^$popup
+||http://*$popup
 /*document
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
