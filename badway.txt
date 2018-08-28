@@ -2643,7 +2643,6 @@ zuuk.org###fl10
 /*cookies
 /*document
 /*refer
-/*refer*^$popup
 http://*^$popup
 http://*$popup
 /*document
@@ -5032,9 +5031,6 @@ http://*$popup
 ||amazon.com^*/impress.html
 ||amazon.update.payment.billing.restore.com.gameoflovez.info^
 ||amazonamzo.temp.swtest.ru^
-||amazonaws.com/?wsid=
-||amazonaws.com/ki.js/
-||amazonaws.com/pixelpop/app/pixelpop-
 ||amazonhealthdsouza.com^
 ||amazoniatouriquitos.com^
 ||amazonrefundpaypay.com^
