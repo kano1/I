@@ -18,7 +18,10 @@
 /*717e7c04c217eeb7d806cfc1592c3312aebeb151
 /*92777f72a23191626077b85f85fb3465cf81aa8c
 /*?cmd=login_submit
+/*?email=ads@india.com
 /*?email=Ransomed@india.com
+/*?email=Ransomedia@india.com
+/*?email=Troj@india.com
 /*c6600e419b04d3b6bf6c4d400881cb18394c2ddc
 /*c79df45bc1766f6e57dcabdc5760ae65aa12d069
 /*cc8d5b46a8923bdbe730663453df13f7155ff282
@@ -143,7 +146,7 @@
 /NY
 /Nfe-nota/Nota_Fiscal_n201507349872391292001_PDF.zip
 /OF5
-/Om5vbmU7Ym9yZGVyLXRvcDpub25lO2JvcmRlci1ib3R0b206bm9uZTsiPjx0YWJsZSBjZWxsc3Bh/1e6370fc990575c97447a0189737488c4de754248c196c85ee4fbdcee89179bd/index/3a0e54d318c1e8f86c7ed31c1f9bf26b
+/Om5vbmU7
 /Redirection.php
 /Scripts/gsd.js
 /Sparks/Xtramail.html
@@ -850,6 +853,7 @@
 /invest/project/contract
 /investmentfile
 /ip.js
+/ip*.js
 /ipjbvvnjobll
 /iq.js
 /ir.js
@@ -885,7 +889,7 @@
 /jan.js
 /jb.js
 /jc.js
-/jclck^$third-party
+/jclck
 /jd.js
 /je.js
 /jf.js
