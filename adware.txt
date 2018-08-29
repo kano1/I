@@ -2796,7 +2796,6 @@ zuuk.org###fl10
 /*Cookies
 /*cookies
 /*document
-http://*^$popup
 ||*-a.akamaihd.net^
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
@@ -16544,7 +16543,6 @@ http://*^$popup
 ||httpp.gdn^
 ||https-security-update.info^
 ||https-security.org^
-||https://*^$popup
 ||httpswww.coinimp.com^
 ||httpwww.crypto-webminer.com^
 ||huabaoagency.com^
