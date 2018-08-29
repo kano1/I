@@ -2824,7 +2824,13 @@ http://*^$popup
 ||*.akamaitechnologies.com^
 ||*.akubebas.com^
 ||*.amazon.co.uk.security-check.ga^
-||*.amazonaws.com^
+||*.amazonaws.com^$popup
+||*.amazonaws.com/*.pdf^
+||*.amazonaws.com/*cmd^
+||*.amazonaws.com/*regedit^
+||*.amazonaws.com/*adebe^
+||*.amazonaws.com/*.js^
+||*.amazonaws.com/*.exe^
 ||*.apollocdn.cc^
 ||*.best-deals-products.com^
 ||*.bestpriceninja.com^
