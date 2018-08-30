@@ -639,7 +639,6 @@
 /gd/d9d27007d75ceb5f60bdf052b83c0d28
 /gd/f7a02edbb9a08c0add05ddc20f1966f3
 /ge.js
-/get.php
 /getads.js$domain=gamecopyworld.com|gamecopyworld.eu
 /gf.js
 /gg.js
