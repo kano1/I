@@ -58,7 +58,6 @@
 ||*.angelswithdirtyfacesuk.com^
 ||*.anime-mp3.com^
 ||*.apollocdn.cc^
-||*.appple.com^
 ||*.artchoo.com^
 ||*.artcityworldwide.com^
 ||*.ashadee.net^
@@ -1098,7 +1097,6 @@
 ||*.zytradecity.com^
 ||*.zytrader.com^
 ||*.zytraders.com^
-||*/*/wow_widgets.css^
 ||*000webhostapp.com^
 ||*5bears.com^
 ||*adultforumhost.com^
