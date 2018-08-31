@@ -1,4 +1,4 @@
- / [Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: Adware Filter Block
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public / ads that are exploited by hackers / suspicious --
