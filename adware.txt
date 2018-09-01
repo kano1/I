@@ -10,7 +10,7 @@
 /*.docx
 /pdf
 !## the problem that you most fear when pressing the play button on the video If you want to go there u ned copy link adres and paste 
-!## some people must have known the of this domain more than 20 million sites exist Malvertising and you block the 00,2% of suspicious
+!## some people must have known the of this domain more than 20 million sites exist Malvertising
 ||*.autoconfig.cryptominingpool.eu^
 ||*.autoconfig.ditcoin.io^
 ||*.autocopiative.ro^
