@@ -11,7 +11,7 @@
 /pdf
 !## the problem that you most fear when pressing the play button on the video If you want to go there u ned copy link adres and paste 
 http://$popup
-!## some people must have known the of this suspicious domain
+!## some people must have known the of this suspicious domain more than 20 million sites exist Malvertising and you block the 20% list
 ||*.autoconfig.cryptominingpool.eu^
 ||*.autoconfig.ditcoin.io^
 ||*.autocopiative.ro^
@@ -35819,6 +35819,4 @@ http://$popup
 ||zzwzjidz.bid^
 
 ! total list 35.821 
-
-
 
