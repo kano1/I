@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter Block
 ! Homepage: https://github.com/kano1/I/master/adware.txt
-!-- list for bad isueads for public / ads that are exploited by hackers
+!-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
 !## if you don't want to be affected by malware, please do it manually for this type of file 
 /*.exe
@@ -10,7 +10,6 @@
 /*.docx
 /pdf
 !## the problem that you most fear when pressing the play button on the video If you want to go there u ned copy link adres and paste 
-http://$popup
 !## some people must have known the of this domain more than 20 million sites exist Malvertising and you block the 00,2% of suspicious
 ||*.autoconfig.cryptominingpool.eu^
 ||*.autoconfig.ditcoin.io^
@@ -14246,6 +14245,7 @@ http://$popup
 ||hotwirestatic.com/*/comp/gtm/googletaganalytics.js
 ||houmpage.com^
 ||housedeeds.000webhostapp.com^
+||http://$popup
 ||housefisr.tk^
 ||houseofbran.com^
 ||houseoflife.com.au^
@@ -35630,5 +35630,4 @@ http://$popup
 ||zzwzjidz.bid^
 
 ! total list 35.632
-
 
