@@ -24653,7 +24653,6 @@
 ||realladrilhos.com^
 ||realnetwrk.com^
 ||realtime.ru^
-||realtime.services.disqus.com
 ||realty.directa.ru^
 ||realwebinfo.su^
 ||reasedoper.pw^
@@ -28791,7 +28790,7 @@
 ||tarasixz.beget.tech^
 ||tarawandashe.tk^
 ||target.ukr.net^
-||targetfuel.com^$third-party
+||targetfuel.com^
 ||targeting.wpdigital.net^
 ||targetwebpro.su^
 ||tarih.gen.tr^
