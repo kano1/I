@@ -2693,7 +2693,6 @@
 ||analytics.vesti-ukr.com^
 ||analytics.vooxe.com^
 ||analytics.xyscdn.com^
-||analytics.yahoo.com^
 ||analyticsnew.overwolf.com^
 ||analyticswizard.com^$third-party
 ||analytk.com^$third-party
@@ -13165,7 +13164,6 @@
 ||googlepetkavanis4.pw^
 ||googlepf.altervista.org^
 ||googlerank.info^$third-party
-||googlesyndication.com/safeframe/$third-party
 ||googletagmanager.com/gtm.js$script,domain=20minutes.ch|20min.ch
 ||goohuu.com^
 ||gooo.al/$third-party
@@ -35651,5 +35649,8 @@
 ||zzwzjidz.bid^
 
 ! total list 35.632
+
+
+
 
 
