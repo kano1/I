@@ -13159,8 +13159,6 @@
 ||google-pr7.de^$third-party
 ||google-rank.org^$third-party
 ||google.poultrymiddleeast.com^
-||googleanalytcs.com^
-||googleapis.com^*/gen_204?
 ||googlepetkavanis4.pw^
 ||googlepf.altervista.org^
 ||googlerank.info^$third-party
