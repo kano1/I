@@ -5775,7 +5775,6 @@
 ||c.adroll.com^$third-party
 ||c.adsco.re^
 ||c.bigmir.net$third-party
-||c.bing.com/c.gif
 ||c.gazetevatan.com^
 ||c.hit.ua^$third-party
 ||c.imedia.cz/js/scripts.js$script,domain=rychlost.cz
@@ -6772,7 +6771,6 @@
 ||clickshift.com^$third-party
 ||clickstream.co.za^$third-party
 ||clickstream.grubhub.com/event.gif?event=
-||clicktale.net^$third-party
 ||clicktrack1.com^$third-party
 ||clicktrackerfast.pro^
 ||clicktracks.com^$third-party
@@ -8819,7 +8817,6 @@
 ||dem.thecoin.pw^
 ||demandbase.com^$third-party
 ||demandware.edgesuite.net/*/dwanalytics.js
-||demdex.net^$third-party
 ||demechi.biz^
 ||dementfamily.com^
 ||demeter.pt^
@@ -10210,7 +10207,6 @@
 ||ennwwuxijwjgdm.bid^
 ||enquisite.com^$third-party
 ||enricomigliorini.com^
-||ensighten.com^$third-party
 ||ent-api.sandbox.coinbase.com^
 ||ent7.fc-training.co.uk^
 ||entecke.com^
@@ -12994,7 +12990,6 @@
 ||gnpispdirdbddsk.myfreesites.net^
 ||gnrdomimplementation.com^
 ||gnta.ge^
-||go-mpulse.net^$third-party
 ||go.bestmobiworld.com^
 ||go.com/b/ss/
 ||go.cur.lv^
@@ -31425,7 +31420,6 @@
 ||voodooalerts.com^$third-party
 ||voot.suprnova.cc^
 ||voronezh7.ru^
-||vortex.data.microsoft.com/collect
 ||vortex.hulu.com/*/events|
 ||vot.ehashcoins.org^
 ||vot.pool.sexy^
@@ -32760,8 +32754,8 @@
 ||worldagriculturalheritage.com^
 ||worldasmelledegood.tk^
 ||worldcinemainc.com^
-||worldgravity.com^$third-party
-||worldlogger.com^$third-party
+||worldgravity.com^
+||worldlogger.com^
 ||worldonsearch.com^
 ||worldrem-1.nichost.ru^
 ||worldremit.nichost.ru^
@@ -32773,8 +32767,7 @@
 ||wotilhqoftvl.com^
 ||wouldamore.tk^
 ||wouohsiujvmi.pw^
-||wow-impulse.net/track/
-||wowanalytics.co.uk^$third-party
+||wowanalytics.co.uk^
 ||wown.suprnova.cc^
 ||woyomalinne.gq^
 ||woyongantou2212.000webhostapp.com^
@@ -35623,4 +35616,3 @@
 ||zzwzjidz.bid^
 
 ! total 35.625
-
