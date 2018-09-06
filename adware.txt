@@ -10,7 +10,6 @@
 /*.docx
 /pdf
 !## some people must have known the of this domain more than 20 million sites exist Malvertising
-||*-a.akamaihd.net^
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
 ||*.adsrotator.com^
@@ -32,9 +31,6 @@
 ||*.akamaihd.pw^
 ||*.akamaihd.ru^
 ||*.akamaihd.se^
-||*.akamaihd.site^
-||*.akamaihd.stream^
-||*.akamaihd.website^
 ||*.akamaihd1.net^
 ||*.akamhd-neteller.com^
 ||*.akamhd.cn^
@@ -2245,7 +2241,6 @@
 ||akamaihd.com^
 ||akamaihd.de^
 ||akamaihd.live^
-||akamaihd.ne^
 ||akamaihd.net/a24/gsd.html
 ||akamaihd.net/a24/scripts/gsd.js
 ||akamaihd.net/items/e6a00/storage.swf
@@ -11502,7 +11497,6 @@
 ||felanco.heliohost.org^
 ||felceconserve.com^
 ||felicesfiestas.com.mx^
-||felix.data.tm-awx.com^$third-party
 ||felixsolis.mobi^
 ||fellowexplain.net^
 ||female-focus.com^
@@ -20834,7 +20828,6 @@
 ||netdebit-counter.de^$third-party
 ||netempresarialsa.com^
 ||netflame.cc^$third-party
-
 ||netflix.com/*/log|
 ||netflix.com/track/
 ||netflix.com/uitracking/
@@ -35615,4 +35608,3 @@
 ||zzwzjidz.bid^
 
 ! total 35.625
-
