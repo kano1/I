@@ -20832,10 +20832,9 @@
 ||netcounter.de^$third-party
 ||netcustos.com^$third-party
 ||netdebit-counter.de^$third-party
-||netdna-ssl.co^
-||netdna-ssl.com^
 ||netempresarialsa.com^
 ||netflame.cc^$third-party
+
 ||netflix.com/*/log|
 ||netflix.com/track/
 ||netflix.com/uitracking/
@@ -35616,3 +35615,4 @@
 ||zzwzjidz.bid^
 
 ! total 35.625
+
