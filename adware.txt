@@ -3800,8 +3800,7 @@
 ||averoconnector.com^
 ||aviagro.com^
 ||aviatechgoa.com^
-||avinfo.co/i/chromavinfo.jpg
-||avira.com/images/content/avira-offers/
+||avinfo.co^
 ||aviso.bbacessomovel.com^
 ||avitec.com.mx^
 ||avitya.ru^$domain=pronpic.org
