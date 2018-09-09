@@ -9794,24 +9794,21 @@
 ||dotslifescience.com^
 ||douangvwl.com^
 ||double8.me^
-||doubleclick.net/activity$third-party
-||doubleclick.net/imp%$third-party
-||doubleclick.net/imp;$third-party
-||doubleclick.net/json?$third-party
-||doubleclick.net/pixel?$third-party
-||doubleclick.net^$image,third-party
-||doubleclick.net^*/trackimp/$third-party
 ||doubleclick1.xyz^
 ||doubleclick2.xyz^
 ||doubleclick3.xyz^
 ||doubleclick4.xyz^
 ||doubleclick5.xyz^
 ||doubleclick6.xyz^
-||doublepimp.com/Scripts/Analytics/
-||doubtfulrainstorm.com^$third-party
-||doupe.zive.cz/Client.Scripts/jquery.onp.sociallocker.1.7.6.js$script
+||doublecick.net^
+||doubleclck.net^
+||doubleluck.net^
+||doublelick.net^	
+||doublepimp.com
+||doubtfulrainstorm.com^
+||doupe.zive.cz^
 ||douploads.com/mngez/music/
-||dove.com*/Assets/JS/udm.js
+||dove.com*^
 ||dovltuzibsfs.com^
 ||down.down0116.info^
 ||down.my0115.ru^
@@ -38671,5 +38668,7 @@
 ||zzwzjidz.bid^
 
 ! total 38.673
+
+
 
 
