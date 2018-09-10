@@ -18147,9 +18147,6 @@ zuuk.org###fl10
 ||htrprrrtrwrc.com^
 ||hts.youbit.co.kr^
 ||httftlckaxj.com^
-||http://*^$popup
-||http://tinypic.com/^
-||http://www.nuesearch.com^
 ||httpp.gdn^
 ||https-security.org^
 ||https-security-update.info^
@@ -41630,5 +41627,4 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 !total 41.630
-
 
