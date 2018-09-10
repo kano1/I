@@ -4326,8 +4326,6 @@ zuuk.org###fl10
 ||3gl.net/$third-party
 ||3gl.net^$third-party
 ||3jmcwio.com^
-||3sat.de/mediaplayer/*/plugins/IVWTrackingPlugin.swf
-||3sat.de/mediathek/xmlservice/web/tracking
 ||3templequay.co.uk0^
 ||404error.earthspiritenergies.com^
 ||40nuggets.com^$third-party
@@ -4340,11 +4338,9 @@ zuuk.org###fl10
 ||4advice-interactive.be^
 ||4globalcorp.com^
 ||4i7i.com^
-||4jnzhl0d0.com^$third-party
-||4oney.com^$third-party
+||4jnzhl0d0.com^
+||4oney.com^
 ||4pda.ru/stat/ztm
-||4players.de^
-||4shared.com^
 ||4stats.de^
 ||5.9.183.69^
 ||500escorts.com^
@@ -13513,7 +13509,6 @@ zuuk.org###fl10
 ||emarkpool.poolmining.net^
 ||emasgxd.net^
 ||embed.doorbell.io^$third-party
-||embed.sendtonews.com/player2/data_logging.php?
 ||embed.tawk.to^$third-party
 ||embed.videosdemadurasx.com/js/u_hits_control.js
 ||embeddedanalytics.com^$third-party
@@ -27558,7 +27553,6 @@ zuuk.org###fl10
 ||phlslvetboouo.bid^
 ||phmglobal.com.ar^
 ||phming8f.beget.tech^
-||phoenix.de/php/mediaplayer/conf/tracking_
 ||phoenixcoin.miningpoolhub.com^
 ||phoenixcoin.org^
 ||phoenixlightings.com^
@@ -27788,7 +27782,6 @@ zuuk.org###fl10
 ||platinumclub.net^
 ||playbetshere.com^
 ||playcamping.gtz.kr^
-||player-feedback-mds.glomex.com^
 ||playout.3qsdn.com/watchtime?event=
 ||playtopus.com^
 ||plcsedkinoul.com^
@@ -31240,7 +31233,6 @@ zuuk.org###fl10
 ||sender.contentjs.com^$popup
 ||senderous.5gbfree.com^
 ||sendinblue.hitbtc.com^
-||sendtonews.com/player/loggingajax.php?
 ||sendtraffic.com^$third-party
 ||sendyoure.tk^
 ||senfvsdvtsn.com^
@@ -31490,7 +31482,6 @@ zuuk.org###fl10
 ||sfc.suprnova.cc^
 ||sfcckxdgfgzo.com^
 ||sf-download.com/^
-||sfera.fm/js/site/bannerPlayer.js
 ||sfgymajb.bid^
 ||sfhyxyodjllrd.bid^
 ||sfmzbrdtse.com^
@@ -32026,7 +32017,6 @@ zuuk.org###fl10
 ||slg.coin-miners.info^
 ||slgcheqbrmu.bid^
 ||slices-ices.com^
-||slideplayer.biz.tr/slide/getviewscount/
 ||slidescarnival.pw^
 ||slimdrmast.5gbfree.com^
 ||sling.suprnova.cc^
@@ -32440,7 +32430,6 @@ zuuk.org###fl10
 ||spiegel.de/nm_trck.gif?
 ||spiegel.tv/geoip/geoip.json
 ||spiegel-schrank.eu^
-||spieletipps.de/js/jwplayer/plugins/tracking-min.js
 ||spigot.app^
 ||spigot.biz^
 ||spigot.blog^
@@ -33395,7 +33384,6 @@ zuuk.org###fl10
 ||submitnet.net^$third-party
 ||subojccliw.com^
 ||subordinate-custom.000webhostapp.com^
-||subpixel.4players.de
 ||subscribe.ru/stat/$third-party
 ||subscriptions.rambler.ru^$domain=gazeta.ru|rns.online
 ||subtraxion.com^$third-party
@@ -36520,7 +36508,6 @@ zuuk.org###fl10
 ||video.golem.de$replace=/autoPl:\s"true"/autoPl:"false"/,important,~script,~stylesheet,~xmlhttprequest
 ||video.oms.eu^$third-party
 ||video.rb-webdev.de^
-||video.steamstatic.com/*/stats/playerevent/?
 ||video.stream.vidzi.tv^
 ||video.streaming.estream.to^
 ||video.videos.vidto.me^
@@ -36528,7 +36515,6 @@ zuuk.org###fl10
 ||video-ad-stats.googlesyndication.com^
 ||videodroid.org/vip/adblockcheck.js$script
 ||videogamesblogger.com/javascripts/interstitial.client.js
-||videoplayer2.xyz^
 ||videopokerwhiz.com^
 ||videos.giga.de/*/tracking
 ||videos.oms.eu^$third-party
@@ -36548,7 +36534,6 @@ zuuk.org###fl10
 ||vieri-style.com^
 ||vietactivegroup.com^
 ||vietshock22.com^
-||view.vzaar.com/*/player$domain=filehippo.com
 ||viewar.org^$third-party
 ||viewhand.net^
 ||view-icloud.info^
@@ -39639,7 +39624,6 @@ zuuk.org###fl10
 ||www3.2giga.link^
 ||www3.a-ads.com^
 ||www4.2giga.link^
-||www49.playercdn.net^
 ||www5.2giga.link^
 ||www6.2giga.link^
 ||www7.2giga.link^
@@ -41644,3 +41628,7 @@ zuuk.org###fl10
 ||zzqwaxxybf.info^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
+
+!total 41.630
+
+
