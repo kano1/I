@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/_unLX9rujMA4
 /aS/feedcl
 /(X(1)S(wkufcsdfr
 /*1472ba5c40f61fa1c77c42cf06248f13b8785f0
@@ -31,9 +32,6 @@
 /.well-known/*/signin/
 /.well-known/pki-validation/excel.php
 /.workwork/.press/docgg
-/aff_c*$popup
-/28ae*$popup
-/ehc25*$popup
 /02bjJBHDs
 /0Ff6aLZ
 /0G6r8t4vWcy
@@ -50,6 +48,7 @@
 /2L5pGE.exe
 /2fYCpH
 /2lfqdjx71ir8
+/28ae*$popup
 /300d215614243499001f04e3a899dd80
 /31/4c/34/
 /333480ad3beafd2e6be41a1e311cc428
@@ -238,6 +237,7 @@
 /ae.js
 /af.js
 /affiliate/client?
+/aff_c*$popup
 /ai.js
 /aj.js
 /ak.js
@@ -355,6 +355,7 @@
 /bv.js
 /bx.js
 /by.js
+/byt.js
 /bz.js
 /c-hive.js
 /c.js
@@ -553,6 +554,7 @@
 /dp/box/dropboxx
 /dp/box/dropboxx/
 /dprocessor.js
+/dprb.js
 /dq.js
 /dr.js
 /dropboxs/spacebox
@@ -596,6 +598,7 @@
 /eg.js
 /egWoJQR
 /eh.js
+/ehc25*$popup
 /ei.js
 /ej.js
 /ek.js
@@ -854,7 +857,6 @@
 /ian.js
 /ib.js
 /ic.js
-/id.js
 /identify-customer=3KyLyRTvbpm4
 /identify-customer=poh95COYIAA
 /ie.js
@@ -904,10 +906,6 @@
 /includes/inc/documen/trologer.js
 /includes/inc/documen/webminer.js
 /includes/inc/documen/win/trool.js
-/index.htm
-/index.html
-/index.php
-/index.php?email
 /index/REDoc/dwgdoc
 /index/couponsjson/
 /india*.exe
@@ -1053,6 +1051,7 @@
 /ksp.js
 /kt.js
 /ku.js
+/kui.js
 /kv.js
 /kx.js
 /ky.js
@@ -1273,6 +1272,7 @@
 /nh.js
 /ni.js
 /nj.js
+/njd.js
 /nk.js
 /nl.js
 /nn.js
@@ -1561,6 +1561,7 @@
 /setcoop.js
 /sf.js
 /sfp.js
+/sfs.js
 /sg.js
 /sh.js
 /show?
@@ -3674,6 +3675,7 @@ zuuk.org###fl10
 ||*.markabley.com^
 ||*.matrixinner.net^
 ||*.mosyxlbn.men^
+||*.mybestmv.com^$popup
 ||*.mzcdn.co.uk^
 ||*.mzcdn.com^
 ||*.mzcdntest.com^
@@ -4581,6 +4583,7 @@ zuuk.org###fl10
 ||abogadru.beget.tech^
 ||aboukangaz.com^
 ||about.coinfirm.io^
+||about:blank^$popup
 ||aboutsamdyer.com^
 ||abovefinecars.ca^
 ||abpretail.com^
@@ -4757,6 +4760,7 @@ zuuk.org###fl10
 ||actyvos.com^
 ||acusticamcr.cl^
 ||acutlisation-i.com^
+||acvxsptoqh.com^
 ||acwswfbyhtsf.com^
 ||acxiom-online.com^
 ||acxoin.com^
@@ -5069,6 +5073,7 @@ zuuk.org###fl10
 ||agentinteractive.com^$third-party
 ||agffa.co.agffa.co^
 ||agffpcpi.bid^
+||agfqcndiugnr.com^
 ||agfwzptrqb.bid^
 ||aggiornamento57586546464.altervista.org^
 ||aggntknflhal.com^
@@ -5083,6 +5088,7 @@ zuuk.org###fl10
 ||agnznxaqd.com^
 ||agospkfp.bid^
 ||agpnzrmptmos.com^
+||agqguxbm.com^
 ||agrasainschool.com^
 ||agregate-cariera.ro^
 ||agricom.it^
@@ -6522,6 +6528,7 @@ zuuk.org###fl10
 ||atatus.com^$third-party
 ||ataufekxogxr.com^
 ||atcyboopajyp.com^
+||atczxgxuxloqf.com^
 ||atdarquitectura.cat^
 ||atdbio.com^
 ||atdmt.com^$third-party
@@ -7491,6 +7498,7 @@ zuuk.org###fl10
 ||begbkbqywd.bid^
 ||beghfkrygvxp.com^
 ||beginsucceed.net^
+||begnsbnjegnolq.com^
 ||begnsbnjegnolq.com^
 ||begxhuqfrx.bid^
 ||behavioralengine.com^$third-party
@@ -8749,6 +8757,7 @@ zuuk.org###fl10
 ||btsimocheozy.bid^
 ||btstatic.com^$third-party
 ||btttag.com^$third-party
+||bturlzbakbcsdd.com^
 ||btv.coin-miners.info^
 ||btvacortinentales.com^
 ||btvdzlkg.bid^
@@ -8771,6 +8780,7 @@ zuuk.org###fl10
 ||bufqrxzyrecf.com^
 ||bugherd.com^$third-party
 ||bugsnag.com^$third-party
+||bugwiqivdqotjk.com^
 ||bugwiqivdqotjk.com^
 ||buhwfdo.net^
 ||buhxsaifjxupaj.com^
@@ -10103,6 +10113,7 @@ zuuk.org###fl10
 ||cloud-wp.org^
 ||cloudzad.com^
 ||cloverisland.co.nz^
+||clsvugmivpf.com^
 ||clt.coin-miners.info^
 ||clu.epool.io^
 ||club.nocroom.com^
@@ -10149,6 +10160,7 @@ zuuk.org###fl10
 ||cmptch.com^$third-party
 ||cmqeojydveotb.bid^
 ||cmqyhtqkhduy.com^
+||cmrppltjs.com^
 ||cmrxvyjyaerf.com^
 ||cms.btcchina.com^
 ||cms.lv^$third-party
@@ -10784,6 +10796,7 @@ zuuk.org###fl10
 ||corpservsol.latitudes-sample.com^
 ||cortxphssdvc.com^
 ||corylus.com.au^
+||coshfgpgab.com^
 ||cosigner.electrum.org^
 ||coskunlargroup.com.tr^
 ||cosless.com^
@@ -11329,6 +11342,7 @@ zuuk.org###fl10
 ||csdata1.com^$third-party
 ||csdqikvba.bid^
 ||csgocpu.com^
+||cshzkkihjnweb.com^
 ||csi-tracking.com^
 ||cslfayetteville.org^
 ||cslxhmchzgbx.com^
@@ -11488,6 +11502,7 @@ zuuk.org###fl10
 ||cybzsdkmrqgy.com^
 ||cyc.suprnova.cc^
 ||cyg2016.xyz^
+||cyhcpeprgy.com^
 ||cylimen.com^
 ||cy-m0ld.com^
 ||cymuxbcnhinm.com^
@@ -12920,6 +12935,7 @@ zuuk.org###fl10
 ||dtnzlmwgujhgmj.bid^
 ||dtosduecka.com^
 ||dtpictvzcqqm.bid^
+||dtqcjtkytuqn.com^
 ||dtron.suprnova.cc^
 ||dtrwlquawlp.com^
 ||dtscout.com^$third-party
@@ -13284,6 +13300,7 @@ zuuk.org###fl10
 ||egaagb.toptradewebb.su^
 ||egbmbdey.net^
 ||egc.suprnova.cc^
+||egcocjwpzqsa.com^
 ||egcsbdrj.com^
 ||egem.p00l.org^
 ||egift-gamerooms.000webhostapp.com^
@@ -13479,6 +13496,7 @@ zuuk.org###fl10
 ||eltonjohncover.com.br^
 ||eltorneiro.es^
 ||eluhhfyxx.com^
+||elvfmxguozafu.com^
 ||elvirvln.com^
 ||elwbhndbxfqk.com^
 ||elwwxuigpk.bid^
@@ -14469,6 +14487,7 @@ zuuk.org###fl10
 ||ewfqiogowyou.com^
 ||ewgtanybkkch.com^
 ||ewkcvym.com^
+||ewlnukukkca.com^
 ||ewopxadcn.com^
 ||ewpqmptpavn.com^
 ||ewsawnbf.com^
@@ -15995,7 +16014,9 @@ zuuk.org###fl10
 ||fyreball.com^$third-party
 ||fyxuxfte.bid^
 ||fyyvyo.biz^
+||fyyyyppk.com^
 ||fz.coinmine.pl^
+||fzbnuyjgyexs.com^
 ||fzccvcrsbtb.com^
 ||fzcgtfyn.bid^
 ||fzcgugzx.bid^
@@ -16235,6 +16256,7 @@ zuuk.org###fl10
 ||gdrural.com.au^
 ||gduubghr.bid^
 ||gdvca.co.za^
+||gdyelbwku.com^
 ||ge.suprnova.cc^
 ||geazikjazoid.com^
 ||geberitmarket.by^
@@ -16385,6 +16407,7 @@ zuuk.org###fl10
 ||gfsindia.biz^
 ||gft2.de^$third-party
 ||gfuhjlpnuj.com^
+||gfuhjlpnuj.com^
 ||gfx.radiozet.pl/*/module/cookie.js^
 ||ggagqobykjh.com^
 ||ggbfbseakyqv.com^
@@ -16396,6 +16419,7 @@ zuuk.org###fl10
 ||gghepxqsga.com^
 ||gghhzzllakjm.bid^
 ||ggiedxfk.com^
+||ggijrjktcld.com^
 ||ggjsegnbriqhnz.com^
 ||ggnabmvnwphu.com^
 ||ggngbgccubvf.com^
@@ -16514,6 +16538,7 @@ zuuk.org###fl10
 ||gjwqxjqdvtldbh.bid^
 ||gjxdddludlbfuwdnvtfrl.pro^
 ||gjxdibyzvczd.com^
+||gkaatcjxwa.com^
 ||gkblyvnioxpd.com^
 ||gkcmxcbmcieykc.com^
 ||gkeahnmvduys.com^
@@ -16906,6 +16931,7 @@ zuuk.org###fl10
 ||gptkueuaseyut.com^
 ||gptoleeekac.bid^
 ||gpu.suprnova.cc^
+||gpzywrsrcr.com^
 ||gqlaoeyczxsvk.com^
 ||gqlqgmiahdtoyl.bid^
 ||gqmrdezduagsqi.com^
@@ -17457,6 +17483,7 @@ zuuk.org###fl10
 ||hathick.info^
 ||hattifkklbo.bid^
 ||hauteplum.com^
+||hauvkkwrbme.com^
 ||haveamint.com^$third-party
 ||haven.hashvault.pro^
 ||haven.pool.nocroom.com^
@@ -17499,6 +17526,7 @@ zuuk.org###fl10
 ||hbvhahzjh.bid^
 ||hbvnnwtoonhh.com^
 ||hbycvbyyj.com^
+||hbycvbyyj.com^
 ||hbzfhzpd.bid^
 ||hbzzkwsuaooc.com^
 ||hc.uralweb.ru^$third-party
@@ -17512,6 +17540,7 @@ zuuk.org###fl10
 ||hcn.cryptopool.pro^
 ||hcn.hashmining.online^
 ||hcomet.duckdns.org^
+||hcqjgkpg.com^
 ||hcrsxbke.com^
 ||hctcdmqp.com^
 ||hctyuqi.com^
@@ -17728,6 +17757,7 @@ zuuk.org###fl10
 ||hihe110.com^
 ||hihyunxtiuqhhm.bid^
 ||hiijos.5gbfree.com^
+||hiitwzyvkdyvxn.com^
 ||hijrahcoach.co.id^
 ||hijvwwbnbhb.bid^
 ||hikarishop.com.vn^
@@ -17898,6 +17928,7 @@ zuuk.org###fl10
 ||hnopgrab.com^
 ||hnoscaudevilla.com^
 ||hnqnftzzytjl.com^
+||hnregzjxsafu.com^
 ||hnstqvza.com^
 ||hntpbpeiuajc.com^
 ||hnuhqaslqaqtb.bid^
@@ -18270,6 +18301,7 @@ zuuk.org###fl10
 ||hxbvbmxv.com^
 ||hxcoxdyzzd.com^
 ||hxhabfjy.bid^
+||hxhyejtblmu.com^
 ||hxiijnmyvumn.com^
 ||hxiudgq.net^
 ||hxkanryhktub.com^
@@ -18356,6 +18388,7 @@ zuuk.org###fl10
 ||iaokllaabettingk.com^
 ||iaoyikwmocuvr.com^
 ||iasdas.com.au^
+||iatwyqgvpq.com^
 ||iaufnehmen.net^
 ||iautocura.comp^
 ||iauvabogtws.bid^
@@ -18449,6 +18482,7 @@ zuuk.org###fl10
 ||icecreamoutof.tk^
 ||icerockmining.io^
 ||icetheydabrought.tk^
+||icfxndxwpan.com^
 ||icgakpprechm.com^
 ||ichinose.de^
 ||ichnaea.netflix.com^$third-party
@@ -18570,6 +18604,7 @@ zuuk.org###fl10
 ||idvuakamkzmx.com^
 ||idwxuluiqcbh.org^
 ||ie3wisa4.com^
+||ie8eamus.com^
 ||ieajwbir.com^
 ||ieavcqhxtpak.com^
 ||iebnsqfwfhl.bid^
@@ -19846,6 +19881,7 @@ zuuk.org###fl10
 ||jhshxbv.com^
 ||jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com^
 ||jhwqdpyo.bid^
+||jhxpbihkucrq.com^
 ||jhylgkwsz.bid^
 ||jhyrgfit.xyz^
 ||jhyrglab.xyz^
@@ -19915,6 +19951,7 @@ zuuk.org###fl10
 ||jkpdxsqpyl.bid^
 ||jktbpq.com^
 ||jkuuoecpgecwla.com^
+||jkvkhgztow.com^
 ||jkxzawjvp.bid^
 ||jkywbooyc.com^
 ||jlaabpmergjoflssyg.com^
@@ -20080,6 +20117,7 @@ zuuk.org###fl10
 ||jpncpftyxliq.com^
 ||jpnudjqejbpx.bid^
 ||jpqmviofsf.com^
+||jpqmviofsf.com^
 ||jprtqxwhtrjejx.com^
 ||jp-stratum.btcc.com^
 ||jpuiucicqwan.com^
@@ -20167,6 +20205,7 @@ zuuk.org###fl10
 ||jsonip.com^$third-party
 ||jsouzizcu.net^
 ||jsqkdani.com^
+||jssvpkuq.com^
 ||jstracker.com^$third-party
 ||jsvesobtbajb.bid^
 ||js-webt-lol.9cache.com/piwik
@@ -20251,10 +20290,12 @@ zuuk.org###fl10
 ||jveqvr.info^
 ||jvffngzl.com^
 ||jvhdxosisifv.com^
+||jvkhhxwcnijvmf.com^
 ||jvmuayuilxn.com^
 ||jvnubhidaev.bid^
 ||jvnvvuveozfi.com^
 ||jvodizomnxtg.com^
+||jvqbbfrg.com^
 ||jvrbjipsyyc.bid^
 ||jvriybgxne.com^
 ||jvsvet.com^
@@ -20367,6 +20408,7 @@ zuuk.org###fl10
 ||kanour.com^
 ||kanumjaka-paranna.tk^
 ||kanvascases.com^
+||kaojrivmhys.com^
 ||kaospolosdiora.co.id^
 ||kapsonsexclusive.com^
 ||kaptancyber.duckdns.org^
@@ -20486,6 +20528,7 @@ zuuk.org###fl10
 ||kceikbfhsnet.com^
 ||kceptbgdczkd.bid^
 ||kcgmgnejfp.bid^
+||kcitwbcc.com^
 ||kcnyhfmowc.com^
 ||kcpatentlaw.com^
 ||kcqdidtq.bid^
@@ -20762,6 +20805,7 @@ zuuk.org###fl10
 ||klsduixe.com^
 ||klubprzygody.pl^
 ||klurrmvbqrhrwc.com^
+||klzvkrzluqnx.com^
 ||kmaltubers.com^
 ||kmcebwjulu.com^
 ||kmclwuukyffyjf.com^
@@ -20890,6 +20934,7 @@ zuuk.org###fl10
 ||kqkheakqrh.bid^
 ||kqlvuutpgdnude.com^
 ||kqmjmrzjhmdn.com^
+||kqohskoysgxx.com^
 ||kqsipdhvcejx.com^
 ||kqssmkxdtuc.bid^
 ||kquthdppub.com^
@@ -20973,6 +21018,7 @@ zuuk.org###fl10
 ||ksloibpah.com^
 ||ksmiwcmfh.com^
 ||kspengineering.com^
+||ksrcnyrntlyfo.com^
 ||ksveztrxudtt.com^
 ||ksxaaoey.bid^
 ||ksyrium0014.com^$third-party
@@ -21213,6 +21259,7 @@ zuuk.org###fl10
 ||labbinarymining.com^
 ||labcom.lu^
 ||labdiagnosis.com.br^
+||labdwkqyavb.com^
 ||labenfasis.webcindario.com^
 ||labkonstrukt.com^
 ||labonapp.com^
@@ -22491,6 +22538,7 @@ zuuk.org###fl10
 ||lvayccwmhdggvi.bid^
 ||lvcrcimfmfx.com^
 ||lvctmusxcyz.com^
+||lvctzafuvn.com^
 ||lvcxvjetzvt.com^
 ||lvdtftxgbsiu.com^
 ||lvehrzkgzanurn.com^
@@ -23154,6 +23202,7 @@ zuuk.org###fl10
 ||mbgvhfotcqsj.com^
 ||mbi-appleid.com^
 ||mbid.io^$third-party
+||mbmjqinvsil.com^
 ||mbotvisit.com^$third-party
 ||mboxconverterpro.com^
 ||mboxedge26.tt.omtrdc.net^
@@ -23179,6 +23228,7 @@ zuuk.org###fl10
 ||mc.yandex.ru/webvisor$third-party
 ||mcaddis.com^
 ||mcagbtdcwklf.com^
+||mcaxqvcu.com^
 ||mcaybfrnrqpmv.com^
 ||mcblok.net^
 ||mccoyindia.co.in^
@@ -23232,6 +23282,7 @@ zuuk.org###fl10
 ||mdsrggcnmybae.bid^
 ||mdt.suprnova.cc^
 ||mdulmrphzsnvw.com^
+||mdurqeiydegwzy.com^
 ||mdvrxmzofurvkm.com^
 ||mdwnte.com^
 ||mdxdfgpfmu.org^
@@ -24464,6 +24515,7 @@ zuuk.org###fl10
 ||msgtag.com^$third-party
 ||msiegurhgfyl.com^
 ||msisvvxmnpm.com^
+||msisvvxmnpm.com^
 ||msjpmpumsf.bid^
 ||msk.etc-poolcrypto.org^
 ||msmgroup.ru^
@@ -25412,11 +25464,13 @@ zuuk.org###fl10
 ||nexusproof.com^
 ||n-facebook.cf^
 ||nfaqnqsfhih.bid^
+||nfbjwvmndabthb.com^
 ||nfdntqlqrgwc.com^
 ||nfefwoasiq.bid^
 ||nfgcolombia.com^
 ||nfniziqm.com^
 ||nfnssadfhxov.com^
+||nfnxvdds.com^
 ||nfnying.gm^
 ||nfopages01.000webhostapp.com^
 ||nfqxehrpahqhjf.com^
@@ -26289,6 +26343,7 @@ zuuk.org###fl10
 ||oixssp.net^$third-party
 ||oixssp-lab.net^$third-party
 ||oix-stage.net^$third-party
+||ojbevkqot.com^
 ||ojiffvsutzrx.com^
 ||ojjsoozoerpt.com^
 ||ojmkcnuur.com^
@@ -26375,6 +26430,7 @@ zuuk.org###fl10
 ||olympiaverlag.sc.omtrdc.net/b/ss/
 ||om.cbsi.com^$third-party
 ||om.dowjoneson.com^$third-party
+||omakfhugexq.com^
 ||omar.standardtouch.com^
 ||omargabaly.com^
 ||omarsys.com^$third-party
@@ -26719,6 +26775,7 @@ zuuk.org###fl10
 ||osdidpc.com^
 ||osdijxyjdn.bid^
 ||osem.5gbfree.com^
+||oseqbfjtsdz.com^
 ||osevrgzpsu.com^
 ||osewuwcdgfb.bid^
 ||osfipdgo.bid^
@@ -26856,6 +26913,7 @@ zuuk.org###fl10
 ||oxybyiyasgu.bid^
 ||oyaqzikgjw.com^
 ||oyaziyor.com^
+||oybahnktadxjju.com^
 ||oyelege.no^
 ||oyieun.hsktlanta.net^
 ||oyiqkjsjmmde.com^
@@ -27874,6 +27932,7 @@ zuuk.org###fl10
 ||pnwolphio.co.uk^
 ||pnzaduoelv.bid^
 ||pnzchguyctrsyb.com^
+||pnzchguyctrsyb.com^
 ||poatops.com.br^
 ||poaxupoqbw.com^
 ||poazvacfzbed.com^
@@ -28793,6 +28852,7 @@ zuuk.org###fl10
 ||pxlijblevbp.bid^
 ||pxpndcfntwb.com^
 ||pxvnhcdzuozqn.com^
+||pxzacgmr.com^
 ||pyaooapmai.temp.swtest.ru^
 ||pycvhwxtqhknb.com^
 ||pydpcqjenhjx.com^
@@ -28883,6 +28943,7 @@ zuuk.org###fl10
 ||qdmpxonl.com^
 ||qdos.suprnova.cc^
 ||qdpbtrwvmioo.bid^
+||qdpxpnmh.com^
 ||qdqhseenooz.bid^
 ||qdrink.com.br^
 ||qdrops.in^
@@ -28927,6 +28988,7 @@ zuuk.org###fl10
 ||qfsutura.com^
 ||qfzhppwfkenbmv.bid^
 ||qgawivqfotfyrw.com^
+||qgcliwoxgdptz.com^
 ||qgeglsnoxk.com^
 ||qgevavwyafjf.com^
 ||qgggccolqyi.bid^
@@ -28983,6 +29045,7 @@ zuuk.org###fl10
 ||qjpxalhvenbt.com^
 ||qjskosdsxanp.com^
 ||qjwanedlhedm.com^
+||qjwkyhlxa.com^
 ||qkarmotdhhgeuy.com^
 ||qkdywnhtmpgc.com^
 ||qkfhfuua.com^
@@ -29072,6 +29135,7 @@ zuuk.org###fl10
 ||qqbyfhlctzty.com^
 ||qqc.co/visitScript/$script,third-party
 ||qqc.co/Webservices/jsParseLinks.aspx$script,third-party
+||qqcbzxwzpmzdcd.com^
 ||qqdnhrkjtmv.bid^
 ||qqfrciwnc.bid^
 ||qqgtevtjnpwd.com^
@@ -30255,6 +30319,7 @@ zuuk.org###fl10
 ||rozetka.com.ua/w/?
 ||rp5jxi.xyz^
 ||rpc.myetherwallet.com^
+||rpcncuzsmpni.com^
 ||rpcpscsa.bid^
 ||rpc-retirement.com^
 ||rpczohkv.com^
@@ -30322,6 +30387,7 @@ zuuk.org###fl10
 ||rsqcrylqremctr.com^
 ||rsrbqknrfskkb.bid^
 ||rsslessons.su^
+||rstjainimptgn.com^
 ||rsvpgenius.com^$third-party
 ||rsvxipjqyvfs.com^
 ||rswgoccwzs.com^
@@ -30336,6 +30402,7 @@ zuuk.org###fl10
 ||rtbfitment.co.za^
 ||rtbserver.com/dealdo/
 ||rtctxxxvdq.com^
+||rtdogcdkovndho.com^
 ||rtfn.net^$third-party
 ||rtgngrwtngms.com^
 ||rtgpaohds.com^
@@ -31593,6 +31660,7 @@ zuuk.org###fl10
 ||sheylowload.com^
 ||shf.pool.sexy^
 ||shf2.pool.sexy^
+||shgvuhvf.com^
 ||shhngaasah.com^
 ||shhrbeffgz.com^
 ||shiek1ph.com^
@@ -31889,6 +31957,7 @@ zuuk.org###fl10
 ||sirish.com.np^
 ||sirm-trf-ln1.000webhostapp.com^
 ||siroutkawplay.com^
+||sisrgcvomn.com^
 ||sissybe7.000webhostapp.com^
 ||sistema2017.com^
 ||sistemascontraincendios.pe^
@@ -31961,8 +32030,10 @@ zuuk.org###fl10
 ||skbitservices.com^
 ||skc.coinmine.pl^
 ||skcomplements.com^
+||skcyigichh.com^
 ||skein.mine.zpool.ca^
 ||skencituer.com^
+||skgnompyiusim.com^
 ||skickapaket.net^
 ||skidka.ru/tracker/$third-party
 ||skif-kurgan.ru^
@@ -33786,6 +33857,7 @@ zuuk.org###fl10
 ||syxcbevp.com^
 ||syxojpztar.com^
 ||szjgylwamcxo.com^
+||szlkqxlkcz.com^
 ||szltiojqs.bid^
 ||sznxdqqvjgam.com^
 ||szrojfkigof.bid^
@@ -34184,6 +34256,7 @@ zuuk.org###fl10
 ||tfdssnipmff.com^
 ||tfeywmqsle.com^
 ||tfhqxvakurom.bid^
+||tfijbdegozfh.com^
 ||tflmiurze.bid^
 ||tfmfakhermpr.bid^
 ||tfnzqjjt.bid^
@@ -34565,6 +34638,7 @@ zuuk.org###fl10
 ||tntqrmqfst.com^
 ||tnvaparas.com.br^
 ||tnyomnyezzz.bid^
+||tnznswilqtni.com^
 ||to.cur.lv^
 ||toalpg.com^
 ||toapplytoyou.tk^
@@ -34728,12 +34802,14 @@ zuuk.org###fl10
 ||tpesjhkf.bid^
 ||tpfnibqjrpcj.com^
 ||tpgeooxrcp.com^
+||tphwlmybvamq.com^
 ||tpkpnyiaylp.com^
 ||tpmbgoiabxu.bid^
 ||tpmemhesupkn.bid^
 ||tpnphooeqg.bid^
 ||tpranctof.com^
 ||tpsconstrutora.com.br^
+||tptfopotrzg.com^
 ||tpueomljcrvy.com^
 ||tpvprtdclnym.com^
 ||tpxobasr.com^
@@ -34742,6 +34818,7 @@ zuuk.org###fl10
 ||tqcxtxglt.com^
 ||tqdarrhactqc.com^
 ||tqixovpneycfmk.com^
+||tqmricveyxphfo.com^
 ||tqpkegddso.com^
 ||tqrtxfqvcxkjiv.com^
 ||tqsmgt.com^
@@ -35173,6 +35250,7 @@ zuuk.org###fl10
 ||tulindogruer.net^
 ||tulip18.com^
 ||tulipdigital.com^
+||tuliprfawfq.com^
 ||tulontintas.com.br^
 ||tumangaonline.com/views/includes/higerAdv.html
 ||tumfvfvyxusz.com^
@@ -35455,6 +35533,7 @@ zuuk.org###fl10
 ||uehdljkrsfaa.bid^
 ||uehtuvguuf.com^
 ||uejnzoaayhr.com^
+||uenpibqyjvim.com^
 ||ueosdjscxucj.com^
 ||uepsvcyxxrbs.bid^
 ||ueptzgugtxis.com^
@@ -35470,6 +35549,7 @@ zuuk.org###fl10
 ||ufgtddsuhlo.com^
 ||ufkdsnlvxoqw.com^
 ||ufmnicckqyru.com^
+||ufnozeotbqsn.com^
 ||ufnzapqvrbyx.com^
 ||ufocoin.miningpoolhub.com^
 ||ufrzvzpympib.com^
@@ -35996,6 +36076,7 @@ zuuk.org###fl10
 ||usymycvrilyt.com^
 ||uszpxpcoflkl.com^
 ||ut.o2.pl^
+||utbclxmcv.com^
 ||utc.pool.pm^
 ||utfffrxmzuvy.com^
 ||uther.suprnova.cc^
@@ -36043,6 +36124,7 @@ zuuk.org###fl10
 ||uvstluoomeys.bid^
 ||uvxaafcozjgh.com^
 ||uvyascqbm.bid^
+||uvyfszshvgassp.com^
 ||uwcomunicaciones.com^
 ||uwdawnsge.bid^
 ||uwempeter.5gbfree.com^
@@ -36136,6 +36218,7 @@ zuuk.org###fl10
 ||vaitomarnocu123.ddns.net^
 ||vaivocabulary.com^
 ||vajazzlingkit.com^
+||vajiyqbb.com^
 ||vakantiehongarije.net^
 ||vakarm.net/css/sprite_vkm_2.css
 ||vaksyrgpkz.com^
@@ -37009,6 +37092,7 @@ zuuk.org###fl10
 ||vwgffbknpgxe.com^
 ||vwimfzntn.bid^
 ||vwpowhxrpdlmtq.bid^
+||vwpoxvufxnon.com^
 ||vwsjyfsz.bid^
 ||vwugfpktabed.com^
 ||vwvw.telecredictospbc.com^
@@ -37021,6 +37105,7 @@ zuuk.org###fl10
 ||vxbtrsqjnjpq.com^
 ||vxelkrhl.info^
 ||vxgplvhuilp.com^
+||vxkupxpf.com^
 ||vxkupxpf.com^
 ||vxlpefsjnmws.com^
 ||vxncdkrggd.com^
@@ -37052,6 +37137,7 @@ zuuk.org###fl10
 ||vyytpvzba.bid^
 ||vzhbfwpo.com^
 ||vzhjnorkudcxbiy.com^
+||vzhlsmmboaqxlv.com^
 ||vzkrfuzxoh.bid^
 ||vzmnvqiqgxqk.com^
 ||vzozsebg.com^
@@ -38960,6 +39046,7 @@ zuuk.org###fl10
 ||wwnhwig.com^
 ||wwnlyzbedeum.com^
 ||www.02level.tk^
+||www.24t7.me^$popup
 ||www.2giga.link^
 ||www.2miners.com^
 ||www.2miners.ru^
@@ -39818,6 +39905,7 @@ zuuk.org###fl10
 ||xeflnvycs.com^
 ||xegavyzkxowj.com^
 ||xegvnhpwytev.com^
+||xeirmdgphdl.com^
 ||xenafiter.000webhostapp.com^
 ||xerox300.000webhostapp.com^
 ||xevan.mine.zpool.ca^
@@ -39944,6 +40032,7 @@ zuuk.org###fl10
 ||xkeeqmvs.bid^
 ||xkgitcod.com^
 ||xkhxejeaarq.com^
+||xkjlcqbufdlwrq.com^
 ||xkochp.cc^
 ||xkotbziugfturl.com^
 ||xkoyfyaqk.com^
@@ -40246,6 +40335,7 @@ zuuk.org###fl10
 ||xovq5nemr.com^$third-party
 ||xpahnzgke.bid^
 ||xpanama.net^$third-party
+||xpbjjdrcwuqkks.com^
 ||xpdwqvsbg.bid^
 ||xph.suprnova.cc^
 ||xpiajagcdpkhlx.bid^
@@ -40291,6 +40381,7 @@ zuuk.org###fl10
 ||xrivpngzagpy.com^
 ||xrjjhkuwccu.com^
 ||xrm.prohash.net^
+||xrmrpcbaukli.com^
 ||xrmtjxxeerbew.bid^
 ||xrmtvzpig.com^
 ||xrmwainxxr.bid^
@@ -40369,6 +40460,7 @@ zuuk.org###fl10
 ||xunynibqwerklickj.biz^
 ||xuoitwefz.bid^
 ||xurokykjwum.com^
+||xurrehqawu.com^
 ||xuwptpzdwyaw.com^
 ||xuwxbdafults.com^
 ||xvc.suprnova.cc^
@@ -40386,6 +40478,7 @@ zuuk.org###fl10
 ||xvtbumnuj.com^
 ||xvtgouzdsmoeb.com^
 ||xvuhfmlclllby.bid^
+||xvxcpdcnfgte.com^
 ||xwagalbvfkb.com^
 ||xwavfvpzg.com^
 ||xwavjdqttkum.com^
@@ -41563,6 +41656,7 @@ zuuk.org###fl10
 ||zvefwiecrw.bid^
 ||zvicyjvyox.bid^
 ||zvogsatformalisticirekb.com^
+||zvovdtomwa.com^
 ||zvqjjurhikku.com^
 ||zvrwttooqgeb.com^
 ||zvsjiigao.com^
@@ -41626,9 +41720,8 @@ zuuk.org###fl10
 ||zzqhsrg.ru^
 ||zzqnkezokbegc.bid^
 ||zzqwaxxybf.info^
+||zzrdvzryaiwsin.com^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
 
-!total 41.630
-
-
+!total 41.727
