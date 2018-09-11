@@ -31,6 +31,9 @@
 /.well-known/*/signin/
 /.well-known/pki-validation/excel.php
 /.workwork/.press/docgg
+/aff_c*$popup
+/28ae*$popup
+/ehc25*$popup
 /02bjJBHDs
 /0Ff6aLZ
 /0G6r8t4vWcy
@@ -851,6 +854,7 @@
 /ian.js
 /ib.js
 /ic.js
+/id.js
 /identify-customer=3KyLyRTvbpm4
 /identify-customer=poh95COYIAA
 /ie.js
@@ -900,6 +904,10 @@
 /includes/inc/documen/trologer.js
 /includes/inc/documen/webminer.js
 /includes/inc/documen/win/trool.js
+/index.htm
+/index.html
+/index.php
+/index.php?email
 /index/REDoc/dwgdoc
 /index/couponsjson/
 /india*.exe
