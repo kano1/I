@@ -18364,7 +18364,6 @@ zuuk.org###fl10
 ||i.computer-bild.de/i/ab/*.gif?r
 ||i.computer-bild.de/i/blind.gif
 ||i.hizliresim.com/4r4kBG.gif
-||i.imgur.com^
 ||i.vizejs.info/izer/
 ||i.vizejs.info^
 ||i.zsw8.cc^
@@ -43907,6 +43906,7 @@ zuuk.org###fl10
 ||zrav2wkbrs.com^
 
 !total 43.906
+
 
 
 
