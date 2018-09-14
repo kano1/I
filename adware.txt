@@ -2871,7 +2871,6 @@ zuuk.org###fl10
 ##.kill-block-media
 ##.kill-india
 ##.kill-shit
-##.noborder
 ##.uiBoxYellow
 ##193768
 ##A[href*="emprestimo.eu"]
@@ -2911,7 +2910,6 @@ zuuk.org###fl10
 ##crossdomain
 ##digit.dat
 ##flashacces
-##index.php
 ##ksologViewer
 ##mobileOptiomPack
 ##polltlaromana
@@ -2919,7 +2917,6 @@ zuuk.org###fl10
 ##regonizerCryptolocker
 ##schedulingAgen
 ##scripterror
-##sin10s02-in-f14.1e100
 ##terorcontrol
 ##terroraccursoft
 ##terroreyewonder
