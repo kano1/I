@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Malware Domain
-! Homepage: https://github.com/kano1/I/master/adware.txt
+! Homepage: https://github.com/kano1/I/blob/master/ABP-COUSTUME-FILTER-BY-Title.txt
 
 amazon.co.uk.security-check.ga
 autosegurancabrasil.com
