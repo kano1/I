@@ -17875,7 +17875,6 @@ zuuk.org###fl10
 ||hirpcard.000webhostapp.comp^
 ||hisshirtbosom.tk^
 ||histartup.in^
-||histats.com^$third-party
 ||historicinnsandwatersports.com^
 ||historisches-bevensen.de^
 ||hit-counter-download.com^$third-party
@@ -43998,4 +43997,3 @@ zuuk.org###fl10
 ||zrav2wkbrs.com^
 
 ! total : 41.892
-
