@@ -615,7 +615,6 @@
 /ek.js
 /el.js
 /elsu.js
-/en.js
 /en58jBY
 /eo.js
 /ep.js
