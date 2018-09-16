@@ -8,9 +8,6 @@
 .cab*.$popup
 .cab*.ejs
 .cab*.exe
-.co*.$popup
-.co*.exe
-.co*js
 .en*$popup
 .fi*.exe
 .ga*$popup
@@ -20,7 +17,7 @@
 .gdn*js
 .gq*.exe
 .gq*.js
-.in.top*$popup
+.in*.exe
 .info*.exe
 .kim*.exe
 .kim*js
