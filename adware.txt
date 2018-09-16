@@ -3,6 +3,20 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+.pw*.exe
+.cab*.exe
+.gq*.exe
+.lt*.exe
+.ga*.exe
+.info*.exe
+.fi*.exe
+.tor*.txe
+.repub*.exe
+.pop*.exe
+.pl.top*$popup
+.top.top*$popup
+.in.top*$popup
+.en*$popup
 .cn/wm/15/
 .cn/fs01/2014/
 .cn/wm
@@ -18,6 +32,10 @@
 /_unLX9rujMA4
 /aS/feedcl
 /(X(1)S(wkufcsdfr
+/*js*.exe*$popup
+/cmd=run*^
+/cmd=run*exe
+/cmd=run*rot
 /*1472ba5c40f61fa1c77c42cf06248f13b8785f0
 /*2bf2bb23a52aabec11de54520fdff1130ac96d2b
 /*2dac76d4330f671c2a20527d72a8ae74f2c363f7
@@ -43947,5 +43965,3 @@ zuuk.org###fl10
 ||zrav2wkbrs.com^
 
 ! total : 41.892
-
-
