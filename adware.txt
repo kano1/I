@@ -3,20 +3,56 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
-.pw*.exe
+.black*.exe
+.black*.js
+.cab*.$popup
+.cab*.ejs
 .cab*.exe
-.gq*.exe
-.lt*.exe
-.ga*.exe
-.info*.exe
-.fi*.exe
-.tor*.txe
-.repub*.exe
-.pop*.exe
-.pl.top*$popup
-.top.top*$popup
-.in.top*$popup
+.co*.$popup
+.co*.exe
+.co*js
 .en*$popup
+.fi*.exe
+.ga*$popup
+.ga*.exe
+.ga*js
+.gdn*.exe
+.gdn*js
+.gq*.exe
+.gq*.js
+.in.top*$popup
+.info*.exe
+.kim*.exe
+.kim*js
+.loan*.exe
+.loan*js
+.lol*.exe
+.lol*js
+.lt*.exe
+.ml*$popup
+.ml*.exe
+.ml*js
+.onion*.exe
+.pl.top*$popup
+.pop*.exe
+.pw*$popup
+.pw*.exe
+.pw*js
+.repub*.exe
+.ru*.exe
+.ru*js
+.top*$popup
+.top*.exe
+.top*js
+.top.top*$popup
+.tor*.txe
+.trade*.exe
+.trade*js
+.vip*.exe
+.vip*js
+.win*.exe
+.win*js
+.wtf*.exe
 .cn/wm/15/
 .cn/fs01/2014/
 .cn/wm
@@ -43965,3 +44001,4 @@ zuuk.org###fl10
 ||zrav2wkbrs.com^
 
 ! total : 41.892
+
