@@ -3984,6 +3984,7 @@ zuuk.org###fl10
 ||*.spigotjs.info^
 ||*.ssfiles.com^
 ||*.ssfiles.ml^
+||*..static.akamaitechnologies.com^
 ||*.stokes.band^
 ||*.stokes.be^
 ||*.stokes.biz^
