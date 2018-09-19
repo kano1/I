@@ -33455,6 +33455,8 @@ zuuk.org###fl10
 ||structuralstonellc.com^
 ||structuresofa.com^$third-party
 ||sts.eccmp.com^$third-party
+||stripper.com^
+||stripper.com$popup
 ||studentaffairsfit.com^
 ||studentposters.co.uk^
 ||studiodentisticosepe.com^
@@ -43990,5 +43992,6 @@ zuuk.org###fl10
 ||znjo3h2m.top^
 ||zrav2wkbrs.com*$popup
 ||zrav2wkbrs.com^
-
+||stripper.com^
 ! total : 41.892
+
