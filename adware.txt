@@ -3822,8 +3822,6 @@ zuuk.org###fl10
 ||*.mzcdntest.com^
 ||*.nadijs.info^
 ||*.nav-links.com^
-||*.netdna-ssl.co^
-||*.netdna-ssl.com^
 ||*.night-hawk.co.uk^
 ||*.night-hawk.com^
 ||*.night-hawk.de^
