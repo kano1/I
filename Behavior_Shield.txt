@@ -2,8 +2,6 @@
 ! Title: Behavior Shield
 ! protect from abnormal scripts
 
-/p/*$popup
-/p/eNOqXX*^
 /aaa*.js
 /aab*.js
 /aac*.js
@@ -16661,4 +16659,3 @@
 /zzz*.js
 
 !total 16661
-
