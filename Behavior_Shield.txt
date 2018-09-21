@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Behavior Shield
 
-/p/*$popup
-/p/eNOqXX*^
 /aaa*.js
 /aab*.js
 /aac*.js
@@ -36,7 +34,6 @@
 /abe*.js
 /abf*.js
 /abh*.js
-/abi*.js
 /abj*.js
 /abk*.js
 /abl*.js
@@ -73,7 +70,6 @@
 /acq*.js
 /acr*.js
 /acs*.js
-/act*.js
 /acu*.js
 /acv*.js
 /acw*.js
@@ -83,7 +79,6 @@
 /ada*.js
 /adb*.js
 /adc*.js
-/add*.js
 /ade*.js
 /adf*.js
 /adg*.js
@@ -233,7 +228,6 @@
 /aix*.js
 /aiy*.js
 /aiz*.js
-/aja*.js
 /ajb*.js
 /ajc*.js
 /ajd*.js
@@ -303,7 +297,6 @@
 /alq*.js
 /alr*.js
 /als*.js
-/alt*.js
 /alu*.js
 /alv*.js
 /alw*.js
@@ -525,7 +518,6 @@
 /aul*.js
 /aum*.js
 /aun*.js
-/auo*.js
 /aup*.js
 /auq*.js
 /aur*.js
@@ -668,7 +660,6 @@
 /azz*.js
 /baa*.js
 /bab*.js
-/bac*.js
 /bad*.js
 /bae*.js
 /baf*.js
@@ -1043,7 +1034,6 @@
 /bol*.js
 /bom*.js
 /bon*.js
-/boo*.js
 /bop*.js
 /boq*.js
 /bor*.js
@@ -1197,7 +1187,6 @@
 /buk*.js
 /bul*.js
 /bum*.js
-/bun*.js
 /buo*.js
 /bup*.js
 /buq*.js
@@ -1269,7 +1258,6 @@
 /bxf*.js
 /bxg*.js
 /bxh*.js
-/bxi*.js
 /bxj*.js
 /bxk*.js
 /bxl*.js
@@ -1341,7 +1329,6 @@
 /bzz*.js
 /caa*.js
 /cab*.js
-/cac*.js
 /cad*.js
 /cae*.js
 /caf*.js
@@ -1519,7 +1506,6 @@
 /cgx*.js
 /cgy*.js
 /cgz*.js
-/cha*.js
 /chb*.js
 /chc*.js
 /chd*.js
@@ -1631,7 +1617,6 @@
 /clf*.js
 /clg*.js
 /clh*.js
-/cli*.js
 /clj*.js
 /clk*.js
 /cll*.js
@@ -1800,7 +1785,6 @@
 /csb*.js
 /csc*.js
 /csd*.js
-/cse*.js
 /csf*.js
 /csg*.js
 /csh*.js
@@ -1865,7 +1849,6 @@
 /cuo*.js
 /cup*.js
 /cuq*.js
-/cus*.js
 /cut*.js
 /cuu*.js
 /cuv*.js
@@ -2021,7 +2004,6 @@
 /dap*.js
 /daq*.js
 /das*.js
-/dat*.js
 /dau*.js
 /dav*.js
 /daw*.js
@@ -2126,7 +2108,6 @@
 /des*.js
 /det*.js
 /deu*.js
-/dev*.js
 /dew*.js
 /dex*.js
 /dey*.js
@@ -2692,7 +2673,6 @@
 /eap*.js
 /eaq*.js
 /ear*.js
-/eas*.js
 /eat*.js
 /eau*.js
 /eav*.js
@@ -3011,7 +2991,6 @@
 /enc*.js
 /ene*.js
 /enf*.js
-/eng*.js
 /enh*.js
 /eni*.js
 /enj*.js
@@ -3272,7 +3251,6 @@
 /exf*.js
 /exg*.js
 /exh*.js
-/exi*.js
 /exj*.js
 /exk*.js
 /exl*.js
@@ -3283,7 +3261,6 @@
 /exq*.js
 /exr*.js
 /exs*.js
-/ext*.js
 /exu*.js
 /exv*.js
 /exw*.js
@@ -3371,7 +3348,6 @@
 /fbb*.js
 /fbc*.js
 /fbd*.js
-/fbe*.js
 /fbf*.js
 /fbg*.js
 /fbh*.js
@@ -3721,7 +3697,6 @@
 /foo*.js
 /fop*.js
 /foq*.js
-/for*.js
 /fos*.js
 /fot*.js
 /fou*.js
@@ -3795,7 +3770,6 @@
 /frl*.js
 /frm*.js
 /frn*.js
-/fro*.js
 /frp*.js
 /frq*.js
 /frr*.js
@@ -4017,7 +3991,6 @@
 /gaa*.js
 /gab*.js
 /gac*.js
-/gad*.js
 /gae*.js
 /gaf*.js
 /gag*.js
@@ -4518,7 +4491,6 @@
 /gtj*.js
 /gtk*.js
 /gtl*.js
-/gtm*.js
 /gtn*.js
 /gto*.js
 /gtp*.js
@@ -4807,7 +4779,6 @@
 /heo*.js
 /hep*.js
 /heq*.js
-/her*.js
 /hes*.js
 /het*.js
 /heu*.js
@@ -4912,7 +4883,6 @@
 /hip*.js
 /hiq*.js
 /hir*.js
-/his*.js
 /hit*.js
 /hiu*.js
 /hiv*.js
@@ -5702,10 +5672,8 @@
 /inc*.js
 /ind*.js
 /ine*.js
-/inf*.js
 /ing*.js
 /inh*.js
-/ini*.js
 /inj*.js
 /ink*.js
 /inl*.js
@@ -6054,7 +6022,6 @@
 /jas*.js
 /jat*.js
 /jau*.js
-/jav*.js
 /jaw*.js
 /jax*.js
 /jay*.js
@@ -7600,7 +7567,6 @@
 /lik*.js
 /lil*.js
 /lim*.js
-/lin*.js
 /lio*.js
 /lip*.js
 /liq*.js
@@ -8068,10 +8034,8 @@
 /mam*.js
 /man*.js
 /mao*.js
-/map*.js
 /maq*.js
 /mar*.js
-/mas*.js
 /mat*.js
 /mau*.js
 /mav*.js
@@ -8167,7 +8131,6 @@
 /mek*.js
 /mel*.js
 /mem*.js
-/men*.js
 /meo*.js
 /mep*.js
 /meq*.js
@@ -8274,7 +8237,6 @@
 /mio*.js
 /mip*.js
 /miq*.js
-/mir*.js
 /mis*.js
 /miu*.js
 /miv*.js
@@ -8376,7 +8338,6 @@
 /mmo*.js
 /mmp*.js
 /mmq*.js
-/mmr*.js
 /mms*.js
 /mmt*.js
 /mmu*.js
@@ -8846,7 +8807,6 @@
 /net*.js
 /neu*.js
 /nev*.js
-/new*.js
 /ney*.js
 /nez*.js
 /nfa*.js
@@ -9057,7 +9017,6 @@
 /nmx*.js
 /nmy*.js
 /nmz*.js
-/nna*.js
 /nnb*.js
 /nnc*.js
 /nnd*.js
@@ -9230,7 +9189,6 @@
 /ntq*.js
 /ntr*.js
 /nts*.js
-/ntt*.js
 /ntu*.js
 /ntv*.js
 /ntw*.js
@@ -9735,7 +9693,6 @@
 /onb*.js
 /onc*.js
 /ond*.js
-/one*.js
 /onf*.js
 /ong*.js
 /onh*.js
@@ -11527,7 +11484,6 @@
 /reo*.js
 /req*.js
 /rer*.js
-/res*.js
 /ret*.js
 /reu*.js
 /rev*.js
@@ -11770,7 +11726,6 @@
 /rny*.js
 /rnz*.js
 /roa*.js
-/rob*.js
 /roc*.js
 /rod*.js
 /roe*.js
@@ -12083,7 +12038,6 @@
 /saa*.js
 /sab*.js
 /sac*.js
-/sad*.js
 /sae*.js
 /saf*.js
 /sag*.js
@@ -12165,7 +12119,6 @@
 /sdh*.js
 /sdi*.js
 /sdj*.js
-/sdk*.js
 /sdl*.js
 /sdm*.js
 /sdn*.js
@@ -12262,7 +12215,6 @@
 /shf*.js
 /shg*.js
 /shh*.js
-/shi*.js
 /shj*.js
 /shk*.js
 /shl*.js
@@ -12436,7 +12388,6 @@
 /snz*.js
 /soa*.js
 /sob*.js
-/soc*.js
 /sod*.js
 /soe*.js
 /sof*.js
@@ -12567,7 +12518,6 @@
 /stf*.js
 /stg*.js
 /sth*.js
-/sti*.js
 /stj*.js
 /stk*.js
 /stl*.js
@@ -12579,7 +12529,6 @@
 /str*.js
 /sts*.js
 /stt*.js
-/stu*.js
 /stv*.js
 /stw*.js
 /stx*.js
@@ -12746,7 +12695,6 @@
 /tad*.js
 /tae*.js
 /taf*.js
-/tag*.js
 /tah*.js
 /tai*.js
 /taj*.js
@@ -13312,7 +13260,6 @@
 /twb*.js
 /twc*.js
 /twd*.js
-/twe*.js
 /twf*.js
 /twg*.js
 /twh*.js
@@ -13362,7 +13309,6 @@
 /txz*.js
 /tya*.js
 /tyb*.js
-/tyc*.js
 /tyd*.js
 /tye*.js
 /tyf*.js
@@ -13911,7 +13857,6 @@
 /utf*.js
 /utg*.js
 /uth*.js
-/uti*.js
 /utj*.js
 /utk*.js
 /utl*.js
@@ -14240,7 +14185,6 @@
 /vfy*.js
 /vfz*.js
 /vga*.js
-/vgb*.js
 /vgc*.js
 /vgd*.js
 /vge*.js
@@ -14302,7 +14246,6 @@
 /vij*.js
 /vik*.js
 /vil*.js
-/vim*.js
 /vin*.js
 /vio*.js
 /vip*.js
@@ -16780,4 +16723,5 @@
 /zzy*.js
 /zzz*.js
 
-! 16783
+! 16.728
+
