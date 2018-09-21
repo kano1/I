@@ -2,6 +2,8 @@
 ! Title: Behavior Shield
 ! protect from abnormal scripts
 
+/p/*$popup
+/p/eNOqXX*^
 /aaa*.js
 /aab*.js
 /aac*.js
@@ -607,7 +609,6 @@
 /axx*.js
 /axy*.js
 /axz*.js
-/aya*.js
 /ayb*.js
 /ayc*.js
 /ayd*.js
@@ -1541,7 +1542,6 @@
 /cig*.js
 /cih*.js
 /cii*.js
-/cij*.js
 /cik*.js
 /cil*.js
 /cim*.js
@@ -1682,7 +1682,6 @@
 /cnu*.js
 /cnv*.js
 /cnw*.js
-/cnx*.js
 /cny*.js
 /cnz*.js
 /coa*.js
@@ -1866,14 +1865,12 @@
 /cvg*.js
 /cvh*.js
 /cvi*.js
-/cvj*.js
 /cvk*.js
 /cvl*.js
 /cvm*.js
 /cvn*.js
 /cvo*.js
 /cvp*.js
-/cvq*.js
 /cvr*.js
 /cvs*.js
 /cvt*.js
@@ -2057,7 +2054,6 @@
 /dcr*.js
 /dcs*.js
 /dct*.js
-/dcu*.js
 /dcv*.js
 /dcw*.js
 /dcx*.js
@@ -2507,7 +2503,6 @@
 /dud*.js
 /due*.js
 /duf*.js
-/dug*.js
 /duh*.js
 /dui*.js
 /duj*.js
@@ -3175,7 +3170,6 @@
 /euf*.js
 /eug*.js
 /euh*.js
-/eui*.js
 /euj*.js
 /euk*.js
 /eul*.js
@@ -3411,7 +3405,6 @@
 /fdm*.js
 /fdn*.js
 /fdo*.js
-/fdp*.js
 /fdq*.js
 /fdr*.js
 /fds*.js
@@ -3454,12 +3447,10 @@
 /ffe*.js
 /fff*.js
 /ffg*.js
-/ffh*.js
 /ffi*.js
 /ffj*.js
 /ffk*.js
 /ffl*.js
-/ffm*.js
 /ffn*.js
 /ffo*.js
 /ffp*.js
@@ -4290,7 +4281,6 @@
 /glo*.js
 /glp*.js
 /glq*.js
-/glr*.js
 /gls*.js
 /glt*.js
 /glu*.js
@@ -4639,7 +4629,6 @@
 /gzc*.js
 /gzd*.js
 /gze*.js
-/gzf*.js
 /gzg*.js
 /gzh*.js
 /gzi*.js
@@ -5345,7 +5334,6 @@
 /iaj*.js
 /iak*.js
 /ial*.js
-/iam*.js
 /ian*.js
 /iao*.js
 /iap*.js
@@ -6307,7 +6295,6 @@
 /jlr*.js
 /jls*.js
 /jlt*.js
-/jlu*.js
 /jlv*.js
 /jlw*.js
 /jlx*.js
@@ -6753,7 +6740,6 @@
 /kcy*.js
 /kcz*.js
 /kda*.js
-/kdb*.js
 /kdc*.js
 /kdd*.js
 /kde*.js
@@ -7309,7 +7295,6 @@
 /kyi*.js
 /kyj*.js
 /kyk*.js
-/kyl*.js
 /kym*.js
 /kyn*.js
 /kyo*.js
@@ -7345,7 +7330,6 @@
 /kzs*.js
 /kzt*.js
 /kzu*.js
-/kzv*.js
 /kzw*.js
 /kzx*.js
 /kzy*.js
@@ -7353,7 +7337,6 @@
 /laa*.js
 /lab*.js
 /lac*.js
-/lad*.js
 /lae*.js
 /laf*.js
 /lag*.js
@@ -7646,7 +7629,6 @@
 /lll*.js
 /llm*.js
 /lln*.js
-/llo*.js
 /llp*.js
 /llq*.js
 /llr*.js
@@ -7678,7 +7660,6 @@
 /lmr*.js
 /lms*.js
 /lmt*.js
-/lmu*.js
 /lmv*.js
 /lmw*.js
 /lmx*.js
@@ -8037,7 +8018,6 @@
 /mao*.js
 /maq*.js
 /mar*.js
-/mat*.js
 /mau*.js
 /mav*.js
 /maw*.js
@@ -8874,7 +8854,6 @@
 /nhj*.js
 /nhk*.js
 /nhl*.js
-/nhm*.js
 /nhn*.js
 /nho*.js
 /nhp*.js
@@ -9631,7 +9610,6 @@
 /okq*.js
 /okr*.js
 /oks*.js
-/okt*.js
 /oku*.js
 /okv*.js
 /okw*.js
@@ -10388,7 +10366,6 @@
 /pob*.js
 /poc*.js
 /pod*.js
-/poe*.js
 /pof*.js
 /pog*.js
 /poh*.js
@@ -11365,7 +11342,6 @@
 /qzu*.js
 /qzv*.js
 /qzw*.js
-/qzx*.js
 /qzy*.js
 /qzz*.js
 /raa*.js
@@ -11496,7 +11472,6 @@
 /rfb*.js
 /rfc*.js
 /rfd*.js
-/rfe*.js
 /rff*.js
 /rfg*.js
 /rfh*.js
@@ -11884,7 +11859,6 @@
 /rub*.js
 /ruc*.js
 /rud*.js
-/rue*.js
 /ruf*.js
 /rug*.js
 /ruh*.js
@@ -11904,7 +11878,6 @@
 /ruv*.js
 /ruw*.js
 /rux*.js
-/ruy*.js
 /ruz*.js
 /rva*.js
 /rvb*.js
@@ -12339,7 +12312,6 @@
 /smb*.js
 /smc*.js
 /smd*.js
-/sme*.js
 /smf*.js
 /smg*.js
 /smh*.js
@@ -12474,11 +12446,9 @@
 /srj*.js
 /srk*.js
 /srl*.js
-/srm*.js
 /srn*.js
 /sro*.js
 /srp*.js
-/srq*.js
 /srr*.js
 /srs*.js
 /srt*.js
@@ -13099,7 +13069,6 @@
 /tpu*.js
 /tpv*.js
 /tpw*.js
-/tpx*.js
 /tpy*.js
 /tpz*.js
 /tqa*.js
@@ -13133,7 +13102,6 @@
 /trd*.js
 /tre*.js
 /trf*.js
-/trg*.js
 /trh*.js
 /tri*.js
 /trj*.js
@@ -13208,7 +13176,6 @@
 /tua*.js
 /tub*.js
 /tuc*.js
-/tud*.js
 /tue*.js
 /tuf*.js
 /tug*.js
@@ -13223,7 +13190,6 @@
 /tup*.js
 /tuq*.js
 /tur*.js
-/tus*.js
 /tut*.js
 /tuu*.js
 /tuv*.js
@@ -13313,7 +13279,6 @@
 /tyd*.js
 /tye*.js
 /tyf*.js
-/tyg*.js
 /tyh*.js
 /tyi*.js
 /tyj*.js
@@ -13514,7 +13479,6 @@
 /ufx*.js
 /ufy*.js
 /ufz*.js
-/uga*.js
 /ugb*.js
 /ugc*.js
 /ugd*.js
@@ -13528,7 +13492,6 @@
 /ugl*.js
 /ugm*.js
 /ugn*.js
-/ugo*.js
 /ugp*.js
 /ugq*.js
 /ugr*.js
@@ -13580,7 +13543,6 @@
 /uil*.js
 /uim*.js
 /uin*.js
-/uio*.js
 /uip*.js
 /uiq*.js
 /uir*.js
@@ -13649,7 +13611,6 @@
 /ulc*.js
 /uld*.js
 /ule*.js
-/ulf*.js
 /ulg*.js
 /ulh*.js
 /uli*.js
@@ -13704,7 +13665,6 @@
 /unf*.js
 /ung*.js
 /unh*.js
-/unj*.js
 /unk*.js
 /unl*.js
 /unm*.js
@@ -13986,7 +13946,6 @@
 /uyf*.js
 /uyg*.js
 /uyh*.js
-/uyi*.js
 /uyj*.js
 /uyk*.js
 /uyl*.js
@@ -14299,7 +14258,6 @@
 /vkk*.js
 /vkl*.js
 /vkm*.js
-/vkn*.js
 /vko*.js
 /vkp*.js
 /vkq*.js
@@ -14672,7 +14630,6 @@
 /vyw*.js
 /vyx*.js
 /vyy*.js
-/vyz*.js
 /vza*.js
 /vzb*.js
 /vzc*.js
@@ -14710,7 +14667,6 @@
 /xai*.js
 /xaj*.js
 /xak*.js
-/xal*.js
 /xam*.js
 /xan*.js
 /xao*.js
@@ -15142,7 +15098,6 @@
 /xqy*.js
 /xqz*.js
 /xra*.js
-/xrb*.js
 /xrc*.js
 /xrd*.js
 /xre*.js
@@ -15556,7 +15511,6 @@
 /ygx*.js
 /ygy*.js
 /ygz*.js
-/yha*.js
 /yhb*.js
 /yhc*.js
 /yhd*.js
@@ -16109,12 +16063,10 @@
 /zch*.js
 /zci*.js
 /zcj*.js
-/zck*.js
 /zcl*.js
 /zcm*.js
 /zcn*.js
 /zco*.js
-/zcp*.js
 /zcq*.js
 /zcr*.js
 /zcs*.js
@@ -16504,7 +16456,6 @@
 /zrm*.js
 /zrn*.js
 /zro*.js
-/zrp*.js
 /zrq*.js
 /zrr*.js
 /zrs*.js
@@ -16724,5 +16675,4 @@
 /zzy*.js
 /zzz*.js
 
-! 16.728
-
+total 16.678
