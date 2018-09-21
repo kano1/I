@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Behavior Shield
+! protect from abnormal scripts
 
 /aaa*.js
 /aab*.js
