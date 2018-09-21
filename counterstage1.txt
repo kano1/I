@@ -2757,7 +2757,6 @@
 /edf*.js
 /edg*.js
 /edh*.js
-/edi*.js
 /edj*.js
 /edk*.js
 /edl*.js
