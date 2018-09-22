@@ -38,9 +38,9 @@
 .repub*.exe
 .ru*.exe
 .top*$popup
-.top*.exe
+.top*.exe 
 .top*js
-.top.top*$popup
+.top*$popup
 .tor*.txe
 .trade*.exe
 .trade*js
@@ -3043,6 +3043,12 @@ zuuk.org###fl10
 /w72vkpjeg?*$popup
 /watch*dd0c*$popup
 /x5we1x*$popup
+/*=direct*$popup
+/imp/*$popup
+/*/?scontext_r=**$popup
+/?scontext_r=*$popup
+/ps/*$popup
+/media/pzBkyF5YCGkHQIzT1U/
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
 ||*.adsrotator.com^
@@ -44003,4 +44009,3 @@ zuuk.org###fl10
 ||stripper.com^
 
 ! total : 41.892
-
