@@ -100,6 +100,10 @@ flliilndjeohchalpbbcdekjklbdgfkk*$popup
 /.well-known/*/signin/
 /.well-known/pki-validation/excel.php
 /.workwork/.press/docgg
+/p/*$popup
+/imp/*$popup
+/*/?scontext_r=**$popup
+/?scontext_r=*$popup
 /02bjJBHDs
 /0Ff6aLZ
 /0G6r8t4vWcy
@@ -43996,10 +44000,7 @@ zuuk.org###fl10
 ||znjo3h2m.top^
 ||zrav2wkbrs.com*$popup
 ||zrav2wkbrs.com^
-/p/*$popup
-/p/eNOqXX*^
 ||stripper.com^
 
 ! total : 41.892
-
 
