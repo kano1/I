@@ -2,10 +2,6 @@
 ! Title: Behavior Shield
 ! protect from abnormal scripts
 
-[Adblock Plus 2.0]
-! Title: Behavior Shield
-! protect from abnormal scripts
-
 ||theviralmob.com^
 185.180.13.18
 195.181.162.2
@@ -17474,4 +17470,3 @@ click.outboundmarketing.markmonitor.com
 /*/injection/*^
 
 ! total 17.499
-
