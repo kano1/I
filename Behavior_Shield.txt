@@ -2,6 +2,24 @@
 ! Title: Behavior Shield
 ! protect from abnormal scripts
 
+||theviralmob.com^
+185.180.13.18
+195.181.162.2
+189.1.36.25
+195.181.175.7
+185.246.209.12
+185.93.2.21
+185.59.222.19
+||*.exe^
+||*.exe*^
+/assets/widget*.js
+/*=direct*$popup
+/imp/*$popup
+/*/?scontext_r=**$popup
+/?scontext_r=*$popup
+/ps/*$popup
+/media/pzBkyF5YCGkHQIzT1U/giphy.gif
+||1bcde.com^
 /aaa*.js
 /aab*.js
 /aac*.js
@@ -25,7 +43,6 @@
 /aau*.js
 /aav*.js
 /aaw*.js
-/aax*.js
 /aay*.js
 /aaz*.js
 /aba*.js
@@ -111,7 +128,6 @@
 /aej*.js
 /aek*.js
 /ael*.js
-/aem*.js
 /aen*.js
 /aeo*.js
 /aep*.js
@@ -290,7 +306,6 @@
 /ali*.js
 /alj*.js
 /alk*.js
-/all*.js
 /alm*.js
 /aln*.js
 /alo*.js
@@ -661,7 +676,6 @@
 /baa*.js
 /bab*.js
 /bad*.js
-/bae*.js
 /baf*.js
 /bag*.js
 /bah*.js
@@ -973,7 +987,6 @@
 /bmd*.js
 /bme*.js
 /bmf*.js
-/bmg*.js
 /bmh*.js
 /bmi*.js
 /bmj*.js
@@ -1525,7 +1538,6 @@
 /cht*.js
 /chu*.js
 /chv*.js
-/chw*.js
 /chx*.js
 /chy*.js
 /chz*.js
@@ -1545,16 +1557,13 @@
 /cio*.js
 /cip*.js
 /ciq*.js
-/cir*.js
 /cis*.js
 /cit*.js
-/ciu*.js
 /civ*.js
 /ciw*.js
 /cix*.js
 /ciy*.js
 /ciz*.js
-/cjb*.js
 /cjc*.js
 /cjd*.js
 /cje*.js
@@ -1634,7 +1643,6 @@
 /cmc*.js
 /cmd*.js
 /cme*.js
-/cmf*.js
 /cmg*.js
 /cmh*.js
 /cmi*.js
@@ -1981,7 +1989,6 @@
 /daa*.js
 /dab*.js
 /dac*.js
-/dad*.js
 /dae*.js
 /daf*.js
 /dag*.js
@@ -2096,7 +2103,6 @@
 /dep*.js
 /deq*.js
 /der*.js
-/des*.js
 /det*.js
 /deu*.js
 /dew*.js
@@ -2113,7 +2119,6 @@
 /dfh*.js
 /dfi*.js
 /dfj*.js
-/dfk*.js
 /dfl*.js
 /dfm*.js
 /dfn*.js
@@ -2886,7 +2891,6 @@
 /ejk*.js
 /ejl*.js
 /ejm*.js
-/ejn*.js
 /ejo*.js
 /ejp*.js
 /ejq*.js
@@ -3121,7 +3125,6 @@
 /esp*.js
 /esq*.js
 /esr*.js
-/ess*.js
 /est*.js
 /esu*.js
 /esv*.js
@@ -3234,7 +3237,6 @@
 /exa*.js
 /exb*.js
 /exc*.js
-/exd*.js
 /exe*.js
 /exf*.js
 /exg*.js
@@ -3327,7 +3329,6 @@
 /fas*.js
 /fat*.js
 /fau*.js
-/fav*.js
 /faw*.js
 /fax*.js
 /fay*.js
@@ -3486,7 +3487,6 @@
 /fha*.js
 /fhb*.js
 /fhc*.js
-/fhd*.js
 /fhe*.js
 /fhf*.js
 /fhg*.js
@@ -3591,7 +3591,6 @@
 /flb*.js
 /flc*.js
 /fld*.js
-/fle*.js
 /flf*.js
 /flg*.js
 /flh*.js
@@ -3678,7 +3677,6 @@
 /fok*.js
 /fol*.js
 /fom*.js
-/fon*.js
 /foo*.js
 /fop*.js
 /foq*.js
@@ -3745,7 +3743,6 @@
 /frb*.js
 /frc*.js
 /frd*.js
-/fre*.js
 /frf*.js
 /frg*.js
 /frh*.js
@@ -3809,7 +3806,6 @@
 /fto*.js
 /ftp*.js
 /ftq*.js
-/ftr*.js
 /fts*.js
 /ftt*.js
 /ftv*.js
@@ -3863,7 +3859,6 @@
 /fvr*.js
 /fvs*.js
 /fvt*.js
-/fvu*.js
 /fvv*.js
 /fvw*.js
 /fvx*.js
@@ -3918,7 +3913,6 @@
 /fxv*.js
 /fxw*.js
 /fxx*.js
-/fxy*.js
 /fxz*.js
 /fya*.js
 /fyb*.js
@@ -4123,7 +4117,6 @@
 /gfu*.js
 /gfv*.js
 /gfw*.js
-/gfx*.js
 /gfy*.js
 /gga*.js
 /ggb*.js
@@ -4434,7 +4427,6 @@
 /grx*.js
 /gry*.js
 /grz*.js
-/gsa*.js
 /gsb*.js
 /gsc*.js
 /gsd*.js
@@ -4449,7 +4441,6 @@
 /gsm*.js
 /gsn*.js
 /gso*.js
-/gsp*.js
 /gsq*.js
 /gsr*.js
 /gss*.js
@@ -4583,7 +4574,6 @@
 /gxs*.js
 /gxt*.js
 /gxu*.js
-/gxv*.js
 /gxw*.js
 /gxx*.js
 /gxy*.js
@@ -4920,7 +4910,6 @@
 /hkv*.js
 /hkw*.js
 /hkx*.js
-/hky*.js
 /hkz*.js
 /hla*.js
 /hlb*.js
@@ -4940,7 +4929,6 @@
 /hlp*.js
 /hlq*.js
 /hlr*.js
-/hls*.js
 /hlt*.js
 /hlu*.js
 /hlv*.js
@@ -5441,7 +5429,6 @@
 /iey*.js
 /iez*.js
 /ifa*.js
-/ifb*.js
 /ifc*.js
 /ifd*.js
 /ife*.js
@@ -5633,7 +5620,6 @@
 /imj*.js
 /imk*.js
 /iml*.js
-/imm*.js
 /imn*.js
 /imo*.js
 /imq*.js
@@ -5646,9 +5632,7 @@
 /imx*.js
 /imy*.js
 /imz*.js
-/ina*.js
 /inb*.js
-/inc*.js
 /ind*.js
 /ine*.js
 /ing*.js
@@ -5659,7 +5643,6 @@
 /inm*.js
 /inn*.js
 /ino*.js
-/inp*.js
 /inq*.js
 /inr*.js
 /inu*.js
@@ -5798,7 +5781,6 @@
 /isx*.js
 /isy*.js
 /isz*.js
-/ita*.js
 /itb*.js
 /itc*.js
 /itd*.js
@@ -5806,7 +5788,6 @@
 /itf*.js
 /itg*.js
 /ith*.js
-/iti*.js
 /itj*.js
 /itk*.js
 /itl*.js
@@ -6063,7 +6044,6 @@
 /jdd*.js
 /jde*.js
 /jdf*.js
-/jdg*.js
 /jdh*.js
 /jdi*.js
 /jdj*.js
@@ -6326,7 +6306,6 @@
 /jni*.js
 /jnj*.js
 /jnk*.js
-/jnl*.js
 /jnm*.js
 /jnn*.js
 /jno*.js
@@ -6585,7 +6564,6 @@
 /jxk*.js
 /jxl*.js
 /jxm*.js
-/jxn*.js
 /jxo*.js
 /jxp*.js
 /jxq*.js
@@ -6630,7 +6608,6 @@
 /jzd*.js
 /jze*.js
 /jzf*.js
-/jzg*.js
 /jzh*.js
 /jzi*.js
 /jzj*.js
@@ -6723,7 +6700,6 @@
 /kcs*.js
 /kct*.js
 /kcu*.js
-/kcv*.js
 /kcw*.js
 /kcx*.js
 /kcy*.js
@@ -6981,7 +6957,6 @@
 /kmr*.js
 /kms*.js
 /kmt*.js
-/kmu*.js
 /kmv*.js
 /kmw*.js
 /kmx*.js
@@ -7234,7 +7209,6 @@
 /kwl*.js
 /kwm*.js
 /kwn*.js
-/kwo*.js
 /kwp*.js
 /kwq*.js
 /kwr*.js
@@ -7299,7 +7273,6 @@
 /kyz*.js
 /kza*.js
 /kzb*.js
-/kzc*.js
 /kzd*.js
 /kze*.js
 /kzf*.js
@@ -7507,7 +7480,6 @@
 /lhc*.js
 /lhd*.js
 /lhe*.js
-/lhf*.js
 /lhg*.js
 /lhh*.js
 /lhi*.js
@@ -7640,7 +7612,6 @@
 /lmj*.js
 /lmk*.js
 /lml*.js
-/lmm*.js
 /lmn*.js
 /lmo*.js
 /lmp*.js
@@ -7889,7 +7860,6 @@
 /lwd*.js
 /lwe*.js
 /lwf*.js
-/lwg*.js
 /lwh*.js
 /lwi*.js
 /lwj*.js
@@ -7995,7 +7965,6 @@
 /maf*.js
 /mag*.js
 /mah*.js
-/mai*.js
 /maj*.js
 /mak*.js
 /mal*.js
@@ -8119,7 +8088,6 @@
 /mfh*.js
 /mfi*.js
 /mfj*.js
-/mfk*.js
 /mfl*.js
 /mfm*.js
 /mfn*.js
@@ -8143,7 +8111,6 @@
 /mgf*.js
 /mgg*.js
 /mgh*.js
-/mgi*.js
 /mgj*.js
 /mgk*.js
 /mgl*.js
@@ -8200,7 +8167,6 @@
 /mik*.js
 /mil*.js
 /mim*.js
-/min*.js
 /mio*.js
 /mip*.js
 /miq*.js
@@ -8447,7 +8413,6 @@
 /msd*.js
 /mse*.js
 /msf*.js
-/msg*.js
 /msh*.js
 /msi*.js
 /msj*.js
@@ -8623,7 +8588,6 @@
 /myx*.js
 /myz*.js
 /mza*.js
-/mzb*.js
 /mzc*.js
 /mzd*.js
 /mze*.js
@@ -8666,7 +8630,6 @@
 /nap*.js
 /naq*.js
 /nar*.js
-/nas*.js
 /nat*.js
 /nau*.js
 /nav*.js
@@ -9822,7 +9785,6 @@
 /oto*.js
 /otp*.js
 /otq*.js
-/otr*.js
 /ots*.js
 /ott*.js
 /otu*.js
@@ -9923,7 +9885,6 @@
 /oxl*.js
 /oxm*.js
 /oxn*.js
-/oxo*.js
 /oxp*.js
 /oxq*.js
 /oxr*.js
@@ -10047,7 +10008,6 @@
 /pcg*.js
 /pch*.js
 /pci*.js
-/pcj*.js
 /pck*.js
 /pcl*.js
 /pcm*.js
@@ -10156,7 +10116,6 @@
 /pgm*.js
 /pgn*.js
 /pgo*.js
-/pgp*.js
 /pgq*.js
 /pgr*.js
 /pgs*.js
@@ -10181,7 +10140,6 @@
 /phl*.js
 /phm*.js
 /phn*.js
-/pho*.js
 /php*.js
 /phq*.js
 /phr*.js
@@ -10363,7 +10321,6 @@
 /pop*.js
 /poq*.js
 /por*.js
-/pos*.js
 /pot*.js
 /pou*.js
 /pov*.js
@@ -10427,7 +10384,6 @@
 /prb*.js
 /prc*.js
 /prd*.js
-/pre*.js
 /prf*.js
 /prg*.js
 /prh*.js
@@ -10446,7 +10402,6 @@
 /prv*.js
 /prw*.js
 /prx*.js
-/pry*.js
 /prz*.js
 /psa*.js
 /psb*.js
@@ -10591,7 +10546,6 @@
 /pxl*.js
 /pxm*.js
 /pxn*.js
-/pxo*.js
 /pxp*.js
 /pxq*.js
 /pxr*.js
@@ -10659,7 +10613,6 @@
 /qab*.js
 /qac*.js
 /qad*.js
-/qae*.js
 /qaf*.js
 /qag*.js
 /qah*.js
@@ -10771,7 +10724,6 @@
 /qej*.js
 /qek*.js
 /qel*.js
-/qem*.js
 /qen*.js
 /qeo*.js
 /qep*.js
@@ -11181,7 +11133,6 @@
 /que*.js
 /quf*.js
 /qug*.js
-/qui*.js
 /quj*.js
 /quk*.js
 /qul*.js
@@ -11262,7 +11213,6 @@
 /qxi*.js
 /qxj*.js
 /qxk*.js
-/qxl*.js
 /qxm*.js
 /qxn*.js
 /qxo*.js
@@ -11433,7 +11383,6 @@
 /rdz*.js
 /rea*.js
 /reb*.js
-/red*.js
 /ree*.js
 /ref*.js
 /reg*.js
@@ -11447,7 +11396,6 @@
 /rer*.js
 /ret*.js
 /reu*.js
-/rev*.js
 /rew*.js
 /rex*.js
 /rey*.js
@@ -11649,7 +11597,6 @@
 /rmn*.js
 /rmo*.js
 /rmp*.js
-/rmq*.js
 /rmr*.js
 /rms*.js
 /rmt*.js
@@ -12028,7 +11975,6 @@
 /sbh*.js
 /sbi*.js
 /sbj*.js
-/sbk*.js
 /sbl*.js
 /sbm*.js
 /sbn*.js
@@ -12043,7 +11989,6 @@
 /sbw*.js
 /sbx*.js
 /sby*.js
-/sbz*.js
 /sca*.js
 /scb*.js
 /scc*.js
@@ -12166,7 +12111,6 @@
 /sgx*.js
 /sgy*.js
 /sgz*.js
-/shb*.js
 /shc*.js
 /shd*.js
 /she*.js
@@ -12221,12 +12165,10 @@
 /sje*.js
 /sjf*.js
 /sjg*.js
-/sjh*.js
 /sji*.js
 /sjj*.js
 /sjk*.js
 /sjl*.js
-/sjm*.js
 /sjn*.js
 /sjo*.js
 /sjp*.js
@@ -12353,7 +12295,6 @@
 /soi*.js
 /soj*.js
 /sok*.js
-/sol*.js
 /som*.js
 /son*.js
 /soo*.js
@@ -12371,7 +12312,6 @@
 /spb*.js
 /spc*.js
 /spd*.js
-/spe*.js
 /spg*.js
 /sph*.js
 /spi*.js
@@ -12548,7 +12488,6 @@
 /swf*.js
 /swg*.js
 /swh*.js
-/swi*.js
 /swj*.js
 /swk*.js
 /swl*.js
@@ -12579,7 +12518,6 @@
 /sxk*.js
 /sxl*.js
 /sxm*.js
-/sxn*.js
 /sxo*.js
 /sxp*.js
 /sxq*.js
@@ -12805,7 +12743,6 @@
 /tge*.js
 /tgf*.js
 /tgg*.js
-/tgh*.js
 /tgi*.js
 /tgj*.js
 /tgk*.js
@@ -12937,7 +12874,6 @@
 /tlh*.js
 /tli*.js
 /tlj*.js
-/tlk*.js
 /tll*.js
 /tlm*.js
 /tln*.js
@@ -12981,7 +12917,6 @@
 /tmz*.js
 /tna*.js
 /tnb*.js
-/tnc*.js
 /tnd*.js
 /tne*.js
 /tnf*.js
@@ -13019,7 +12954,6 @@
 /tol*.js
 /tom*.js
 /ton*.js
-/too*.js
 /top*.js
 /toq*.js
 /tor*.js
@@ -13136,7 +13070,6 @@
 /ttc*.js
 /ttd*.js
 /tte*.js
-/ttf*.js
 /ttg*.js
 /tth*.js
 /tti*.js
@@ -13224,7 +13157,6 @@
 /twp*.js
 /twq*.js
 /twr*.js
-/tws*.js
 /twt*.js
 /twu*.js
 /twv*.js
@@ -13608,7 +13540,6 @@
 /ulq*.js
 /ulr*.js
 /uls*.js
-/ult*.js
 /ulu*.js
 /ulv*.js
 /ulw*.js
@@ -13708,7 +13639,6 @@
 /upp*.js
 /upq*.js
 /upr*.js
-/ups*.js
 /upt*.js
 /upu*.js
 /upv*.js
@@ -13772,7 +13702,6 @@
 /usb*.js
 /usc*.js
 /usd*.js
-/use*.js
 /usf*.js
 /usg*.js
 /ush*.js
@@ -13887,7 +13816,6 @@
 /uwo*.js
 /uwp*.js
 /uwq*.js
-/uwr*.js
 /uws*.js
 /uwt*.js
 /uwu*.js
@@ -14041,7 +13969,6 @@
 /vcn*.js
 /vco*.js
 /vcp*.js
-/vcq*.js
 /vcr*.js
 /vcs*.js
 /vct*.js
@@ -14181,7 +14108,6 @@
 /vhz*.js
 /via*.js
 /vib*.js
-/vic*.js
 /vie*.js
 /vif*.js
 /vig*.js
@@ -14195,7 +14121,6 @@
 /vip*.js
 /viq*.js
 /vir*.js
-/vis*.js
 /vit*.js
 /viu*.js
 /viv*.js
@@ -14327,7 +14252,6 @@
 /vnt*.js
 /vnu*.js
 /vnv*.js
-/vnw*.js
 /vnx*.js
 /vny*.js
 /vnz*.js
@@ -14362,7 +14286,6 @@
 /vpd*.js
 /vpe*.js
 /vpf*.js
-/vpg*.js
 /vph*.js
 /vpi*.js
 /vpj*.js
@@ -14566,7 +14489,6 @@
 /vxa*.js
 /vxb*.js
 /vxc*.js
-/vxd*.js
 /vxe*.js
 /vxf*.js
 /vxg*.js
@@ -14925,7 +14847,6 @@
 /xkx*.js
 /xky*.js
 /xkz*.js
-/xla*.js
 /xlb*.js
 /xlc*.js
 /xld*.js
@@ -14987,7 +14908,6 @@
 /xnh*.js
 /xni*.js
 /xnj*.js
-/xnk*.js
 /xnl*.js
 /xnm*.js
 /xnn*.js
@@ -14996,7 +14916,6 @@
 /xnq*.js
 /xnr*.js
 /xns*.js
-/xnt*.js
 /xnu*.js
 /xnv*.js
 /xnw*.js
@@ -15749,7 +15668,6 @@
 /yqu*.js
 /yqv*.js
 /yqw*.js
-/yqx*.js
 /yqy*.js
 /yqz*.js
 /yra*.js
@@ -15796,7 +15714,6 @@
 /ysp*.js
 /ysq*.js
 /ysr*.js
-/yss*.js
 /yst*.js
 /ysu*.js
 /ysv*.js
@@ -15814,7 +15731,6 @@
 /yth*.js
 /yti*.js
 /ytj*.js
-/ytk*.js
 /ytl*.js
 /ytm*.js
 /ytn*.js
@@ -15936,7 +15852,6 @@
 /yyb*.js
 /yyc*.js
 /yyd*.js
-/yye*.js
 /yyf*.js
 /yyg*.js
 /yyh*.js
@@ -16101,7 +16016,6 @@
 /zem*.js
 /zen*.js
 /zeo*.js
-/zep*.js
 /zeq*.js
 /zer*.js
 /zes*.js
@@ -16179,7 +16093,6 @@
 /zhm*.js
 /zhn*.js
 /zho*.js
-/zhp*.js
 /zhq*.js
 /zhr*.js
 /zhs*.js
@@ -16657,8 +16570,178 @@
 /zzx*.js
 /zzy*.js
 /zzz*.js
-@@https://ssl.gstatic.com*
-@@https://apis.google.com*
+nick-name.ru
+www.nick-name.ru
+hfryiq.solutions
+petropavlovsk-k.flowers-sib.ru
+maykop.flowers-sib.ru
+pushkino.flowers-sib.ru
+pervouralsk.flowers-sib.ru
+odincovo.flowers-sib.ru
+ufa.flowers-sib.ru
+bryansk.flowers-sib.ru
+omsk.flowers-sib.ru
+barnaul.flowers-sib.ru
+samara.flowers-sib.ru
+flowers-
+tuapse.flowers-sib.ru
+perm.flowers-sib.ru
+podolsk.flowers-sib.ru
+kaliningrad.flowers-sib.ru
+habarovsk.flowers-sib.ru
+yaroslavl.flowers-sib.ru
+electrostal.flowers-sib.ru
+kamensk-uralskiy.flowers-sib.ru
+mytischi.flowers-sib.ru
+nalchik.flowers-sib.ru
+spb.flowers-sib.ru
+belokuriha.flowers-sib.ru
+leninsk-kuzneckij.flowers-sib.ru
+vladivostok.flowers-sib.ru
+balakovo.flowers-sib.ru
+astrahan.flowers-sib.ru
+voronezh.flowers-sib.ru
+murmansk.flowers-sib.ru
+mahachkala.flowers-sib.ru
+novocherkassk.flowers-sib.ru
+cheboksary.flowers-sib.ru
+engels.flowers-sib.ru
+sevastopol.flowers-sib.ru
+syktyvkar.flowers-sib.ru
+ulyanovsk.flowers-sib.ru
+vologda.flowers-sib.ru
+irkutsk.flowers-sib.ru
+ryazan.flowers-sib.ru
+kislovodsk.flowers-sib.ru
+volgodonsk.flowers-sib.ru
+vyborg.flowers-sib.ru
+almetevsk.flowers-sib.ru
+saransk.flowers-sib.ru
+kursk.flowers-sib.ru
+nahodka.flowers-sib.ru
+penza.flowers-sib.ru
+tumen.flowers-sib.ru
+lyubertsy.flowers-sib.ru
+velikie-luki.flowers-sib.ru
+chelyabinsk.flowers-sib.ru
+elets.flowers-sib.ru
+tagil.flowers-sib.ru
+novyy-urengoy.flowers-sib.ru
+smolensk.flowers-sib.ru
+uhta.flowers-sib.ru
+pskov.flowers-sib.ru
+tomsk.flowers-sib.ru
+ramenskoe.flowers-sib.ru
+novokuzneck.flowers-sib.ru
+pjatigorsk.flowers-sib.ru
+surgut.flowers-sib.ru
+kaluga.flowers-sib.ru
+mineralnye-vody.flowers-sib.ru
+nefteyugansk.flowers-sib.ru
+kolomna.flowers-sib.ru
+hanty-mansiysk.flowers-sib.ru
+msk.flowers-sib.ru
+sochi.flowers-sib.ru
+volzhskiy.flowers-sib.ru
+usinsk.flowers-sib.ru
+sterlitamak.flowers-sib.ru
+nizhnevartovsk.flowers-sib.ru
+tula.flowers-sib.ru
+kazan.flowers-sib.ru
+novgorod.flowers-sib.ru
+vladikavkaz.flowers-sib.ru
+krs.flowers-sib.ru
+kemerovo.flowers-sib.ru
+belgorod.flowers-sib.ru
+chelny.flowers-sib.ru
+novorossiysk.flowers-sib.ru
+orenburg.flowers-sib.ru
+izhevsk.flowers-sib.ru
+orel.flowers-sib.ru
+sib.ru
+petrozavodsk.flowers-sib.ru
+i9.pixs.ru
+i10.pixs.ru
+i11.pixs.ru
+srv.nx8.ru
+pixs.ru
+pixvenue.com
+img.pixs.ru
+i12.pixs.ru
+i6.pixs.ru
+desktopvenue.com
+ru.desktopvenue.com
+i.pixs.ru
+servup.org
+livetv.city
+www.pixvenue.com
+www.pixs.ru
+domai.ru
+photodesk.ru
+de.desktopvenue.com
+i11.pixs.ru.
+i12.pixs.ru.
+kidsson.ru
+www.livetv.city
+i.desktopvenue.com
+cactusmebel.ru
+kaktusmebel.ru
+livetvcity.ru
+www.livetvcity.ru
+i.livetv.city
+npo2.livetv.ru
+rr1.livetv.ru
+rr2.livetv.ru
+count.livetv.ru
+www.livetv.ru
+livetv.ru
+whois.markmonitor.com
+www.markmonitor.com
+domains.markmonitor.com
+comingsoon.markmonitor.com
+gf1.markmonitor.com
+ns4.markmonitor.com
+ns5.markmonitor.com
+ns2.markmonitor.com
+ns3.markmonitor.com
+ns1.markmonitor.com
+info.markmonitor.com
+brandcasting.markmonitor.com
+autodiscover.markmonitor.com
+webmail.markmonitor.com
+infringementibo.markmonitor.com
+corp.markmonitor.com
+insite.markmonitor.com
+ns6.markmonitor.com
+ap.markmonitor.com
+ns7.markmonitor.com
+ns8.markmonitor.com
+thisnameisdeprecated1.markmonitor.com
+thisnameisdeprecated2.markmonitor.com
+thisnameisdeprecated.markmonitor.com
+go.markmonitor.com
+mail.markmonitor.com
+maintenance.markmonitor.com
+mail1.markmonitor.com
+mail3.markmonitor.com
+tcmsearch.markmonitor.com
+mail3.feeds.markmonitor.com
+brand.qa.markmonitor.com
+mail2.markmonitor.com
+csoportal.markmonitor.com
+view.outboundmarketing.markmonitor.com
+telhosting.markmonitor.com
+reporting.markmonitor.com
+mail5.markmonitor.com
+salesportal.markmonitor.com
+mail1.feeds.markmonitor.com
+feeds.markmonitor.com
+domains-qa.markmonitor.com
+afapi.markmonitor.com
+dc.webmail.markmonitor.com
+cgi.markmonitor.com
+forward.markmonitor.com
+click.outboundmarketing.markmonitor.com
 @@https://static.xx.fbcdn.net*
 @@/nk-sub.min.js$script,~third-party
 @@/rutorrent/plugins/rss/*$image,~third-party
@@ -17410,5 +17493,7 @@
 @@||material.cmiscm.com/images/share.png
 @@||privacypal.co/assets/img/fb.jpg
 @@||volkswagen-electrique.fr/img/share/share.jpg
+/*/injection/*$popup
+/*/injection/*^
 
-!total 17414
+! total 17.499
