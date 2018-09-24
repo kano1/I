@@ -2,6 +2,10 @@
 ! Title: Behavior Shield
 ! protect from abnormal scripts
 
+[Adblock Plus 2.0]
+! Title: Behavior Shield
+! protect from abnormal scripts
+
 ||theviralmob.com^
 185.180.13.18
 195.181.162.2
@@ -96,7 +100,6 @@
 /acz*.js
 /ada*.js
 /adb*.js
-/adc*.js
 /ade*.js
 /adf*.js
 /adg*.js
@@ -207,7 +210,6 @@
 /ahl*.js
 /ahm*.js
 /ahn*.js
-/aho*.js
 /ahp*.js
 /ahq*.js
 /ahr*.js
@@ -334,7 +336,6 @@
 /amm*.js
 /amn*.js
 /amo*.js
-/amp*.js
 /amq*.js
 /amr*.js
 /ams*.js
@@ -511,7 +512,6 @@
 /ato*.js
 /atp*.js
 /atq*.js
-/atr*.js
 /ats*.js
 /att*.js
 /atu*.js
@@ -774,7 +774,6 @@
 /bdx*.js
 /bdy*.js
 /bdz*.js
-/bea*.js
 /beb*.js
 /bec*.js
 /bed*.js
@@ -1151,7 +1150,6 @@
 /bso*.js
 /bsp*.js
 /bsq*.js
-/bsr*.js
 /bss*.js
 /bst*.js
 /bsu*.js
@@ -1193,7 +1191,6 @@
 /buf*.js
 /bug*.js
 /buh*.js
-/bui*.js
 /buj*.js
 /buk*.js
 /bul*.js
@@ -1456,7 +1453,6 @@
 /ceo*.js
 /cep*.js
 /ceq*.js
-/cer*.js
 /ces*.js
 /cet*.js
 /ceu*.js
@@ -2098,7 +2094,6 @@
 /dej*.js
 /dek*.js
 /dem*.js
-/den*.js
 /deo*.js
 /dep*.js
 /deq*.js
@@ -2328,7 +2323,6 @@
 /dnk*.js
 /dnl*.js
 /dnm*.js
-/dnn*.js
 /dno*.js
 /dnp*.js
 /dnq*.js
@@ -2689,7 +2683,6 @@
 /ebo*.js
 /ebq*.js
 /ebr*.js
-/ebs*.js
 /ebt*.js
 /ebu*.js
 /ebv*.js
@@ -3526,7 +3519,6 @@
 /fio*.js
 /fip*.js
 /fiq*.js
-/fir*.js
 /fis*.js
 /fit*.js
 /fiu*.js
@@ -4338,7 +4330,6 @@
 /gol*.js
 /gom*.js
 /gon*.js
-/goo*.js
 /gop*.js
 /goq*.js
 /gor*.js
@@ -4421,7 +4412,6 @@
 /grr*.js
 /grs*.js
 /grt*.js
-/gru*.js
 /grv*.js
 /grw*.js
 /grx*.js
@@ -5156,7 +5146,6 @@
 /huj*.js
 /huk*.js
 /hul*.js
-/hum*.js
 /hun*.js
 /huo*.js
 /hup*.js
@@ -6437,7 +6426,6 @@
 /jsm*.js
 /jsn*.js
 /jso*.js
-/jsp*.js
 /jsq*.js
 /jsr*.js
 /jss*.js
@@ -7502,7 +7490,6 @@
 /lhz*.js
 /lia*.js
 /lic*.js
-/lid*.js
 /lie*.js
 /lif*.js
 /lih*.js
@@ -7512,7 +7499,6 @@
 /lil*.js
 /lim*.js
 /lio*.js
-/lip*.js
 /liq*.js
 /lir*.js
 /lis*.js
@@ -9856,7 +9842,6 @@
 /owi*.js
 /owj*.js
 /owk*.js
-/owl*.js
 /owm*.js
 /own*.js
 /owo*.js
@@ -10525,7 +10510,6 @@
 /pwq*.js
 /pwr*.js
 /pws*.js
-/pwt*.js
 /pwu*.js
 /pwv*.js
 /pww*.js
@@ -11781,7 +11765,6 @@
 /rts*.js
 /rtt*.js
 /rtu*.js
-/rtv*.js
 /rtw*.js
 /rtx*.js
 /rty*.js
@@ -11978,7 +11961,6 @@
 /sbl*.js
 /sbm*.js
 /sbn*.js
-/sbo*.js
 /sbp*.js
 /sbq*.js
 /sbr*.js
@@ -12041,7 +12023,6 @@
 /sed*.js
 /see*.js
 /sef*.js
-/seg*.js
 /seh*.js
 /sei*.js
 /sej*.js
@@ -12287,7 +12268,6 @@
 /snz*.js
 /soa*.js
 /sob*.js
-/sod*.js
 /soe*.js
 /sof*.js
 /sog*.js
@@ -12484,7 +12464,6 @@
 /swb*.js
 /swc*.js
 /swd*.js
-/swe*.js
 /swf*.js
 /swg*.js
 /swh*.js
@@ -14017,7 +13996,6 @@
 /vek*.js
 /vel*.js
 /vem*.js
-/ven*.js
 /veo*.js
 /vep*.js
 /veq*.js
@@ -14592,7 +14570,6 @@
 /xbc*.js
 /xbd*.js
 /xbe*.js
-/xbf*.js
 /xbg*.js
 /xbh*.js
 /xbi*.js
@@ -17497,3 +17474,4 @@ click.outboundmarketing.markmonitor.com
 /*/injection/*^
 
 ! total 17.499
+
