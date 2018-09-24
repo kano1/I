@@ -107,9 +107,7 @@
 /adm*.js
 /adn*.js
 /ado*.js
-/adp*.js
 /adq*.js
-/adr*.js
 /adt*.js
 /adu*.js
 /adx*.js
@@ -519,7 +517,6 @@
 /aua*.js
 /aub*.js
 /auc*.js
-/aud*.js
 /aue*.js
 /auf*.js
 /aug*.js
@@ -1347,7 +1344,6 @@
 /cao*.js
 /caq*.js
 /car*.js
-/cas*.js
 /cat*.js
 /cau*.js
 /cav*.js
@@ -2295,7 +2291,6 @@
 /dmm*.js
 /dmn*.js
 /dmo*.js
-/dmp*.js
 /dmq*.js
 /dmr*.js
 /dms*.js
@@ -5116,7 +5111,6 @@
 /htj*.js
 /htk*.js
 /htl*.js
-/htm*.js
 /htn*.js
 /hto*.js
 /htp*.js
@@ -6831,7 +6825,6 @@
 /kil*.js
 /kim*.js
 /kin*.js
-/kio*.js
 /kip*.js
 /kiq*.js
 /kir*.js
@@ -7487,7 +7480,6 @@
 /lia*.js
 /lic*.js
 /lie*.js
-/lif*.js
 /lih*.js
 /lii*.js
 /lij*.js
@@ -12024,7 +12016,6 @@
 /sej*.js
 /sek*.js
 /sem*.js
-/sen*.js
 /seo*.js
 /sep*.js
 /seq*.js
@@ -12394,7 +12385,6 @@
 /stl*.js
 /stm*.js
 /stn*.js
-/sto*.js
 /stp*.js
 /stq*.js
 /str*.js
@@ -12518,7 +12508,6 @@
 /syk*.js
 /syl*.js
 /sym*.js
-/syn*.js
 /syo*.js
 /syp*.js
 /syq*.js
@@ -14097,7 +14086,6 @@
 /vir*.js
 /vit*.js
 /viu*.js
-/viv*.js
 /viw*.js
 /vix*.js
 /viy*.js
