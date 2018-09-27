@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/*/injection/*$popup
+/*/injection/*^
 .black*.exe
 .black*.js
 .cab*.$popup
