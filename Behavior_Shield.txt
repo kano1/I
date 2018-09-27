@@ -17446,6 +17446,9 @@ click.outboundmarketing.markmonitor.com
 @@||s.yimg.com/pv/static/lib/isyc_Mystique_Srp_organic_viewer_20180912172820.js
 @@https://s.yimg.jp/bdv/yahoo/javascript/csc/20060824/lib2obf_b8.js
 @@https://s.yimg.jp/images/security/pf/pcore-1.0.1.min.js?be19ee68d1
+@@https://auth.gfx.ms/16.000.27920.00/OldConvergedLogin_PCore.js
+@@https://auth.gfx.ms/16.000.27920.00/OldConvergedLogin_PAlt.js
+@@https://msagfx.live.com/16.000.27920.00/OldConvergedLogin_PAlt.js
 /*/injection/*$popup
 /*/injection/*^
 
