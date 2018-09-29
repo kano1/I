@@ -3051,6 +3051,10 @@ zuuk.org###fl10
 /?scontext_r=*$popup
 /ps/*$popup
 /media/pzBkyF5YCGkHQIzT1U/
+! this list appears when the uninstall does not occur fully
+##AviraAddon
+##New-tab-By-yahoo
+! domain list
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
 ||*.adsrotator.com^
