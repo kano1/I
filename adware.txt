@@ -36,7 +36,6 @@
 .pop*.exe
 .pw*$popup
 .pw*.exe
-.pw*js
 .repub*.exe
 .ru*.exe
 .top*$popup
