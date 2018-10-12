@@ -1,8 +1,10 @@
 [Adblock Plus 2.0]
-! Title: Adware BL(By Garuda)
-! Homepage: https://github.com/kano1/I/master/badway.txt
+! Title: Adware Filter Block
+! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/*/injection/*$popup
+/*/injection/*^
 .black*.exe
 .black*.js
 .cab*.$popup
@@ -34,13 +36,12 @@
 .pop*.exe
 .pw*$popup
 .pw*.exe
-.pw*js
 .repub*.exe
 .ru*.exe
 .top*$popup
-.top*.exe
+.top*.exe 
 .top*js
-.top.top*$popup
+.top*$popup
 .tor*.txe
 .trade*.exe
 .trade*js
@@ -57,6 +58,12 @@
 .cn/fs01/2014
 .cn/fs01
 .cn/wm/15/
+caljgklbbfbcjjanaijlacgncafpegll
+hcjjaajflhellmcfcecojihhmdbjmmlm
+flliilndjeohchalpbbcdekjklbdgfkk
+caljgklbbfbcjjanaijlacgncafpegll*$popup
+hcjjaajflhellmcfcecojihhmdbjmmlm*$popup
+flliilndjeohchalpbbcdekjklbdgfkk*$popup
 /fs01
 /fs01/2014
 /fs01
@@ -94,6 +101,10 @@
 /.well-known/*/signin/
 /.well-known/pki-validation/excel.php
 /.workwork/.press/docgg
+/p/*$popup
+/imp/*$popup
+/*/?scontext_r=**$popup
+/?scontext_r=*$popup
 /02bjJBHDs
 /0Ff6aLZ
 /0G6r8t4vWcy
@@ -3033,6 +3044,16 @@ zuuk.org###fl10
 /w72vkpjeg?*$popup
 /watch*dd0c*$popup
 /x5we1x*$popup
+/*=direct*$popup
+/imp/*$popup
+/*/?scontext_r=**$popup
+/?scontext_r=*$popup
+/ps/*$popup
+/media/pzBkyF5YCGkHQIzT1U/
+! this list appears when the uninstall does not occur fully
+##AviraAddon
+##New-tab-By-yahoo
+! domain list
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
 ||*.adsrotator.com^
@@ -3816,8 +3837,6 @@ zuuk.org###fl10
 ||*.mzcdntest.com^
 ||*.nadijs.info^
 ||*.nav-links.com^
-||*.netdna-ssl.co^
-||*.netdna-ssl.com^
 ||*.night-hawk.co.uk^
 ||*.night-hawk.com^
 ||*.night-hawk.de^
@@ -3984,6 +4003,7 @@ zuuk.org###fl10
 ||*.spigotjs.info^
 ||*.ssfiles.com^
 ||*.ssfiles.ml^
+||*..static.akamaitechnologies.com^
 ||*.stokes.band^
 ||*.stokes.be^
 ||*.stokes.biz^
@@ -33454,6 +33474,8 @@ zuuk.org###fl10
 ||structuralstonellc.com^
 ||structuresofa.com^$third-party
 ||sts.eccmp.com^$third-party
+||stripper.com^
+||stripper.com$popup
 ||studentaffairsfit.com^
 ||studentposters.co.uk^
 ||studiodentisticosepe.com^
@@ -43989,5 +44011,8 @@ zuuk.org###fl10
 ||znjo3h2m.top^
 ||zrav2wkbrs.com*$popup
 ||zrav2wkbrs.com^
+||stripper.com^
 
 ! total : 41.892
+
+
