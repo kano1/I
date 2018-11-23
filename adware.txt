@@ -3021,6 +3021,7 @@ ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
 vipbox.online###html3
+*referrer$popup
 vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,vipleague.co,vipleague.sx,vipleague.ch,vipbox.tv,vipbox.co,vipbox.biz,vipbox.sx,vipbox.eu,vipbox.so,vipbox.nu,vipboxsa.co,strikeout.co,strikeout.me,homerun.re,vipboxtv.co,vipapp.me##script+script+script+style+div[id]
 vipracing.info##.in-video-adds
 vizer.tv#@#.adBlockDetected
@@ -41913,5 +41914,4 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 ! total: 41 917
-
 
