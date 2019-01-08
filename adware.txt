@@ -973,7 +973,6 @@
 /inventionsteel
 /invest/project/contract
 /investmentfile
-/ip*.js
 /ip.js
 /ipjbvvnjobll
 /iq.js
@@ -41914,4 +41913,5 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 ! total: 41 917
+
 
