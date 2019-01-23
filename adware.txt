@@ -2259,7 +2259,6 @@
 /*28KL6*$popup
 /*2CTPL*$popup
 /*?uid=*$popup
-/*id=*$popup
 |blob:$popup
 |blob:$script,domain=pornhub.com|xhamster.com|youporn.com
 |data:text$popup
