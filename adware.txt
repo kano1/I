@@ -2234,11 +2234,32 @@
 ##vitroll
 ##w1kydor
 ##zt34one
+##div:nth-of-type
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
 #@#div[itemtype="http://schema.org/WPAdBlock"]ick?s=*^$popup
-
+/*/?scontext_r=*$popup
+/*galaprop2/win/01?si*$popup
+/*=*pci=*$popup
+/*=true*$popup
+/*key=*$popup
+/adServe*$popup
+/banners*$popup
+/dead?*$popup
+/*a_aid=*$popup
+/*clickid=*$popup
+/*pubid=*$popup		
+/*anther*$popup
+/*15FZgW?*$popup
+/*cid=*$popup
+/*clang=*$popup
+/*csid=*$popup
+/*ccreoid=*$popup
+/*28KL6*$popup
+/*2CTPL*$popup
+/*?uid=*$popup
+/*id=*$popup
 |blob:$popup
 |blob:$script,domain=pornhub.com|xhamster.com|youporn.com
 |data:text$popup
@@ -41913,5 +41934,4 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 ! total: 41 917
-
 
