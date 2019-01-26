@@ -2239,6 +2239,14 @@
 #@##sponsored-ad
 #@#.afs_ads
 #@#div[itemtype="http://schema.org/WPAdBlock"]ick?s=*^$popup
+##.share-text
+##.share-bar
+##.jw-sharing-dock-btn
+##.icon-facebook-circle
+##.icon-google-plus-circle
+##.icon-twitter
+##.share-facebook
+##.icon-twitter-circle
 /*/?scontext_r=*$popup
 /*galaprop2/win/01?si*$popup
 /*=*pci=*$popup
@@ -41933,4 +41941,3 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 ! total: 41 917
-
