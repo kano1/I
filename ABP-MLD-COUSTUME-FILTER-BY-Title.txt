@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Malware Domain
-
 ! Homepage: https://github.com/kano1/I/blob/master/ABP-COUSTUME-FILTER-BY-Title.txt
-
 
 0koryu0.easter.ne.jp
 109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -27997,4 +27995,4 @@ myhomes.com.tw
 ngamprahprak.id
 nunoquelhas.eu
 
-! total 28.000 
+! total 27.998 
