@@ -19,7 +19,7 @@
 .cn/wm/15/
 .cn/wm/15/
 .en*$popup
-.info
+.info*.$popup
 /dlNx*$popup
 .fi*.exe
 .ga*$popup
