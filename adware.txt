@@ -2246,6 +2246,7 @@
 ##terrorsrimg
 ##terrortogeli
 ##terroryeahguru
+##a[href^="http://bit.ly/"]
 ##ugetmalware
 ##vitroll
 ##w1kydor
@@ -2294,6 +2295,7 @@
 |https://$popup,third-party,domain=gorillavid.in
 |javascript^$popup,domain
 |javascript^$popup,domain=1337x.to|biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
+~aplikasipc.com,~fmlawkers.club##.afs_ads
 012.tw#@#.ad728
 01net.com##.geste
 04stream.com##[id^="adv"]
@@ -2747,6 +2749,7 @@ mocospace.com#@#.ads1x1
 mocospace.com#@#.dfp_ad
 mojevideo.sk#@##video_ad
 mondebrideur.com##.plugbarremozi
+mp4upload.com,bro.adca.st,porndig.com,underhentai.net###overlay
 mrtzcmp3.net###hstp_interstitial
 mrtzcmp3.net###hstp-bg-overlay
 myanimelist.net##._unit
@@ -41998,6 +42001,7 @@ zuuk.org###fl10
 /edb84.aspx
 /engine/go.php?file=Deadpool2EnglishSubtitle-YIFYYTSSubtitles
 /files/disk
+/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /index.php?query=donlod-kicau-burung-sikatan-londo-blasteran
 /logolog/db/box/
 /stubinstaller/OverwolfTeamSpeakInstaller.exe
@@ -42069,6 +42073,4 @@ zuuk.org###fl10
 ||zukbmxbrv.com^
 
 ! total: 42.057
-
-
 
