@@ -18,6 +18,8 @@
 .cn/wm/15/
 .cn/wm/15/
 .en*$popup
+.info
+/dlNx*$popup
 .fi*.exe
 .ga*$popup
 .ga*.exe
@@ -42082,8 +42084,4 @@ zuuk.org###fl10
 ||zukbmxbrv.com^
 
 ! total: 42.084
-
-
-
-
 
