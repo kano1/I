@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+<path d="M0 0h1042v744h-1042z"></path>
 */cm0vv1m1*$popup
 .black*.exe
 .black*.js
@@ -42084,4 +42085,3 @@ zuuk.org###fl10
 ||zukbmxbrv.com^
 
 ! total: 42.084
-
