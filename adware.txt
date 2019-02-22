@@ -2250,6 +2250,8 @@
 ##vitroll
 ##w1kydor
 ##zt34one
+##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+##+js(setInterval-defuser.js, (), 500)
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
@@ -42067,3 +42069,6 @@ zuuk.org###fl10
 ||zukbmxbrv.com^
 
 ! total: 42.057
+
+
+
