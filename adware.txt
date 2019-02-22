@@ -42029,10 +42029,15 @@ zuuk.org###fl10
 ||clkoffers.com^
 ||clkrev.com^
 ||clksite.com^
+||clksite.com^$third-party
+||cpmstar.com/cached/
+||cpmstar.com/view.aspx
 ||croissed.info^
+||disqusads.com^$third-party
 ||dnzevkqpk.com^
 ||download.karaokebatak.com^
 ||download.overwolf.com^
+||drda5yf9kgz5p.cloudfront.net^
 ||dudebutandlac.info^
 ||e.dtscout.com^
 ||emisedsaddamson.info^
@@ -42046,17 +42051,21 @@ zuuk.org###fl10
 ||hintonsfeetred.info^
 ||instagramservisleri.com^
 ||jungloconding.info^
+||ktzwdewsckssid.com^$third-party
 ||lucklayed.info^
 ||luxixumu.cn^
 ||orig01.deviantart.net^
 ||plumber-kuwait-free.com^
+||popads.net/pop.js^$empty,important
 ||putlocker.me^
 ||reculdrothense.info^
+||revcontent.com^$third-party
 ||revdepo.com^
 ||shampionezblogspotcom.vacroz.xyz^
 ||srv.revdepo.com^
 ||sunnydayreal.estate^
 ||tofretonlepa.info^
+||ucvrtwfh.com^$third-party
 ||vacroz.xyz^
 ||ver-pelisme.cdaz.icu^
 ||viewhere.dthem.us^
@@ -42072,5 +42081,9 @@ zuuk.org###fl10
 ||xogoodglass.com^
 ||zukbmxbrv.com^
 
-! total: 42.057
+! total: 42.084
+
+
+
+
 
