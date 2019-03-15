@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter Scrip
-! Homepage: https://github.com/kano1/I/master/adware.txt
+! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
 <path d="M0 0h1042v744h-1042z"></path>
@@ -3163,5 +3163,4 @@ zuuk.org###fl10
 /04uj173k
 
 ! total: 3.166
-
 
