@@ -54,7 +54,6 @@
 .ru*.exe
 .top*$popup
 .top*.exe
-.top*js
 .tor*.txe
 .trade*.exe
 .trade*js
@@ -3173,4 +3172,3 @@ zuuk.org###fl10
 ~aplikasipc.com,~fmlawkers.club##.afs_ads
 
 ! Total :3178
-
