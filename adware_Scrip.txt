@@ -3,11 +3,6 @@
 ! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
-/OneSafe_PC_Cleaner/OneSafe_PC_Cleaner.exe
-/download.cfm?tracking=UTL_JP_PP_SHX_OSPCC&keyword=&campaignID=SHX&clickid=4267255331&filter=83205&skip=&gclid=&uid=&go=https:/
-/cdn.onesafe-software
-/OneSafe_PC_Cleaner.exe
-/OneSafe_PC_Cleaner/OneSafe_PC_Cleaner.exe
 */cm0vv1m1*$popup
 *referrer$popup
 .black*.exe
@@ -282,6 +277,8 @@
 /Nmlucm*$popup
 /Ogow2ZV
 /Om5vbmU7
+/OneSafe_PC_Cleaner.exe
+/OneSafe_PC_Cleaner/OneSafe_PC_Cleaner.exe
 /PeJVBXC
 /People/howcome/m/97/inbox-inria-aug19-aug26-97
 /QdU2T
@@ -527,6 +524,7 @@
 /cc.js
 /cc/a.js
 /cd.js
+/cdn.onesafe-software
 /cdn/r/0/ShareazaSetup-r0-n.exe
 /ce.js
 /cf.js
@@ -701,6 +699,7 @@
 /do.js
 /document
 /documento
+/download.cfm?tracking=UTL_JP_PP_SHX_OSPCC&keyword=&campaignID=SHX&clickid=4267255331&filter=83205&skip=&gclid=&uid=&go=https:/
 /download/1182287/dl?bc=1182287&&p
 /download/1182287/dl?bc=1182287&pi
 /download/dyn/uninstall/package_gamesdesktop_DYNPACKAGES.exe
@@ -3171,4 +3170,4 @@ zuuk.org###fl10
 |javascript^$popup,domain=1337x.to|biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
 ~aplikasipc.com,~fmlawkers.club##.afs_ads
 
-! Total :3178
+!total: 3173
