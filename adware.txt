@@ -8,6 +8,10 @@
 /cdn.onesafe-software
 /OneSafe_PC_Cleaner.exe
 /OneSafe_PC_Cleaner/OneSafe_PC_Cleaner.exe
+/nlp/index.php?url_bnm_redirect=*$popup
+/uAeS/1737058/binom-redirects-de/source4/34aa5irxsbg153yd6f/push
+/wrack-pack
+/shakesmobi
 <path d="M0 0h1042v744h-1042z"></path>
 */cm0vv1m1*$popup
 .black*.exe
@@ -42086,6 +42090,8 @@ zuuk.org###fl10
 ||www.zukbmxbrv.com^
 ||xogoodglass.com^
 ||zukbmxbrv.com^
+wrack-pack.info
+shakesmobi.com
 00548c4bbcdbfcce35d9b1a1d9cc31c59c7952cbb9ef1f7be9324917dcc69916
 21cce2dc3f2eee09b7e19e5d3438de16d8e3eaa27f86e7b1b0de929fe5a9aa2e
 db565d207ae2ff85ed64e392d50a500c1153143656686f1ceeb81d61ff174829
@@ -42101,4 +42107,3 @@ fa831c3b01dcfdf409ab90c0e7313a10062490c8fe2a518dd849dc5431c2c3ad
 c0713d54a158f8c018b407cdc647352b8e17f03ed536fcb8b1267873864ebf01
 
 ! total: 42.084
-
