@@ -3,6 +3,11 @@
 ! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/OneSafe_PC_Cleaner/OneSafe_PC_Cleaner.exe
+/download.cfm?tracking=UTL_JP_PP_SHX_OSPCC&keyword=&campaignID=SHX&clickid=4267255331&filter=83205&skip=&gclid=&uid=&go=https:/
+/cdn.onesafe-software
+/OneSafe_PC_Cleaner.exe
+/OneSafe_PC_Cleaner/OneSafe_PC_Cleaner.exe
 */cm0vv1m1*$popup
 *referrer$popup
 .black*.exe
@@ -3168,3 +3173,4 @@ zuuk.org###fl10
 ~aplikasipc.com,~fmlawkers.club##.afs_ads
 
 ! Total :3178
+
