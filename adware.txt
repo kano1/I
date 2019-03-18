@@ -45,7 +45,6 @@
 .ru*.exe
 .top*$popup
 .top*.exe
-.top*js
 .tor*.txe
 .trade*.exe
 .trade*js
