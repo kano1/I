@@ -3,6 +3,9 @@
 ! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/nlp/index.php?url_bnm_redirect=*$popup
+/uAeS/1737058/binom-redirects-de/source4/34aa5irxsbg153yd6f/push
+/wrack-pack
 */cm0vv1m1*$popup
 *referrer$popup
 .black*.exe
