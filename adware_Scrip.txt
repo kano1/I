@@ -286,7 +286,7 @@
 /.well-known/*/signin/
 /.well-known/pki-validation/excel.php
 /.workwork/.press/docgg
-//agcccfehpn*$popuop
+/agcccfehpn*$popuop
 /02bjJBHDs
 /04uj173k
 /04uj173k*$popup
@@ -2733,6 +2733,7 @@
 ##.kill-india
 ##.kill-mail
 ##.share-bar
+##.branding
 ##.share__button
 ##.uiBoxYellow
 ##193768
@@ -3748,5 +3749,19 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##DIV[style*="overflow:hidden;z-index:310;"]
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
+/checkInventoryQuick.php?_=*IP
+/pOp.js
+/lucklayed
+/v.swf
+/?yadrd=765939
+/p01.notifa
+/p02.notifa
+/p03.notifa
+|http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com
+/*0h1349v640h
+/*1349zM1055 
+/*376h140v200h
+@@*/player/*
+/*a.brand
 
 ! total : 3749
