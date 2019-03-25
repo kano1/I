@@ -3750,10 +3750,8 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
 /checkInventoryQuick.php?_=*IP
-/pOp.js
 /lucklayed
 /v.swf
-/?yadrd=765939
 /p01.notifa
 /p02.notifa
 /p03.notifa
