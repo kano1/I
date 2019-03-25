@@ -3755,11 +3755,24 @@ zuuk.org###fl10
 /p01.notifa
 /p02.notifa
 /p03.notifa
-|http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com
+|http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com
+|http://$third-party,script,popup,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com
 /*0h1349v640h
 /*1349zM1055 
 /*376h140v200h
 @@*/player/*
 /*a.brand
+/ol.php?zoneid=2
+id.yahoo.com###mega-banner
+/?b=2591181&ba*$popup
+=0&camp*$popup
+id=1870132&d*$popup
+id=&dm=0&ep*$popup
+=0&fp=0&g*$popup
+=JP&hr*$popup
+=0&i18db=1&l=*$popup
+/?ip=*$popup
+/?b=*$popup
+/?h=*$popup
 
 ! total : 3749
