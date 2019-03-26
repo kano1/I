@@ -3781,6 +3781,8 @@ id=&dm=0&ep*$popup
 /embed/tt0182576/5-9/
 /ck?ab=*$popup
 /*putlocker*:443
+/pushmejs.*:443
+/y2mate*:443
 /ntfc.php?*$popup
 
 ! total : 3749
