@@ -3755,8 +3755,9 @@ zuuk.org###fl10
 /p01.notifa
 /p02.notifa
 /p03.notifa
-|http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com
-|http://$third-party,script,popup,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com
+|http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
+|http://*?*=$popup,third-party,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
+|https://*?*=$popup,third-party,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
 /*0h1349v640h
 /*1349zM1055 
 /*376h140v200h
@@ -3774,5 +3775,12 @@ id=&dm=0&ep*$popup
 /?ip=*$popup
 /?b=*$popup
 /?h=*$popup
+/popup.js
+/popunder
+/embed/otazyhym
+/embed/tt0182576/5-9/
+/ck?ab=*$popup
+/*putlocker*:443
+/ntfc.php?*$popup
 
 ! total : 3749
