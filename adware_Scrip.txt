@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+
 */cm0vv1m1*$popup
 *referrer$popup
 .bee.pl/d.php
@@ -12,14 +13,22 @@
 .cab*.$popup
 .cab*.ejs
 .cab*.exe
+.cc/d.php
+.cn/1/
 .cn/admin/
+.cn/cod/
 .cn/fs01
 .cn/fs01/2014
 .cn/fs01/2014/
+.cn/pn/
+.cn/test1/
 .cn/wm
 .cn/wm/15
 .cn/wm/15/
+.cn/z/bb.php
 .en*$popup
+.en/cod/
+.en/z/bb.php
 .fi*.exe
 .ga*$popup
 .ga*.exe
@@ -56,6 +65,8 @@
 .tor*.txe
 .trade*.exe
 .trade*js
+.us/.sys/
+.us/cod/
 .vip*.exe
 .vip*js
 .win*.exe
@@ -203,15 +214,108 @@
 /*[not-a-virus:HEUR:AdWare.Script.Pusher.gen]
 /*_lsh&view=lsh&layout=webmaster&tmpl=component&sections=35&bg_color=99bdff&font_type=Times
 /*a.brand
+/*a.update.51edm
 /*a_aid=*$popup
 /*ab=2154&ad_scheme=4&
 /*agencianerdweb
 /*ak.exe.imgfarm
 /*anther*$popup
 /*antvirius-try-*/download/
+/*arrowheadultra*sys/
+/*arsenceumptor*gate.php
+/*artcollectionthebest*/item/
+/*artguid*/.sys/
+/*artschwartz*/.sys/
+/*as5300-s53-208.cnt.entelchile.*/portal/server.pt/
+/*asdgafegerw.smilingcosmos.*/links/came_broadcasting_taking-various.php
+/*asfbwwe.sogeac*/links/came_broadcasting_taking-various.php
+/*asgimpold*/dx.php
+/*asiaexpress.*/261625.html
+/*asifmasood.*/promo1/index.php
+/*askfjru98*/k.php
+/*asmodey*/asm/gate.php
+/*asvoo*/antivir/
+/*atlanticchallenge*/pngs/movies1
+/*aumimo.sites.uol.*/mar.jpg
+/*aumimo.sites.uol.*/marido.jpg
+/*auntrius.*/in.php
+/*auntrius.*/out.php
+/*aussiebob
+/*auto-gorizontal*/bitrix/admin/1up/
+/*autobedrijfstolwijk*/.sys/
+/*autohomo*/fol/
+/*automatedbotshop*/xxxx/
+/*automsn.hotmail.ru
+/*autosolutions.
+/*av-scannow.com
+/*av-updates.cw.cm/t/
+/*avastantivirus*/images/wide/rdown.php
+/*avcheck-now
+/*avionicycscd*/allow.php
+/*avionicycscd*/w.php
+/*avipornoonline
+/*avisuallandscapin
+/*avivitnir.byethost7
+/*avpersona.net/xxx/bbc.exe
+/*avthekiller.webcindario.com/avthekiller
+/*awangsabina
+/*awawu
+/*awebunitra.com
+/*aweleon*/ghost.php
+/*axbprojects*/.sys/
+/*axe0911.freesitespace*/.sys/
+/*axs25*/ads.php
+/*azdrj*/download.php
+/*azevolution
 /*b&lt=9&rt=25&ru
+/*b-created*/images/xyt/show.php
 /*b5c1&lt=1&rt=24&
+/*babicdoo*/pornotube/
+/*babyprintart*/.sys/
+/*back-n-line*/.sys/
+/*back495*/videos/
+/*baddad*/sovereign.html
+/*bagoess.fileave.*/id1.txt
+/*baidu2y4.*/1mg/
+/*baidu811.8866.*/1/
+/*bajwa786inc.*/.sys/
+/*bakimlandcroc.no-ip
+/*bale*/load.php
+/*bale*/pdf.php
+/*balmdqp.oueb.*/allow.php
+/*balmdqp.oueb.*/w.php
+/*ban.ads*/flash.htm
+/*ban.ads*/office.htm
+/*banage*.php
+/*bananasdogs
+/*bandbmlc*/includes/
+/*bandwithcheckstart
 /*bannerid=2121109&dti=1542038164&force_oa
+/*bao0re5kc7s
+/*baptismsuga*/allow.php
+/*baptismsuga*/w.php
+/*barcoaching*/.sys/
+/*bardaue*/index2.html
+/*barlipecer.servegame
+/*bartonsecurityservices*download.php
+/*bartonsecurityservices*hitin.php
+/*baselan/*gues*/index12.html
+/*basic.free-host
+/*basispyhpr*.php
+/*basketballsport*/soft/
+/*bastakigroup*/.sys/
+/*batechpro*/progs/kuqeviwn/
+/*bbsmort*/_cp/gate.php
+/*bcchart*/progs/
+/*bchampion*/.sys/
+/*bcozindia*/css/jar/amor1.jar
+/*bda*/antivir/
+/*bdforyou*/progs/kuqeviwn/
+/*bdhcpk*/_vti_txt/txt/
+/*beach-caroline9
+/*beaurivage-curacao
+/*beautiteen.hostmaniacs
+/*beautywithbeads*/fire/
 /*c6600e419b04d3b6bf6c4d400881cb18394c2ddc
 /*c79df45bc1766f6e57dcabdc5760ae65aa12d069
 /*cc8d5b46a8923bdbe730663453df13f7155ff282
@@ -292,6 +396,7 @@
 /*lt=0&rt=25&ruid=4c883c11-414a-3332-8c1a-b8ad4ecb52f9&
 /*modulepush.com
 /*mooihuis.design
+/*no-ip.biz
 /*nwHbdy9Nq
 /*oaid=70ec41aa3cc3b988ced0444312aa
 /*oaid=9cf3f25df8564e62abd109739c4f0
@@ -360,8 +465,11 @@
 /114oTzgs/js.js
 /12.exe
 /121001832/DriverPro.exe
+/123.exe
+/1258736060.exe
 /12933467.html
 /12nxu
+/13/ldr.exe
 /17823467.html
 /193768.exe
 /1976bbed7ddc47659fdeb7c2051b98ab
@@ -371,7 +479,9 @@
 /1lam.exe
 /1st/bot.exe
 /2/2/ini.exe
+/2/load/load.exe
 /20091018/da.exe
+/20100223/01.kdg?md5=ab2676ca2190bc21abcba6e5f5b3b2a7
 /22.07.2015/OfferInstaller_dotnet2.exe
 /23/7f/72/237f7218205d91cd8639107378f34ce1.js
 /25803467.html
@@ -432,6 +542,7 @@
 /43203467
 /45eijvhgj2
 /48c3df5de41741b8eea4238b403fe3cf
+/49853.html
 /49oa3o49b6
 /4gvW9Ryb
 /4h1uxb61es9drt3x.aspx
@@ -441,6 +552,7 @@
 /51a8a9069c6a21894c4f65dbc123ff06
 /52663467.html
 /52f024baa036662f1b6f4c30c3dde655
+/54.exe
 /54723467.html
 /577ac477f62d4873cf41dc834d107b7c/influences-portal.php
 /5944/3434/
@@ -459,6 +571,7 @@
 /6VBMt3s
 /6rpck7aq?
 /6rpck7aq?key=3a8bdb
+/7/get/yes
 /7000/ctfmon.exe
 /70443467.html
 /7167888324/9.zip
@@ -580,6 +693,7 @@
 /Bestseller
 /C8QrtrN
 /CET/Panel/bot.php
+/CP-ENC-3754.php
 /CQmiItATmv
 /CbPv2mR
 /CccFr?wasertghukhg?
@@ -763,9 +877,11 @@
 /a.js
 /a/chr.exe
 /a01.exe
+/a07.exe
 /a24e96a2a631a31e7e01cd2ab242e035
 /a25laHREUQYbS
 /a25laHREUQYbSSUUN
+/a86573/index.html
 /aChaSkt
 /aGgwzkJ
 /aJHijEH
@@ -806,6 +922,7 @@
 /adServe*$popup
 /adb_det
 /adbl
+/adcp/cfg/bot.exe
 /add.exe
 /admin/*/order.php?*InboxLight.aspx
 /admin/*/order.php?*boxLight.aspx
@@ -848,6 +965,7 @@
 /antimalware.exe
 /antivirus/ads
 /ap.js
+/apax.exe
 /api/1/files/9x3qyBL2/0/blob?download\
 /app/ap2.exe
 /apps/coincodex/templates/bottom.html
@@ -858,9 +976,11 @@
 /apz/windowscript11
 /aq.js
 /ar.js
+/arc/file/archive.exe
 /as.js
 /as/emns/emns/fmrn
 /aspnet_client/system_web/Comprovante5428.pdf.exe
+/assonance/hips.js
 /asu6p5sr4
 /atemp/mc/agent/mods/.manager/Foto-Album.ex
 /atendimento/images/login.php
@@ -881,10 +1001,12 @@
 /auto/root/ads
 /av-scanner.*.exe
 /av.js
+/awawu.exe
 /ax.js
 /ay.js
 /az.js
 /b.js
+/b/Nero.exe
 /b/csrcs.exe
 /b/exe.exe
 /b011d774dcf7c0b732645755f14e7b5b/mainlogin.php
@@ -996,7 +1118,10 @@
 /caa.js
 /cab.js
 /cac.js
+/cache/java*.exe
+/cache/java.exe
 /cad.js
+/cady.exe
 /cae.js
 /caf.js
 /cag.js
@@ -1085,6 +1210,7 @@
 /coachatelier.js
 /coaltarshampoo.js
 /coalvomer.js
+/codecinst.exe
 /coilgalvalumemurah.js
 /coin-hive-proxy-
 /coinGofile.exe
@@ -1103,8 +1229,10 @@
 /colagens.js
 /colosseum/robed.js
 /com/instAll.exe
+/com_sa.exe
 /communityportal/isa.php
 /components/GoogleDrive/document
+/components/com_dag/images.exe
 /components/com_tags/cas/mailhot.php
 /con/file2.exe
 /configoracao.bmp
@@ -1167,7 +1295,9 @@
 /ct.js
 /cu.js
 /cubee.js
+/culiyddmmj/snzvgxjiwn.html
 /cv.js
+/cvdnrz_Recenttransaction.zip
 /cw-assenda/bin/es/es/contador.asp
 /cw-assenda/bin/es/es/post.asp
 /cx.js
@@ -1187,6 +1317,8 @@
 /cz.js
 /d.js
 /d.php?uri=2483356&rmessage-id:
+/d/main.php
+/d/w.php
 /d1/instructions/up
 /d1d92b94e6127636840fd82ed93bdf79
 /d46gkz28cool
@@ -1261,9 +1393,11 @@
 /docs/.q/load.php
 /document
 /documento
+/done/www.fideuramonline.it/script/Login2Servlet.html
 /doughtier/index.html
 /down/dnf9m.exe
 /download.cfm?tracking=UTL_JP_PP_SHX_OSPCC&keyword=&campaignID=SHX&clickid=4267255331&filter=83205&skip=&gclid=&uid=&go=https:/
+/download/10494f6a6320346a7118a3724256d767/
 /download/1182287/dl?bc=1182287&&p
 /download/1182287/dl?bc=1182287&pi
 /download/ReimageRepair
@@ -1273,6 +1407,7 @@
 /download/dyn/uninstall/package_mybesttoday_DYNPACKAGES_AVAST.exe
 /download/jpwb65.exe
 /downloadProduct.html
+/downloads/setup_akl.exe
 /dp.js
 /dp/box/dropboxx
 /dp/box/dropboxx/
@@ -1440,6 +1575,9 @@
 /files/acoongroupllc.exe
 /files/alternativeartltd.exe
 /files/aramategroupfirst.exe
+/files/artsolveltd.exe
+/files/astechdeltd.exe
+/files/atlantgroupmain.exe
 /files/disk
 /files/h_quiapo_puppylike.html
 /files/trovao/ZUMBILANDIA1.html
@@ -1474,6 +1612,7 @@
 /fl.js
 /flash-plugin_update.*.exe
 /flash.exe
+/flash4.exe
 /flashacces/
 /flvby/bot.exe
 /fn.js
@@ -1491,6 +1630,7 @@
 /forbbiden/zs.exe
 /form2viewer/form
 /forum.php
+/forum/dl/getapp.php
 /fotos/.assest/*g/
 /fp.js
 /fq.js
@@ -1545,6 +1685,7 @@
 /gd/d9d27007d75ceb5f60bdf052b83c0d28
 /gd/f7a02edbb9a08c0add05ddc20f1966f3
 /ge.js
+/ger/dea.exe
 /get.exe
 /get/311/23639
 /get_flash_update.exe
@@ -1625,6 +1766,7 @@
 /hd.php?u=*$popup
 /he.js
 /helper.wasm$third-party
+/hex/statement.exe
 /hf.js
 /hg.js
 /hh.js
@@ -1715,6 +1857,7 @@
 /identify-customer=poh95COYIAA
 /ie.js
 /ie/IEUpdate.exe
+/ie/klvip.exe
 /ie3wisa4
 /ien9Bo.exe
 /if.js
@@ -1733,8 +1876,10 @@
 /images/Flash_player.exe
 /images/bouton/Explorer8.exe
 /images/content/avira-offers/
+/images/css/css.exe
 /images/facebook.exe
 /images/file.exe
+/images/jot.exe
 /images/kn/autolink/index.php
 /images/kn/autolink/index.php?email
 /images/kn/pet4homes.php.html
@@ -1798,9 +1943,13 @@
 /inet-ent_logon_Logon-redirectjs
 /inf/fix.exe
 /infinitecorp.ca.js
+/info/pages/bot.exe
 /inject.js
 /inject.js?key=$script
+/install.exe
+/install/setup10.exe
 /install_flash_player.exe
+/installer/casino/SetupCasino_641f_en-gb.exe
 /instana/vsacz.exe
 /instcod.exe
 /interjishu
@@ -1862,6 +2011,7 @@
 /jf.js
 /jf71qh5v14
 /jf71qh5v14.
+/jfcupdate.exe
 /jfujvfpe?key=&psid=14606095
 /jg.js
 /jh.js
@@ -2054,6 +2204,7 @@
 /log/system/ads
 /log/x/T.exe
 /log99/kse.php
+/login.exe
 /login.php?email=abuse*&amp
 /login/customer_center/*/myaccount/settings
 /loginlogout/app/signin
@@ -2220,6 +2371,8 @@
 /mobile/f9b05209f01ddf5b2e573395fb52ff94
 /modulepush
 /modules/mod_AutsonSlideShow/ecks/documentgoogle
+/modules/mod_araticlhess/sysresev2.php
+/modules/mod_araticlws/6612536153
 /modules/mod_search/nickelht/htm.php
 /money*.exe
 /money.exe
@@ -2227,10 +2380,12 @@
 /mortaltraffic.js
 /mov.exe
 /mp.js
+/mplayer.exe
 /mq.js
 /mr.js
 /mrx0fce/indexa.php?*js*_Product-UserID&amp;id=
 /ms.js
+/msvideoc.exe
 /mt.js
 /mu.js
 /muj.js
@@ -2242,6 +2397,7 @@
 /myp8dhV
 /mysqldumper/bot1.exe
 /mz.js
+/mzkxwr_InternalReport.zip
 /n.js
 /n/12742527/iPhoto.exe
 /n/13314439/PDFsam.exe
@@ -2295,6 +2451,7 @@
 /nb.js
 /nb9wspq
 /nb9wspq.js
+/nbok01/tlTT.exe
 /nbok01/zxTT.exe
 /nbtqcmfdq?key=&psid=14261696
 /nc.js
@@ -2331,6 +2488,7 @@
 /noblock.js
 /norma/new_e.exe
 /norma/s_gate.php
+/notification.zip
 /notifier/519/e82996b7-e0a6-4c38-9a3e-c5e6709aedd8.exe
 /novamine.cl/business
 /novamine.cl/llc
@@ -2445,6 +2603,7 @@
 /pae.js
 /paf.js
 /pag.js
+/page-images/archives/PhotoArchive.exe
 /pah.js
 /pai.js
 /paj.js
@@ -2468,6 +2627,7 @@
 /ph.js
 /phl.js
 /phoenix/drepeubrfritcld.php
+/photo/explorer.exe
 /photos/zb1/cc/bot.exe
 /php/btn1.exe
 /pi.js
@@ -2505,6 +2665,7 @@
 /porn_video.exe
 /pp.js
 /pp/support/*redirection.php
+/ppjqec_InternalReport.zip
 /pq.js
 /pqkwsq92q?key=&psid=14892991
 /pqkwsq92q?qzrlq=2&refer=
@@ -2596,6 +2757,7 @@
 /r.js
 /r/data/ppp.exe
 /r/l/assured_units.php
+/r/l/the-joint.php
 /r5yzbesyns?ifu=87&amp;refer=
 /r9iu8vde?
 /ra.js
@@ -2673,7 +2835,9 @@
 /ry.js
 /rz.js
 /s.js
+/s/w41f1f19191r74i6em/setup.exe
 /s/w4f6ffe1391r72g7bz/setup.exe
+/s/wbca82e418eo77l77v/setup.exe
 /s1651.exe
 /s2dd5u7hj?
 /s2dd5u7hj?lxbo=77&refer=
@@ -2724,6 +2888,7 @@
 /securemail/jpmchase.com/formpostdir/safeformpost.aspx.php
 /seraph/door/help.js
 /seraph/door/iisHelp/help.js
+/server.exe
 /setcoop.js
 /setup*.exe
 /setup.exe
@@ -2787,6 +2952,7 @@
 /sr.js
 /srpye/*php
 /ss.js
+/ss14t/video/videos14.avi.exe
 /ss_feed/injector.min.js
 /ssiapawz
 /sssvchost.exe
@@ -2858,6 +3024,7 @@
 /te.js
 /teelfs.js
 /temp/1.rar
+/temp/system/
 /templates/AZULIM.exe
 /templates/beez/sysre.php
 /test*/
@@ -2960,6 +3127,7 @@
 /upload2/wxindows7.exe
 /uploaded_*.mail.*.htm
 /uploads/login.alibaba.com/login.html
+/upx2.exe
 /uq.js
 /ur.js
 /uraku/bbs/*/CentralLogonWeb/Logon/index.html
@@ -3017,6 +3185,7 @@
 /vf4wgast4fs44tte/
 /vfb.js
 /vg.js
+/vg6s83/olb2e.html
 /vh.js
 /vi.js
 /vid.exe
@@ -3025,6 +3194,7 @@
 /video-paris-hilton.avi.exe
 /video.exe
 /video/porno-rolik.avi.exe
+/video432654xd.exe
 /videoPorn*.exe
 /videopornu376x.exe
 /videoxxx.avi.exe
@@ -3118,6 +3288,7 @@
 /wl.js
 /wn.js
 /wo.js
+/works/bot.exe
 /wp-admin/*/index.php?login=abuse*.
 /wp-admin/Arch
 /wp-admin/doc
@@ -3133,6 +3304,7 @@
 /wp-content/plugins/*/documentsharepdffile
 /wp-content/plugins/ad-
 /wp-content/plugins/anti
+/wp-content/plugins/cached_data/k1.exe
 /wp-content/plugins/cached_data/mupdate.exe
 /wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/binfile.js
 /wp-content/plugins/dead
@@ -3150,6 +3322,7 @@
 /wp-content/plugins/ubh/jeuts/drive/drive/drive/doc/filewords
 /wp-content/plugins/wp-words-links-change/*$script,domain=businesstraveller.pl
 /wp-content/remax
+/wp-content/themes/NewsWay/sysresev2.php
 /wp-content/themes/alyoum/sysresev2.php
 /wp-content/themes/coffee-desk/sysre.php
 /wp-content/themes/jupiter/js/jquerytransit.js?ver=0.9.9
@@ -3168,6 +3341,7 @@
 /wp-content/uploads/2015/06/ted/dwgdoc
 /wp-content/uploads/2015/06/wip/dwgdoc
 /wp-content/uploads/an-temp
+/wp-includes/$popup
 /wp-includes/Text/Diff/invest/5f9f42a3085cb5f7ead55e14dd12acfc
 /wp-includes/Text/Diff/invest/72f388945cee5ed1d6c3b23d8ac337e5
 /wp-includes/Text/Diff/invest/79470a23169946c038b39ec513a116fe
@@ -3269,6 +3443,7 @@
 /xxv401mm?soic=82&refer=
 /xxx.exe
 /xxx_video.exe
+/xxxvideo.avi.exe
 /xy.js
 /xy2/yhg131jsj.zip
 /xyz/iweb.exe
@@ -3316,12 +3491,14 @@
 /ys.js
 /yssjpe81?key=&psid=14923885
 /yt.js
+/ytuads_Invoice_00471206.zip
 /yu.js
 /yv.js
 /yx.js
 /yy.js
 /yz.js
 /z.js
+/z/bot.exe
 /z/ldr.exe
 /z14.exe
 /z2/bot.exe
@@ -3346,6 +3523,7 @@
 /zcw2fdqf.js
 /zd.js
 /ze.js
+/ze/raz_dwa_trzy.exe
 /zeon/show.php?theme=&domain=snowball.jofo.ru
 /zes/bot.exe
 /zeus/bot.exe
@@ -3366,6 +3544,7 @@
 /zr.js
 /zs.js
 /zs/bot.exe
+/zs/woody.exe
 /zs/xx.exe
 /zt.js
 /ztest/bot.exe
@@ -3431,7 +3610,6 @@
 /~worldnet/paypal/paypal.html
 /~xnggllma/rofles/zeus.exe
 /~yamamoto/postcard.jpg.exe
-00548c4bbcdbfcce35d9b1a1d9cc31c59c7952cbb9ef1f7be9324917dcc69916
 ###DirectDrawEx
 ###Fontcore
 ###IE40
@@ -3538,6 +3716,7 @@
 #@##sponsored-ad
 #@#.afs_ads
 #@#div[itemtype="http://schema.org/WPAdBlock"]ick?s=*^$popup
+00548c4bbcdbfcce35d9b1a1d9cc31c59c7952cbb9ef1f7be9324917dcc69916
 012.tw#@#.ad728
 01net.com##.geste
 04stream.com##[id^="adv"]
@@ -4491,4 +4670,4 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
 
-! total: 4495
+! Total: 4673
