@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
-
 */cm0vv1m1*$popup
 *referrer$popup
 .bee.pl/d.php
@@ -3027,7 +3026,6 @@
 /temp/system/
 /templates/AZULIM.exe
 /templates/beez/sysre.php
-/test*/
 /test/bot.exe
 /test/eva7.exe
 /tett/ggdc/index.php
@@ -4671,3 +4669,5 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="css-"]
 
 ! Total: 4673
+
+
