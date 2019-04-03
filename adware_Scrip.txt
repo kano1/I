@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kano1/I/master/adware_Scrip.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+
 */cm0vv1m1*$popup
 *referrer$popup
 .bee.pl/d.php
@@ -418,6 +419,7 @@
 /*ti=1541075002&force_oa
 /*tsg=%0A%02jp%10%01%18%01+%01&
 /*uact=1&zoneid=1608660
+/*untikapa
 /*wN6N3NsNl7
 /*website/557
 /*website/fzn
@@ -1500,6 +1502,8 @@
 /embed/tt0182576/5-9/
 /en58jBY
 /engine/go.php?file=Deadpool2EnglishSubtitle-YIFYYTSSubtitles
+/enoug*t
+/enought*$popup
 /eo.js
 /eo/fuaugvfqilau.php
 /ep.js
@@ -1647,6 +1651,7 @@
 /fuckadblock.js$script
 /fuckadblock.min.js$script
 /fucker/
+/funtikapa*$popup
 /fv.js
 /fvp.htm
 /fx.js
@@ -2593,6 +2598,7 @@
 /p0905/*/ms.bin
 /p0905/*/so.bin
 /p1022/2.0/d.bin
+/p?b=*$popup
 /pY50pS2
 /pa.js
 /paa.js
@@ -4668,6 +4674,6 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
 
-! Total: 4673
+! Total: 4677
 
 
