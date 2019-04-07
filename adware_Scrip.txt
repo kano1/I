@@ -3250,13 +3250,7 @@
 /wak.js
 /wal.js
 /wan.js
-/warcraft-lich-king.js
-/watch*dd0c*$popup
-/watch.1014259193648
 /watch.exe
-/watch?
-/watch?key=789a4129e
-/watch?v=V-iLsQhBFZc&amp
 /wb.js
 /wc.js
 /wd.js
