@@ -213,7 +213,7 @@
 /*[adshort,earn,money,on,short,links,-,high,rates]&
 /*[not-a-virus:HEUR:AdWare.Script.Pusher.gen]
 /*_lsh&view=lsh&layout=webmaster&tmpl=component&sections=35&bg_color=99bdff&font_type=Times
-/*a.brand
+/storage/branding_new.js
 /*a.update.51edm
 /*a_aid=*$popup
 /*ab=2154&ad_scheme=4&
