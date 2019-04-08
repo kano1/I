@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/*croissed
 */cm0vv1m1*$popup
 *referrer$popup
 .bee.pl/d.php
@@ -212,7 +213,7 @@
 /*[adshort,earn,money,on,short,links,-,high,rates]&
 /*[not-a-virus:HEUR:AdWare.Script.Pusher.gen]
 /*_lsh&view=lsh&layout=webmaster&tmpl=component&sections=35&bg_color=99bdff&font_type=Times
-/*a.brand
+/storage/branding_new.js
 /*a.update.51edm
 /*a_aid=*$popup
 /*ab=2154&ad_scheme=4&
@@ -3249,13 +3250,7 @@
 /wak.js
 /wal.js
 /wan.js
-/warcraft-lich-king.js
-/watch*dd0c*$popup
-/watch.1014259193648
 /watch.exe
-/watch?
-/watch?key=789a4129e
-/watch?v=V-iLsQhBFZc&amp
 /wb.js
 /wc.js
 /wd.js
@@ -3634,7 +3629,6 @@
 ##._2nq-YCkI-1-.cEMfcKtj-1-
 ##.adsbox
 ##.bp-wrapp20052016
-##.branding
 ##.comment__share
 ##.dead-have-teror
 ##.deadblocker-header-bar
@@ -3715,6 +3709,12 @@
 ##vitroll
 ##w1kydor
 ##zt34one
+##.item1
+##[href="https://brand.ad/"]
+##.branding__limit
+##.branding__bottom
+##.bp-footer20052016
+##.branding
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
@@ -4672,7 +4672,6 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##DIV[style*="overflow:hidden;z-index:310;"]
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
-||*..static.akamaitechnologies.com^
 ||*.aceadsys.net^
 ||*.adskeeper.co.uk^
 ||*.adsrotator.com^
