@@ -3709,6 +3709,12 @@
 ##vitroll
 ##w1kydor
 ##zt34one
+##.item1
+##[href="https://brand.ad/"]
+##.branding__limit
+##.branding__bottom
+##.bp-footer20052016
+##.branding
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
@@ -4667,4 +4673,4 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
 
-! Total: 4677
+! total : 4676  
