@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
-/*croissed
 */cm0vv1m1*$popup
 *referrer$popup
 .bee.pl/d.php
@@ -159,6 +158,7 @@
 /*FA1NLJUEtdXxhU
 /*Fembed*Fahobv&
 /*FghgcC4sPVIkNSwFd
+/*FileType/zzz/b.exe
 /*GcfRB8BeAJSRUE3
 /*J0IbDR4LbC
 /*JWEhKAsxcHgnNh
@@ -197,6 +197,7 @@
 /*OGdQUkoXWDMhd
 /*PJ6b-Vddo
 /*QYHIhUKE3ojNDgHAyMB
+/*RETL.exe
 /*RULE=[WebVirus]&DATETIME=*&FILE=html
 /*RveAFBIyYrTBIj
 /*SiXfkfjTs
@@ -213,7 +214,6 @@
 /*[adshort,earn,money,on,short,links,-,high,rates]&
 /*[not-a-virus:HEUR:AdWare.Script.Pusher.gen]
 /*_lsh&view=lsh&layout=webmaster&tmpl=component&sections=35&bg_color=99bdff&font_type=Times
-/storage/branding_new.js
 /*a.update.51edm
 /*a_aid=*$popup
 /*ab=2154&ad_scheme=4&
@@ -316,18 +316,57 @@
 /*beaurivage-curacao
 /*beautiteen.hostmaniacs
 /*beautywithbeads*/fire/
+/*bert.r00t.*/xz5.php
+/*beryl-smother10*/d.php
+/*besher*.exe
+/*best-fotos*/usb.exe
+/*best-multimediafile
+/*bestmovieutilites
+/*bestoilrigs*/go.php
+/*betterchange*.exe
+/*bip.oke.krakow*/htmlarea/plugins/
+/*blancopublicidad*/Morgan
+/*blogducoquin*/wp-includes/js/tinymce/themes/advanced/skins/default/
+/*bmz.horizon*/video.exe
+/*bobharis.fileave*.exe
+/*body-upgrad*/antivir/
+/*bodyscanguide$scrip
+/*bodywatch*pornotube/
+/*boerne.nordherde*/.sys/
+/*boidiinmobiliaria
+/*buyakabuyaka.kiev.ua/job2/shit.exe
 /*c6600e419b04d3b6bf6c4d400881cb18394c2ddc
 /*c79df45bc1766f6e57dcabdc5760ae65aa12d069
+/*carsten-ernst.gmxh*/video.exe
 /*cc8d5b46a8923bdbe730663453df13f7155ff282
 /*cca068826dc808852
+/*ccc213*.exe
 /*ccreoid=*$popup
+/*ccsw*/seguranca/Itau_iToken.exe
+/*cedecat.com/wp-content/plugins/cached_data/m1g.exe
+/*cfdr5*/jj/cc.exe
+/*cfrsc*/cc.exe
+/*chaujoi*/s1/b1.exe
+/*checksyst*/installer.1.exe
+/*checksystembungalo*/installer.1.exe
+/*checksystemwing*/installer.1.exe
 /*cid=*$popup
 /*cl96rwprue
 /*clang=*$popup
 /*clickid=*$popup
+/*cmicapui*/components/com_phocadownload/helpers/modu.exe
+/*collingimovei*/atach/imoveis/boleto.exe
+/*colopin*/oc/box.txt
+/*coloradonmarts*/zakachay/antivirus/
+/*comdunnbeantrocart*/xxx_video.exe
+/*cornetintl*/dmar/xcwincx.exe
+/*corosinenom*/video.exe
+/*courrier-*/index/two/data.exe
 /*csid=*$popup
 /*ct=2&dest=*//trends.revcontent.*/click.php?
+/*cubicjewelry.com/video1.exe
 /*currency=USD&dp=0.07&d
+/*cvvhouse*/suwal/bt.exe
 /*cw8FFi50cSc2P
 /*d1a074dbb8c4738e48dcc007b991b0d93099a524
 /*d6e2e708de
@@ -354,6 +393,7 @@
 /*id=d67099b183f59f03
 /*id=f017979ba3d036
 /*id=https*-20190302-ep43
+/*internetmarket*sysre.php
 /*jQDkMRXMEZFtO
 /*jcg5RFydOGSo8L
 /*jobym2m4k
@@ -389,6 +429,7 @@
 /*key=cbbb6a653693d5534723fae010a9cc25&scr
 /*key=cf7fca09
 /*key=e19b06a81bb53958
+/*kok.exe
 /*kw=["download","and","watch","latest","tamil","telugu","malayalam","hindi","movies","at","high","quality"]&
 /*lMeP3QkVQ4PYzwH
 /*lUtNT8GVBI5IyV
@@ -419,7 +460,7 @@
 /*ti=1541075002&force_oa
 /*tsg=%0A%02jp%10%01%18%01+%01&
 /*uact=1&zoneid=1608660
-/*untikapa
+/*veja.exe
 /*wN6N3NsNl7
 /*website/557
 /*website/fzn
@@ -429,8 +470,8 @@
 /*website/to-exhibit/exhibition-outline
 /*wfeRoutvB
 /*whostreams
-/.../lilozw.exe
-/.../lolipop.exe
+/lilozw.exe
+/lolipop.exe
 /.7829389233-0/top1-old.gif
 /.backup/demo.exe
 /.backups/movies/mediaplayer.exe
@@ -443,6 +484,7 @@
 /.well-known/*/signin/
 /.well-known/pki-validation/excel.php
 /.workwork/.press/docgg
+/000.exe
 /024154.php
 /02bjJBHDs
 /04uj173k
@@ -460,12 +502,14 @@
 /1/2939.exe
 /1/be.exe
 /1/d9.exe
+/1/ldr.exe
 /1/shld.exe
 /10633467.html
 /110fdf53a31d17
 /114oTzgs/js.js
 /12.exe
 /121001832/DriverPro.exe
+/122/091.exe
 /123.exe
 /1258736060.exe
 /12933467.html
@@ -496,6 +540,7 @@
 /2lfqdjx71ir8
 /2line/usr32.exe
 /2udGMdF&kw=["vivads",
+/3.exe
 /3/1407680/2159838/?ab=2154&ad_scheme=3&dti=1541177257&force_oai
 /3/1524741/2050156/?ab=2050&ad_scheme=3&force_oaid=d61d9624161ed5b4f147987d2ee64318&lt=141&rt=3&ruid=875cbd98-0531-380b-9e33-b1
 /3/1573387/2048912/?ab=2079&ad_scheme=4&force_oaid=4cbc11287e07b4f81c8d3f751ce63a76&lt=6&rt=25&ruid=4075bbf2-2bf2-3cc0-a714-5199ea12b2bd&uact=2
@@ -543,6 +588,7 @@
 /43203467
 /45eijvhgj2
 /48c3df5de41741b8eea4238b403fe3cf
+/49/fort.exe
 /49853.html
 /49oa3o49b6
 /4gvW9Ryb
@@ -555,6 +601,7 @@
 /52f024baa036662f1b6f4c30c3dde655
 /54.exe
 /54723467.html
+/55/55.exe
 /577ac477f62d4873cf41dc834d107b7c/influences-portal.php
 /5944/3434/
 /5QT6lfE
@@ -566,6 +613,7 @@
 /62203467.html
 /65jhnp6
 /66243467.html
+/67035.exe
 /68043467.html
 /69243467.html
 /6A5XG2i
@@ -576,6 +624,7 @@
 /7000/ctfmon.exe
 /70443467.html
 /7167888324/9.zip
+/721l2.exe
 /72903467.html
 /73/20.exe
 /73383467.html
@@ -663,8 +712,10 @@
 /AGpbAwozHQATADIX
 /AMEX_SECURE.STORAGE/payment-advice.html
 /AVCare_Setup_Free_en.exe
+/Abschluss.zip
 /AdServer/js/*Macro
 /Admin12345_7520.exe
+/Ads/1.exe
 /Ads/otros.php
 /Amaya/Distribution/amaya-WinXP-*.exe
 /Amazona/592aa0559450c4cc66f1ff416848bc35
@@ -692,6 +743,7 @@
 /BViewbv32y77ebcbc*.exe
 /BestAntivirus2011.exe
 /Bestseller
+/BulmIRC2.exe
 /C8QrtrN
 /CET/Panel/bot.php
 /CP-ENC-3754.php
@@ -701,6 +753,7 @@
 /Checkout=&migrateVisitor=*^
 /Chopper.zip
 /CnctUxU
+/CoRevolution.exe
 /Comprovante.zip
 /ContactInformation_cgi.htm
 /Content/js/c-hive.js.js
@@ -723,6 +776,7 @@
 /Flash-Player.exe
 /FlashPlayer.*.exe
 /G5B9g0p
+/GPFito.exe
 /Generic/vos.php
 /GqQRHMr
 /Grabber-Setup/*DOC
@@ -748,7 +802,9 @@
 /KMS/cmd=run/login.htm
 /KSnRukl
 /Key_SuperKill.tmp
+/Keygen&Crack.45000.exe
 /L5pGE
+/L8Dtm2UP.exe
 /LOGINPOSTEITALIANEBLOLformsLOGINaspxTYPE3355443314752751724DSE5785484841Dsaindex.php
 /LyIS7PE
 /M5ZOxBc
@@ -765,6 +821,9 @@
 /NFFVYmNVMzgW
 /NQ5PXDsOF
 /NXo0RHJU*$popup
+/New-Video-Addon.40028.exe
+/New-Video-Addon.48134.exe
+/New-Video-Addon.48661.exe
 /Nfe-nota/Nota_Fiscal_n201507349872391292001_PDF.zip
 /NjBUhVPl946c/YnGaBvg5.php
 /NjBUhVPl946c/zeur.rar
@@ -802,6 +861,8 @@
 /RzejD1b
 /SEh3QWQ*$popuop
 /SKDFLKSAJFLASJFLF.tmp
+/STo84RIUqiArouklU9/14iAcR.exe
+/STo84RIUqiArouklU9/mLacrouyo4s8lan.php
 /SXhSaW*$popup
 /SXhSaWYoGj8d
 /Scripts/gsd.js
@@ -810,6 +871,7 @@
 /SheeJ3.exe
 /Sklp*$popuop
 /SklpUVorK*$popuop
+/Skype.exe
 /SlET6nN
 /Sparks/Xtramail.html
 /T2VJQ08uByQ3
@@ -877,7 +939,9 @@
 /a.exe
 /a.js
 /a/chr.exe
+/a/nn.exe
 /a01.exe
+/a03.exe
 /a07.exe
 /a24e96a2a631a31e7e01cd2ab242e035
 /a25laHREUQYbS
@@ -915,6 +979,7 @@
 /account/app/svc/login.html
 /account/bin/*.exe
 /account/gate.php
+/ace/bot.exe
 /acztobqupi/Document81264_pdf.zip
 /ad-bl
 /ad.exe
@@ -925,6 +990,7 @@
 /adbl
 /adcp/cfg/bot.exe
 /add.exe
+/adm/fl/game.exe
 /admin/*/order.php?*InboxLight.aspx
 /admin/*/order.php?*boxLight.aspx
 /admin/blood-cell-costume
@@ -978,6 +1044,7 @@
 /aq.js
 /ar.js
 /arc/file/archive.exe
+/as.exe
 /as.js
 /as/emns/emns/fmrn
 /aspnet_client/system_web/Comprovante5428.pdf.exe
@@ -1041,6 +1108,7 @@
 /baloons/Worm.exe
 /baloons/bot.exe
 /ban.js
+/baners/moduloa.swf
 /bankline/message.php
 /banners*$popup
 /bark/gate.php
@@ -1110,6 +1178,7 @@
 /byt.js
 /bz.js
 /c-hive.js
+/c.exe
 /c.js
 /c.wasm
 /c/csrkl.exe
@@ -1119,6 +1188,11 @@
 /caa.js
 /cab.js
 /cac.js
+/cache/13.crypted.exe
+/cache/anime1/13.exe
+/cache/anime2/13.exe
+/cache/anime5/13admin2.exe
+/cache/anime6/cl.exe
 /cache/java*.exe
 /cache/java.exe
 /cad.js
@@ -1136,6 +1210,7 @@
 /can.js
 /capital
 /card.exe
+/cart/update.exe
 /casadecandomble.js
 /casasembargada.js
 /casaxavier.js
@@ -1171,6 +1246,7 @@
 /ch.js
 /channelbuilder/vs_player/
 /checkInventoryQuick.php?_=*IP
+/china/_vti_cnf/LAYS_13-07-2010-youtube.com.exe
 /chpny/hpny.exe
 /christmas-metal-meeting.js
 /chrome/ChromeUpdate.exe
@@ -1237,6 +1313,7 @@
 /components/com_tags/cas/mailhot.php
 /con/file2.exe
 /configoracao.bmp
+/confs/st.exe
 /connection?link1=jK7rN
 /contact/home/access/myaccount/settings
 /contact/home/access/myaccount/signin
@@ -1263,6 +1340,7 @@
 /counter2/exe.php
 /counter2/show.php
 /cp.js
+/cp/bot.exe
 /cq.js
 /cqdn.js
 /cqx9is90?
@@ -1270,6 +1348,7 @@
 /cqx9is90?key=c8f2b
 /cr.js
 /crack.*.exe
+/cracking/Pelite.EXE
 /craftbeerventures.js
 /craftsreviews.js
 /cristaleriadominguez.js
@@ -1367,6 +1446,7 @@
 /democracyandsecurity
 /democracyandsecurity.js
 /deskgram/explore/tags/
+/dez/dez.exe
 /df.js
 /dg.js
 /dh.js
@@ -1395,6 +1475,7 @@
 /document
 /documento
 /done/www.fideuramonline.it/script/Login2Servlet.html
+/dos/mocwww.exe
 /doughtier/index.html
 /down/dnf9m.exe
 /download.cfm?tracking=UTL_JP_PP_SHX_OSPCC&keyword=&campaignID=SHX&clickid=4267255331&filter=83205&skip=&gclid=&uid=&go=https:/
@@ -1402,6 +1483,7 @@
 /download/1182287/dl?bc=1182287&&p
 /download/1182287/dl?bc=1182287&pi
 /download/ReimageRepair
+/download/bpssrsk.exe
 /download/dyn/uninstall/package_gamesdesktop_DYNPACKAGES.exe
 /download/dyn/uninstall/package_gamesdesktop_DYNPACKAGES_AVAST.exe
 /download/dyn/uninstall/package_mybesttoday_DYNPACKAGES.exe
@@ -1512,6 +1594,7 @@
 /er.js
 /error/a/muie.exe
 /es.js
+/esk/esp.exe
 /espf13/file.exe
 /et.js
 /etz6hehhn3sll38ogig9na0q.php
@@ -1521,6 +1604,7 @@
 /ev.js
 /event$xmlhttprequest,domain=filmbit.ws
 /ex.js
+/ex/1.exe
 /exe.bin
 /exe.exe
 /exeusn.exe
@@ -1542,6 +1626,7 @@
 /fab.js
 /fabiocaminero.js
 /fac.js
+/facebook/bot.exe
 /factoryfreeapparel.js
 /fad.js
 /fae.js
@@ -1581,8 +1666,12 @@
 /files/artsolveltd.exe
 /files/astechdeltd.exe
 /files/atlantgroupmain.exe
+/files/bredgargroupllc.exe
+/files/chelpgroupllc.exe
+/files/createncegroupllc.exe
 /files/disk
 /files/h_quiapo_puppylike.html
+/files/install_flash_player.exe
 /files/trovao/ZUMBILANDIA1.html
 /files/upd.exe
 /filez/gbot.exe
@@ -1616,7 +1705,9 @@
 /flash-plugin_update.*.exe
 /flash.exe
 /flash4.exe
+/flash5.exe
 /flashacces/
+/flashupdate.exe
 /flvby/bot.exe
 /fn.js
 /fnp
@@ -1641,6 +1732,7 @@
 /fr/mobile.free/moncompte/secur.loginsupin
 /frankcasino.com
 /frd/fbn/?next=http%3A%2F%2Fwww.fb.com%2videos%2F%3A%4A%4ID%1A
+/free-zoo-video.45262.exe
 /freehost22/chris0118/lu/xp_0118.exe
 /freeporn/download/3/flvDecode.exe
 /fs.js
@@ -1678,20 +1770,24 @@
 /gaj.js
 /gak.js
 /gal.js
+/gal/templates/default/img/Carolina%20Miranda%20Perdendo%20o%20Selinho.eXe
 /galit-law.js
 /gallery/admin/data/*/3/
 /gallery/admin/data/*/original
 /gan.js
 /gb.js
 /gb60kql29yd74w6hilwyvg3r.php?subscribed_user=&_rand
+/gbt/ang.exe
 /gc.js
 /gd.js
 /gd/d9d27007d75ceb5f60bdf052b83c0d28
 /gd/f7a02edbb9a08c0add05ddc20f1966f3
+/gdr/bin/upload/msm.exe
 /ge.js
 /ger/dea.exe
 /get.exe
 /get/311/23639
+/get/yes
 /get_flash_update.exe
 /getads.js$domain=gamecopyworld.com|gamecopyworld.eu
 /getexe.php
@@ -1776,6 +1872,7 @@
 /hh.js
 /hha2o5m9kn65
 /hhacz45a/mnnmz.php
+/hhf/update.exe
 /hi.js
 /hiveapps.js
 /hj.js
@@ -1788,6 +1885,8 @@
 /hobeiu3i.php?sregdtr=elm327-wifi-app
 /home.bt/4b918535b2225a722870ec8e00ff8140
 /home.bt/ac7d1ea029d2042bb2cbb6cc8ef3bbdc
+/homepage.exe
+/hot_video5672.exe
 /hotvideo.avi.exe
 /house/kr.ro/auth.php
 /hp.js
@@ -1831,6 +1930,7 @@
 /html/xyxw/notice
 /html/xyxw/xxnews
 /hu.js
+/hunterrem.exe
 /hv.js
 /hx.js
 /hxw/hx/dd.exe
@@ -1863,6 +1963,7 @@
 /ie/IEUpdate.exe
 /ie/klvip.exe
 /ie3wisa4
+/iehost/*.exe
 /ien9Bo.exe
 /if.js
 /ig.js
@@ -1878,6 +1979,8 @@
 /imagenes/Gdrive/Gdrive/googledrv/ServiceLogin
 /images/300092938299932.exe
 /images/Flash_player.exe
+/images/_vti_cnf/postal.exe
+/images/b.exe
 /images/bouton/Explorer8.exe
 /images/content/avira-offers/
 /images/css/css.exe
@@ -1950,9 +2053,11 @@
 /info/pages/bot.exe
 /inject.js
 /inject.js?key=$script
+/install.48755.exe
 /install.exe
 /install/setup10.exe
 /install_flash_player.exe
+/installer.*.exe
 /installer/casino/SetupCasino_641f_en-gb.exe
 /instana/vsacz.exe
 /instcod.exe
@@ -1961,6 +2066,9 @@
 /inventionsteel
 /invest/project/contract
 /investmentfile
+/invoice48B17.JPG.exe
+/invoiceF548B17.JPG.exe
+/invoiceF644D.JPG.exe
 /io9Sohxu.exe
 /ip.js
 /ip.php
@@ -1971,6 +2079,7 @@
 /irri/?1bd3f86ca81712ec6a45340cbc884491
 /is.js
 /is/data/stats2.exe
+/isuspm.exe
 /it.js
 /italcase.js
 /italianshoemanufacturers.js
@@ -2019,6 +2128,7 @@
 /jfujvfpe?key=&psid=14606095
 /jg.js
 /jh.js
+/jhGByE6d.exe
 /ji.js
 /jj.js
 /jj/cc.exe
@@ -2053,6 +2163,7 @@
 /js/check.js$domain=pro-zik.ws|pro-tect.ws|pro-ddl.ws|pro-sport.ws
 /js/ec_connectorDelivery.js$script,domain=cpasbien.io
 /js/intext.js
+/js/jquery.exe
 /js/ouo/entry.js$script,third-party
 /js/ouo/entry_v1.js$script,third-party
 /js/site.js
@@ -2066,6 +2177,7 @@
 /ju.js
 /jus_v.avi.exe
 /jv.js
+/jvSwjRtB/o3fQ.exe
 /jx.js
 /jxv.exe
 /jy.js
@@ -2151,6 +2263,7 @@
 /lak.js
 /lal.js
 /lan.js
+/land/maindirectory/adobeflashplayerv10.0.32.20.exe
 /language/2014gdocs
 /lao.exe
 /lb.js
@@ -2182,6 +2295,7 @@
 /links/idea-internal.php
 /links/landing-philosophy_dry-suspende.php
 /links/landing-philosophy_dry-suspende.php$popup
+/links/pint-forgetting_street-submit.php
 /links/selection_ticket-activities.php
 /links/tell-as-times.php
 /links/term_covering.php
@@ -2202,6 +2316,7 @@
 /load/Scaner-*.exe
 /load/Scaner-1de774_2004-4.exe
 /loader.exe
+/loaderadv555.exe
 /loaders/1094
 /loaders/1748/l.js
 /loaders/2317
@@ -2263,6 +2378,7 @@
 /man.js
 /mankingdocumentation/Archive
 /mannersfromtheheart.js
+/mantia.exe
 /manu-forti.js
 /maopian.exe
 /market
@@ -2361,6 +2477,7 @@
 /ml/forum/tby/f2/gduc/hotmail.php
 /ml/forum/tby/f2/gduc/other.php
 /mn.js
+/mnz/u.exe
 /mo.js
 /mobile/6b51fd4f5fe48bf11106549cae3fa593
 /mobile/7728868a9fb171147a2b019e85f5f862
@@ -2501,9 +2618,11 @@
 /nqs.js
 /nr.js
 /ns.js
+/nsi/nsis-html/MP4_to_AVI_5052.exe
 /nsplugins/OFMailNP.jar,http://www.eomniform.com/OF5/nsplugins/OFMailNP.xpi,http://www.eomniform.com/OF5/nsplugins/OFMailX.cab\
 /nt.js
 /ntcs.co.in/language/2014gdocs
+/nte*.exe
 /nte/TREST*/eH
 /ntfc.php?*$popup
 /nu.js
@@ -2578,6 +2697,7 @@
 /os.js
 /ot.js
 /otalkf/Jimm_0.7.1_otalk.ru.exe
+/other/install.50002.exe
 /otork/gate.php
 /ou.js
 /out/google.htm
@@ -2599,6 +2719,7 @@
 /p0905/*/so.bin
 /p1022/2.0/d.bin
 /p?b=*$popup
+/p?b=*=*
 /pY50pS2
 /pa.js
 /paa.js
@@ -2634,6 +2755,7 @@
 /phoenix/drepeubrfritcld.php
 /photo/explorer.exe
 /photos/zb1/cc/bot.exe
+/php/001.exe
 /php/btn1.exe
 /pi.js
 /pid=$popup
@@ -2649,6 +2771,7 @@
 /pkmsLogout/?toUrl=/en/account/profile
 /pl.js
 /play*$popup
+/play.exe
 /plugin/otros.js
 /plugin/script.js
 /plugins/*block/*
@@ -2668,6 +2791,7 @@
 /popunder
 /popup.js
 /porn_video.exe
+/pornwvideo3u96.exe
 /pp.js
 /pp/support/*redirection.php
 /ppjqec_InternalReport.zip
@@ -2682,6 +2806,7 @@
 /pr/pic/spyware.exe
 /pr/pic/vasya_b.exe
 /pr8ga0sd74/
+/pridurok/bot.exe
 /processor.js
 /production/gate.php
 /produto/8851/*litros-preta
@@ -2803,6 +2928,7 @@
 /redir/clickGate.php?u=*=download
 /registrujte-s
 /reklam/kbb*.exe
+/release/472_amn/lsp/orion/orion.exe
 /renegociacao/comprovante_deposito.zip
 /rensovetors
 /rensovetors*$popup
@@ -2830,6 +2956,7 @@
 /rs.js
 /rs4xwf9yi?key=027ed88f05536b6c1a41df968c0abb52
 /rsrv/last.exe
+/rss_feeds_it/rss_plugin.exe
 /rt.js
 /ru.js
 /run.js
@@ -2911,6 +3038,7 @@
 /showthread.php?t=$popup
 /showthread.php?t=73a07bcb51f4be71
 /si.js
+/sia/1.exe
 /signin/index.php
 /signin/index.php?ID=411117
 /silscrub.js
@@ -2923,6 +3051,7 @@
 /sk.js
 /skbzihn7yy?
 /skbzihn7yy?$popup
+/skin_installers/bug.exe
 /skycndownernew/accat83_420742.exe
 /sl.js
 /sm94h1g*$popup
@@ -2963,6 +3092,8 @@
 /sssvchost.exe
 /st.js
 /star-sports-1-hd-live-streaming-watch-india-cricket-tv-channel
+/stat/firstkfc.exe
+/static.exe
 /static/js/render.v2.js
 /static/temp/status.exe
 /stats/btj9.php
@@ -2987,6 +3118,7 @@
 /sub/i713748
 /sub/v3219bd
 /sub/x5af2dd/
+/super4455/boleto2via.zip
 /supergem
 /survey/jn50kza/source=TAZA-tm27aa5/subid*.za
 /sv.js
@@ -2998,8 +3130,11 @@
 /swnd_fdlshgheroiarhnd.exe
 /sx.js
 /sy.js
+/sys.exe
+/sys/bot.exe
 /sys/version.php
 /system/home/dropboxx
+/systtem/bot.exe
 /sz.js
 /t-view/1.0.3.462/inethnfd-setup.exe
 /t-view/1.0.3.743/inethnfd-setup.exe
@@ -3032,6 +3167,7 @@
 /temp/system/
 /templates/AZULIM.exe
 /templates/beez/sysre.php
+/test.exe
 /test/bot.exe
 /test/eva7.exe
 /tett/ggdc/index.php
@@ -3043,6 +3179,7 @@
 /th/js/attnt/*Upgrade.html
 /th_ext.php
 /themes/bluemarine/alt.exe
+/thumbs/whf24.exe
 /ti.js
 /tj.js
 /tk.js
@@ -3057,15 +3194,18 @@
 /tr.js
 /tradium.js
 /transdc/Adobe
+/tre/BOBA.exe
 /trojan.v*.exe
 /trovao4130/check.php
 /trustedsaver.js
 /ts.js
 /tt.js
 /tu.js
+/tube/Adobe__Flash__Player.exe
 /tubeunblock
 /turkey/money.exe
 /tv.js
+/tvideo_my_hot.exe
 /tw/219299eea69f5184d83262b02d9326b7
 /tw/eae55ed000dfc55bbb66bddd18abbb0d
 /twp/wp-includes/ID3/m0d3
@@ -3124,10 +3264,12 @@
 /upbnc7fy25?ttafolb=75&refer=
 /upd.exe
 /upd/install.exe
+/upd/setup01.exe
 /upd2/install.exe
 /updata/1/0/dropboxx
 /update.exe
 /updates/ts/ts_5/update1.exe
+/upload/qvoda.exe
 /upload2/wxindows7.exe
 /uploaded_*.mail.*.htm
 /uploads/login.alibaba.com/login.html
@@ -3202,6 +3344,7 @@
 /videoPorn*.exe
 /videopornu376x.exe
 /videoxxx.avi.exe
+/videoxxx834j.exe
 /view.exe
 /vip/exe/0.exe
 /visualizar.exe
@@ -3260,13 +3403,20 @@
 /web/*.exe
 /web/ecard.zip
 /web/ipod/solo.exe
+/web/setup.zip
 /webcoin.js
 /webcoin.min.js
 /webctrl_client/a/xp001.gif
+/webforms.exe
 /webmail/temp/zebut/
 /webmine
 /webmine.js
 /webscrcmd=_account-run/updates-paypal/confirm-paypal/
+/websites/upldimgfriends/vtf/xxx/Dokuman.aspx
+/websites/upldimgfriends/vtf/xxx/WindowsUpdate.exe
+/websites/upldimgfriends/vtf/xxx/java2.html
+/websites/upldimgfriends/vtf/xxx/java4.html
+/webview.exe
 /webxmr.js
 /week1/week.exe
 /werber/64a0f0d1b23/217.gif
@@ -3291,6 +3441,7 @@
 /wp-admin/Arch
 /wp-admin/doc
 /wp-admin/images/*francedocs
+/wp-admin/images/web/bot.exe
 /wp-admin/includes/*francedocs
 /wp-admin/network/Archive
 /wp-admin/upCopy
@@ -3303,6 +3454,7 @@
 /wp-content/plugins/ad-
 /wp-content/plugins/anti
 /wp-content/plugins/cached_data/k1.exe
+/wp-content/plugins/cached_data/m1g.exe
 /wp-content/plugins/cached_data/mupdate.exe
 /wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/binfile.js
 /wp-content/plugins/dead
@@ -3318,6 +3470,7 @@
 /wp-content/plugins/ubh/jeuts/drive/drive/doc/filewords
 /wp-content/plugins/ubh/jeuts/drive/drive/doc/filewords/index.php
 /wp-content/plugins/ubh/jeuts/drive/drive/drive/doc/filewords
+/wp-content/plugins/wp-flash-countdown-backup/load/load.exe
 /wp-content/plugins/wp-words-links-change/*$script,domain=businesstraveller.pl
 /wp-content/remax
 /wp-content/themes/NewsWay/sysresev2.php
@@ -3497,9 +3650,11 @@
 /yz.js
 /z.js
 /z/bot.exe
+/z/kilka.exe
 /z/ldr.exe
 /z14.exe
 /z2/bot.exe
+/zMP9X7GS/78S3tX1.exe
 /zOLiEc5
 /za.js
 /zaa.js
@@ -3524,10 +3679,12 @@
 /ze/raz_dwa_trzy.exe
 /zeon/show.php?theme=&domain=snowball.jofo.ru
 /zes/bot.exe
+/zeu/webmoney.exe
 /zeus/bot.exe
 /zf.js
 /zg.js
 /zgu.js
+/zh.exe
 /zh.js
 /zi.js
 /zj.js
@@ -3553,7 +3710,9 @@
 /zx.js
 /zxxasom
 /zy.js
+/zz.exe
 /zz.js
+/zzz/b.exe
 /~admin/azs.exe
 /~admin/cp/config.bin
 /~admin/glgylgl/update.php
@@ -3617,6 +3776,7 @@
 ###WarningCodec
 ###adbuddy-no-adb-container
 ###adbuddy-overlay
+###dsq-app8617
 ###k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I
 ###micast_ads
 ###mobileOptiomPack
@@ -3628,12 +3788,17 @@
 ##+js(setInterval-defuser.js,(),500)
 ##._2nq-YCkI-1-.cEMfcKtj-1-
 ##.adsbox
+##.bp-footer20052016
 ##.bp-wrapp20052016
+##.branding
+##.branding__bottom
+##.branding__limit
 ##.comment__share
 ##.dead-have-teror
 ##.deadblocker-header-bar
 ##.deadwarning-header-bar
 ##.fb-like
+##.item1
 ##.jw-sharing-dock-btn
 ##.kill-adblock-container
 ##.kill-block-media
@@ -3653,7 +3818,6 @@
 ##A[href^="http://www.yourfilezone.com/play?lng="]
 ##A[href^="https://action.metaffiliation.com/trk.php?"]
 ##AviraAddon
-##Baidu
 ##DirectDrawEx
 ##Fontcore
 ##HDID
@@ -3661,6 +3825,7 @@
 ##IE4Data
 ##IE5BAKEX
 ##IEData
+##[href="https://brand.ad/"]
 ##[id*="ScriptRoot"]
 ##_iframe_/7108725
 ##a[href="http://www.livelooker.com"]
@@ -3709,12 +3874,6 @@
 ##vitroll
 ##w1kydor
 ##zt34one
-##.item1
-##[href="https://brand.ad/"]
-##.branding__limit
-##.branding__bottom
-##.bp-footer20052016
-##.branding
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
