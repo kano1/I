@@ -460,7 +460,6 @@
 /*ti=1541075002&force_oa
 /*tsg=%0A%02jp%10%01%18%01+%01&
 /*uact=1&zoneid=1608660
-/*untikapa
 /*veja.exe
 /*wN6N3NsNl7
 /*website/557
@@ -471,8 +470,8 @@
 /*website/to-exhibit/exhibition-outline
 /*wfeRoutvB
 /*whostreams
-/.../lilozw.exe
-/.../lolipop.exe
+/lilozw.exe
+/lolipop.exe
 /.7829389233-0/top1-old.gif
 /.backup/demo.exe
 /.backups/movies/mediaplayer.exe
@@ -4834,4 +4833,3 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="css-"]
 
 ! total : 4837
-
