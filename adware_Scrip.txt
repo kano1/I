@@ -137,7 +137,6 @@
 /*=1541331317&force_
 /*=direct*$popup
 /*=directlinkmainstream*$popup
-/*=true*$popup
 /*?cmd=login_submit
 /*?email=Ransomed@india.com
 /*?email=Ransomedia@india.com
@@ -4830,4 +4829,4 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
 
-! total : 4837
+! total : 4832
