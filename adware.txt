@@ -398,7 +398,6 @@
 /*jcg5RFydOGSo8L
 /*jobym2m4k
 /*js*.exe*$popup
-/*key=*$popup
 /*key=0f22c1fd6
 /*key=0f22c1fd609
 /*key=0f22c1fd609f1
@@ -4820,7 +4819,6 @@ zuuk.org###fl10
 |https:$popup,third-party,domain=eztv.ag|flashx.tv|imagerar.com|imgbox.com|mywebtv.info|sendvid.com|thevideo.me|uptobox.com|uptostream.com|yts.am
 |https:$popup,third-party,domain=fmovies.is
 |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|thevideo.me|tvbximak.com|u.bb
-|https://$popup,third-party,domain
 |https://$popup,third-party,domain=gorillavid.in
 |https://*?*=$popup,third-party,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
 |javascript^$popup,domain
@@ -33095,7 +33093,7 @@ zuuk.org###fl10
 ||securecoin.miningpoolhub.com^
 ||securedrugstock.com^
 ||secureidmoblitelisting.000webhostapp.com^
-||securelogin.paypal.it.webapps.mpp.home.autenticazione.2oflranvbs3drvbmwvj2afac0dybr9qinmkumyfng8gnth1q4ah4fi6ecuft.jafinafara.for-our.info^
+||securelogin.paypal.it.webapps.mpp.home.autenticazione.*.jafinafara.for-our.info^
 ||securelogin.paypal.it.webapps.mpp.home.autenticazione.alh5zrdnvj7gdymtzxhyea6dsbap6co6om1edtrodnv8c8rsvyg1pb4id5n0.jafinafara.for-our.info^
 ||securelogin.paypal.it.webapps.mpp.home.autenticazione.cfrsfp8hcpkwdzsetpo8vir0wi1t64yyfq5knbn4ckw231kifi4nz3a9st5m.jafinafara.for-our.info^
 ||securelogin.paypal.it.webapps.mpp.home.autenticazione.cybgzbqmymjbfcvgdi7aqceiao6d7yfvzclrsxf5whay3gcbddhg8lo81jax.jafinafara.for-our.info^
