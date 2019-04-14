@@ -985,7 +985,6 @@
 /ad132m/creatives/52542434
 /adServe*$popup
 /adb_det
-/adbl
 /adcp/cfg/bot.exe
 /add.exe
 /adm/fl/game.exe
@@ -43670,4 +43669,3 @@ zuuk.org###fl10
 ||zzwzjidz.bid^
 
 ! Total: 43517
-
