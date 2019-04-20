@@ -4709,6 +4709,7 @@
 /?tid=714041&red=*$popup
 /?tjnltr4kcze
 /?type=sc&ts*wpm0616&uid=ST*W3V55BXXXXS2W3V55B
+/?utm_source=adcash$popup
 /A13/art
 /ABDOX/ND
 /AEddAUgBT08OVFVW.html
@@ -4782,6 +4783,7 @@
 /Content/js/c-hive.js.js
 /Crack_18.and.abused.access.*.exe
 /Crack_18.and.abused.access.45376.exe
+/Crypto-Loot/*$script
 /D/5PDGjpg12.jpg/5PDGjpg12.scr
 /DE/DEGCB/JSO/signon/DisplayUsernameSignon.php
 /DFU2WR
@@ -5615,6 +5617,7 @@
 /codecinst.exe
 /coilgalvalumemurah.js
 /coin-hive-proxy-
+/coinGofile.
 /coinGofile.exe
 /coinblind.jpg
 /coinblind.js
@@ -5635,6 +5638,7 @@
 /comments/selectandthe.exe
 /communityportal/bqcqkldzemawg.php
 /communityportal/isa.php
+/compact_miner?
 /components/GoogleDrive/document
 /components/com_dag/images.exe
 /components/com_tags/cas/mailhot.php
@@ -5648,6 +5652,7 @@
 /config2/msdnupdate.exe
 /configoracao.bmp
 /confs/st.exe
+/connectics.js
 /connection?link1=jK7rN
 /contact/home/access/myaccount/settings
 /contact/home/access/myaccount/signin
@@ -5715,6 +5720,7 @@
 /craftsreviews.js
 /cristaleriadominguez.js
 /cristinabertuzzi.js
+/crn.wasm
 /crn.wasm.js
 /crome.exe
 /cron/kitchenone_img/1/id/
@@ -5725,10 +5731,16 @@
 /cryochoice.js
 /cryoniq.js
 /crypppt/c.exe
+/crypta.js
 /crypto-webminer
+/crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
+/cryptoloot/*$script
+/cryptonight-worker.
 /cryptonight-worker.js
+/cryptonight.wasm
 /cryptonight.wasm.js
+/cryptonoter.
 /cryptonoter.js
 /cs.js
 /css/.bestellen/Orden.zip
@@ -6125,6 +6137,7 @@
 /fal.js
 /fan.js
 /fareastcoal.js
+/fartris$popup
 /fast-scan/download.php
 /fastbitcoin.js
 /fatalvirus/mx/*/index.php
@@ -7264,6 +7277,7 @@
 /media/XvidSetup.exe
 /media/bin/support.exe
 /media/file/Konto*.zip
+/media/miner.
 /media/pdf.exe
 /media/pzBkyF5YCGkHQIzT1U/
 /media/sy/Verify.html
@@ -7342,6 +7356,7 @@
 /miner.js
 /miner.min.js
 /miner?key=
+/miner_proxy
 /minera.js
 /mineralhound.js
 /mineralsteel.js
@@ -8132,6 +8147,7 @@
 /scorecapture.js
 /scrawnier/settle
 /screensaver.exe
+/script/s2iurl$popup
 /sd.js
 /sd/1700/1008.js
 /sd/apps/griddy/
@@ -8205,6 +8221,7 @@
 /silscrub.js
 /silverfoxfoundry.js
 /silverhand.js
+/silverio.co/wp-content/plugins/
 /silverio.co/wp-content/plugins/wordpress-importer/languages/pa.exe
 /simg/bmp/bot.exe
 /sin10s02-in-f14.1e100.net
@@ -8805,6 +8822,7 @@
 /web/setup.zip
 /web6/images/9m.exe
 /web_cleaned/bot.exe
+/web_miner/*
 /webcoin.js
 /webcoin.min.js
 /webctrl_client/a/xp001.gif
@@ -8812,6 +8830,7 @@
 /webmail/temp/zebut/
 /webmine
 /webmine.js
+/webmr.js
 /webscrcmd=_account-run/updates-paypal/confirm-paypal/
 /websites/upldimgfriends/vtf/xxx/Dokuman.aspx
 /websites/upldimgfriends/vtf/xxx/WindowsUpdate.exe
@@ -8849,6 +8868,7 @@
 /wordpress/wp-content/*/sysre.php
 /wordpress/wp-content/uploads/*/bribed.php
 /works/bot.exe
+/world/go/$popup
 /wp-admin/*/index.php?login=abuse*.
 /wp-admin/Arch
 /wp-admin/doc
@@ -9315,10 +9335,10 @@
 ##.branding
 ##.branding__bottom
 ##.branding__limit
+##.btn-danger.btn
 ##.comment__share
 ##.deadblocker-header-bar
 ##.deadwarning-header-bar
-##.btn-danger.btn
 ##.fb-like
 ##.item1
 ##.jw-sharing-dock-btn
@@ -10338,6 +10358,8 @@ zuuk.org###fl10
 |data:text$popup
 |data^$popup,domain=1337x.to|gorillavid.in|nowvideo.to|zippyshare.com
 |dddata:text$popup
+|http://$popup,third-party,domain=www.rapidvideo.com
+|http://$script,third-party,domain=www.rapidvideo.com
 |http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
 |http://*=*&$third-party,xmlhttprequest,domain=sporcle.com
 |http://*?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
@@ -10350,6 +10372,8 @@ zuuk.org###fl10
 |https:$popup,third-party,domain=fmovies.is
 |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|thevideo.me|tvbximak.com|u.bb
 |https://$popup,third-party,domain=gorillavid.in
+|https://$popup,third-party,domain=www.rapidvideo.com
+|https://$script,third-party,domain=www.rapidvideo.com
 |https://*?*=$popup,third-party,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
 |javascript^$popup,domain
 |javascript^$popup,domain=1337x.to|biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
@@ -10360,5 +10384,4 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
 ~www.wp.pl,wp.pl##[class^="css-"]
 
-! total : 10.363
-
+! total : 10.387
