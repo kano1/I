@@ -9319,6 +9319,7 @@
 ##.comment__share
 ##.deadblocker-header-bar
 ##.deadwarning-header-bar
+##.btn-danger.btn
 ##.fb-like
 ##.item1
 ##.jw-sharing-dock-btn
