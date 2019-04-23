@@ -10358,8 +10358,7 @@ zuuk.org###fl10
 |data:text$popup
 |data^$popup,domain=1337x.to|gorillavid.in|nowvideo.to|zippyshare.com
 |dddata:text$popup
-|http://$popup,third-party,domain=www.rapidvideo.com
-|http://$script,third-party,domain=www.rapidvideo.com
+|http://$popup,third-party,domain=www.rapidvideo.com|yourupload.com|superitu.com|mp4upload.com|putlocker.ninja|y2mate.com
 |http://$third-party,script,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
 |http://*=*&$third-party,xmlhttprequest,domain=sporcle.com
 |http://*?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
@@ -10372,8 +10371,6 @@ zuuk.org###fl10
 |https:$popup,third-party,domain=fmovies.is
 |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|thevideo.me|tvbximak.com|u.bb
 |https://$popup,third-party,domain=gorillavid.in
-|https://$popup,third-party,domain=www.rapidvideo.com
-|https://$script,third-party,domain=www.rapidvideo.com
 |https://*?*=$popup,third-party,domain=yourupload.com|superitu.com|mp4upload.com|www.rapidvideo.com|putlocker.ninja|y2mate.com
 |javascript^$popup,domain
 |javascript^$popup,domain=1337x.to|biology-online.org|bitvid.sx|cloudtime.to|eztv.ag|eztv.tf|eztv.yt|flashx.tv|gorillavid.in|letwatch.us|movpod.in|nowvideo.sx|nowvideo.to|wholecloud.net
@@ -10385,3 +10382,4 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="css-"]
 
 ! total : 10.387
+
