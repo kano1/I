@@ -5235,7 +5235,6 @@
 /analizator_data/gutukdhydx-a.voruev.jar
 /animations/pop.asp
 /anonymous$popup
-/anonymous/
 /anti
 /antimalware.exe
 /antisansur4.exe
@@ -5519,7 +5518,6 @@
 /cash.exe
 /castnet/Archive
 /catalog/images/thumbs/cadets.php
-/cb.js
 /cc.js
 /cc/a.js
 /ccbill/codec4.exe
@@ -6026,7 +6024,6 @@
 /ebay/XvidSetup.exe
 /ebay/eBayISAPI/ws/eBayISAPI.htm
 /ebulker_dlfjihgsleigh.exe
-/ec.js
 /ecard.exe
 /ecard.zip
 /ed.js
@@ -6041,7 +6038,6 @@
 /ef.js
 /ef84f6f688e1ca2bff78379217134fd9
 /efax_msg_7919.zip
-/eg.js
 /egWoJQR
 /eh.js
 /ehc2*$popup
@@ -6086,7 +6082,6 @@
 /ev.js
 /event$xmlhttprequest,domain=filmbit.ws
 /ex.js
-/ex/$popup
 /ex/1.exe
 /exe.bin
 /exe.exe
@@ -7110,7 +7105,6 @@
 /lcc/ip.gif
 /lcc/listv.exe
 /lcwngyjvjl/oqreapjfgz.js
-/ld.js
 /ld42.exe
 /ldr.exe
 /ldr/client03/ldrctl.php
@@ -7524,7 +7518,6 @@
 /nbok01/tlTT.exe
 /nbok01/zxTT.exe
 /nbtqcmfdq?key=&psid=14261696
-/nc.js
 /nd.js
 /ne.js
 /nebun/delahoia.exe
@@ -7763,7 +7756,6 @@
 /payments/info.doc
 /paypal.fr/cgi-bin/webscrcmd=_login-run
 /pb.js
-/pc.js
 /pcdef.exe
 /pd.js
 /pdci.js
@@ -10364,7 +10356,13 @@ zuuk.org###fl10
 |http://$third-party,script,domain=|cdnstats-a.akamaihd.net|ds-aksb-a.akamaihd.net|qnajplxtvz-a.akamaihd.net|babylon.com|akamaihd.net|staticwajam-wajam.netdna-ssl.com||adsupplyads.com|wrack-pack.info|rensovetors.info|pushsar.com|bbs.160.com|gynvael.coldwind.pl|volta-sq.pl|www.ietf.org|www.bright-shadows.net|matrix.3dnews.ru|www.tweakfx.net|www.benherman.com|count.crsky.com|www.bkav.com.vn|redmaru.web.fc2.com|gynvael.coldwind.pl
 |https://$third-party,script,domain=|cdnstats-a.akamaihd.net|ds-aksb-a.akamaihd.net|qnajplxtvz-a.akamaihd.net|babylon.com|akamaihd.net|staticwajam-wajam.netdna-ssl.com||adsupplyads.com|wrack-pack.info|rensovetors.info|pushsar.com|bbs.160.com
 
+
+! third party crypto miner malware and malicious traders
+
+|http://$domain=cyborgminds.com|cyclingpromotion.com.au|cydotomasyon.com|cyfrowemotywy.cba.pl|cylooks.com|cynonnet.com|cynosurejobs.net|cyprushealthservices.com|cyprusnike.com|cyrilunrun.com|medipoint.org|virmalw.name|virtualadmissions.com|virtualbook.web.fc2.com|virtuapoint.com|on-point.be|armcoinfrared.com|macoinservicios.com|coilgalvalumemurah.com|coinobras.com|fastbitcoin.net|macoinservicios.com|www.cryoniq.com|crylinen.com|cryochoice.com|bg-globalmarketing.com|www.yacht-market.eu|marketathart.com|marketingnatural.net|marketplacemagazineonline.com|markettv.ro|petromarket.ir|salesandmarketing101.net|soonmarketing.com|therapymarketinginstitute.com|tastebudsmarketing.com|unimarket.ch|vn-market.com|vipmarketing.co.il|www.EastsideAutoSalvage.com|way2lead.dk|aac-autoecole.com|adamauto.nl|arcusautomatika.ba|www.pasquaautonoleggi.it|asi-automazioni.com|auto-ecole-prudence.com|auto-ecolecoccinelle.com|auto-zakaz.com.ua|autoabs.lt|autoassur.coop|autocata.ro|autoecole-jeanpierre.com|autoecoleautonome.com|autoecolebeconcentre.com|autoecolecarces.com|autoecolecarnot.com|autoecoleeurope.com|autoecolejeanluc.com|autoecolekim95.com|autohaus-seevetal.com|autokover.ru|automaler.ru|automatedlogic.com.au|autoparts-outlet.nl|autoparts-outlet.nl|autores.ra-ma.es|autorijschoolpedro.nl|autozirkus.com|barocchiautofficina.it|glendoradrivingandtraffic.com|mortaltraffic.com|tvctraffic.com|www.traders-forum.com|www.tridi.be|www.trafik-site.ru|artanatrade.com|artanatrade.com|zytrade.cn|zytrade.cn|binarytradesignal.com|bktrade.kiev.ua|compitrade.ru|armantrading.co.ir|armantrading.co.ir|brighttrading.net|cottontrader.com.ar|cottontrader.com.ar|del-sieradz.neostrada.pl|ekotrade.linuxpl.info|ekotracks.com|electron-trade.ru|eurotrading.com.ua|forex-trading.nl|fss.neostrada.pl|gastrohurt.neostrada.pl|hightradingfrequency.com|hltrader.com|hotpeppertrading.com|hurbtrade.com|ikstrade.co.kr|kovac-trade.com|laveentrading.com|mujtabatrading.com|nnptrading.com|omrolsztyn.neostrada.pl|ptlchemicaltrading.com|smoki.neostrada.pl|stocktradex.co|stradalli.com|stxtrade.com|syedtradingco.com|syncfish.com|tdtrading.nl|trade-unite.ru|tradinbow.com|traditions-and-custom.com|tradium.com.mx|trendsandtrades.nl|trendoor.com|travoxsb.com|www.gsprzemkow.neostrada.pl|ikstrade.co.kr|inboxed.com|infinitecorp.ca
+
 ! sell data to Adware marketing , Malvertising , Popup
+
 |blob:$popup
 |blob:$script,domain=pornhub.com|xhamster.com|youporn.com
 |data:text$popup
@@ -10394,4 +10392,5 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="css-"]
 
 ! total : 10.387
+
 
