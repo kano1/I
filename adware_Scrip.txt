@@ -6738,10 +6738,7 @@
 /includes/inc/documen/webminer.js
 /includes/inc/documen/win/trool.js
 /includes/router_land.php?tracking=2-sp&exec=run
-/index*.html
-/index.php?query=donlod-kicau-burung-sikatan-londo-blasteran
 /index/REDoc/dwgdoc
-/index/couponsjson/
 /index/php/exe.exe
 /index/two/data.exe
 /index12.html
