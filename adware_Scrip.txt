@@ -1,3 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Adware Filter Scrip
+! Homepage: https://github.com/kano1/I
+!-- List for bad isueads for public like adware and popup/ads that are exploited by hackers.
 
 */cm0vv1m1*$popup
 */vb/attachments/9/1/5/6/7/9/2/bot.exe
@@ -10395,3 +10399,4 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 @@*drda5yf9kgz5p.cloudfront.net*
 
 ! total : 10.404
+
