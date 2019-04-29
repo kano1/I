@@ -10521,7 +10521,7 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 /z3hk5oo_de8/
 /zkfeeiqgzly/
 /zwazkn0uad4/
-||000owamail0.000webhostapp.com^
+
 ||0q2.sitey.me^
 ||1.jacago.com^
 ||1000lashes.com^
@@ -10674,7 +10674,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||alsharq.de^
 ||alsirah.com^
 ||altasorz.com^
-||altcontral.club^
 ||alternatifreklamajansi.com^
 ||alternative-consulting.com^
 ||altvater.ru^
@@ -11028,7 +11027,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||cancel.transaction.73891347.itunes.apple.semsyayinevi.com^
 ||candsmasonryrestoration.net^
 ||cankayaeskrim.com^
-||canvas.emerson.edu^
 ||canvashub.com^
 ||capital4u.org^
 ||capitalpolicyinternational.com^
@@ -11208,6 +11206,7 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||crystalforthepeople.com^
 ||cschinwin.com^
 ||csftechnologies.com^
+||csftechnologies.com^^
 ||cstrespsurvey.ca^
 ||cualuoimientrung.com^
 ||cubedevelopments.com^
@@ -11291,7 +11290,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||derinceozelders.com^
 ||desertsunlandscape.com^
 ||desinstalacion.deletebrowserinfection.com^
-||detectures.info^
 ||dev-supoort00.regis-fanpageee-confirm.ml^
 ||dev.chambredhotebressuire.com^
 ||dev.dawnbreaker.com^
@@ -11343,7 +11341,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||dotphase.com^
 ||doughlane.000webhostapp.com^
 ||dowayhome.com^
-||download.vcreative.net^
 ||downloaditalia.it^
 ||downloadsims4.com^
 ||drahmad.com.pk^
@@ -11384,7 +11381,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||eatinguplondon.com^
 ||ebay.net.ua^
 ||ebuyyi.com^
-||ec2-52-4-242-118.compute-1.amazonaws.com^
 ||ecarecosmetics.com^
 ||echnaton.ru^
 ||echocreativemarketing.com^
@@ -11457,7 +11453,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||enklawy.pl^
 ||enolpharma.com^
 ||enorossi.it^
-||enoughts.info^
 ||entitatsambcor.org^
 ||entofarma.com^
 ||entornodomestico.net^
@@ -11490,11 +11485,8 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||euro-option.info^
 ||euroartis.eu^
 ||eurodach.ru^
-||europeras.club^
 ||eurorecords.net^
 ||event-tracking.com^
-||eventinjustutrat.info^
-||eventrenandkedge.info^
 ||eventyourselfie.com^
 ||evergreen.net.pk^
 ||everythingisstory.com^
@@ -11734,7 +11726,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||hanzadekumas.com^
 ||haoyunkk88688.com^
 ||harareadventist.org^
-||hartinherrec.info^
 ||hartseed.com^
 ||hashmi-n-company.com^
 ||hatihat55159.000webhostapp.com^
@@ -11742,8 +11733,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||havytab.com^
 ||hayal.se^
 ||healthneatural.club^
-||hecrowcati.info^
-||hedandsparsit.info^
 ||hedefzirve.com.tr^
 ||heightblog.com^
 ||heiram.com^
@@ -11758,7 +11747,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||helps-confrim1777.suport-acount-confrim12.ga^
 ||helpshop.org^
 ||hermansbo.rymena.se^
-||hetofkearma.info^
 ||heximed.ro^
 ||hexpilot.com^
 ||hgm.world^
@@ -12461,7 +12449,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||oakwoodparkassociation.com^
 ||oasiscompound.com^
 ||obkzrcclean2.az.pl^
-||occuracy.info^
 ||oceanicgoldusa.com^
 ||odessa.com.pl^
 ||ofc.com.pe^
@@ -12572,7 +12559,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||petloverzguide.com^
 ||petpalsportraits.co.uk^
 ||petroservcatering.com^
-||peughrobso.info^
 ||pharmafinanceholding.com^
 ||phidacycles.fr^
 ||philatelyworld.com^
@@ -12736,11 +12722,9 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||realmarketltd.com^
 ||realmobile.se^
 ||recettesvitefaites.com^
-||recialero.club^
 ||recnbr-design.ru^
 ||recover-fb08900.000webhostapp.com^
 ||recovery-fanpage1662.suport7288.gq^
-||reculdrothense.info^
 ||redcamif.info^
 ||redknotedinburgh.com^
 ||redmaru.web.fc2.com^
@@ -12760,7 +12744,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||remontservis1.ru^
 ||remotegeeks.com^
 ||renovaremedlab.com.br^
-||rensovetors.info^
 ||rent-cars.sk^
 ||rentascoot.net^
 ||rentmasterevents.com^
@@ -12831,7 +12814,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||rsvpphotobooth.com^
 ||rubychinese.com.au^
 ||ruiland.com.mx^
-||rumouprote.club^
 ||runsonawesome.net^
 ||runwaymilan.com^
 ||russellbedford.com.my^
@@ -13262,12 +13244,10 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||todayissoftware.com^
 ||todoarmas.com.uy^
 ||tofinoshores.ca^
-||tofretonlepa.info^
 ||toikb72.ru^
 ||tomandqueenie.org.au^
 ||tommontfrooy.nl^
 ||tomsuithoorn.nl^
-||tonsbeharew.info^
 ||tonyquinn.com^
 ||tooloftrade.com.au^
 ||top5ent.com^
@@ -13367,7 +13347,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||uscleanpro.com^
 ||ussouellet.com^
 ||usugi-pomocy.sitey.me^
-||uthorner.info^
 ||utkalinhouseit.com^
 ||utlitydiscountplans.com^
 ||uveework.ru^
@@ -13408,7 +13387,6 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||video--production.com^
 ||videoportrait.tv^
 ||videos-for-your-business.com^
-||videos.expotv.com^
 ||videsignz.com^
 ||vienranghammat.com^
 ||vietstarpreschool.vn^
@@ -13631,4 +13609,5 @@ http://$popup,third-party,domain=www.wowkeren.com|animeindo.moe|grandxxi.tv|duni
 ||zzhomes.com^
 
 ! total : 13.633
+
 
