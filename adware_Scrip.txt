@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/kano1/I
 !-- List for bad isueads for public like adware and popup/ads that are exploited by hackers.
 
+/thesandonesof$popup
+/ZQMG?tag_id=$popup
 */cm0vv1m1*$popup
 */vb/attachments/9/1/5/6/7/9/2/bot.exe
 *referrer$popup
@@ -10344,4 +10346,3 @@ zorofiles.com###z662
 zuuk.org###fl10
 
 ! total : 10.404
-
