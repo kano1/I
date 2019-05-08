@@ -3,6 +3,14 @@
 ! Homepage: https://github.com/kano1/I/master/adware.txt
 !-- list for bad isueads for public like adware and popup / ads that are exploited by hackers
 
+/?tid=$popup
+/click?i=$popup
+/?pid=$popup
+/*id=$popup
+/*clickid=$popup
+/ensnes.pro$popup
+/best.hot-blogs$popup
+/?set=$popup
 /etreflased$popup
 /ecopaloron
 /ecopalorony$popup
@@ -9554,7 +9562,6 @@ exashare.com,dowed.info###player_mgo
 exashare.com,dowed.info###player_mgs
 f1fanklub.pl#@##topad
 fa831c3b01dcfdf409ab90c0e7313a10062490c8fe2a518dd849dc5431c2c3ad
-facebookproxy.info###overlay-holder
 fanfiktion.de###ad-leaderboard-inner
 fenopy.se##[rel="nofollowexternal"][href^="/ddl/"]
 fgames.pw###html3
@@ -9811,7 +9818,6 @@ money.pl##DIV[style="margin-bottom:10px"]+DIV>DIV>DIV+DIV+DIV[class]
 money.pl,moneyv.wp.pl###app>div[data-reactroot]>div[class]:matches-css(background-image:/v\.wpimg\.pl\/MjAxOTA/)
 money.pl,moneyv.wp.pl#?#div[class^="sc-"]:-abp-has(>img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 moto.wp.pl###aSlot3
-mp4upload.com,bro.adca.st,porndig.com,underhentai.net###overlay
 mrtzcmp3.net###hstp-bg-overlay
 mrtzcmp3.net###hstp_interstitial
 msp.money.pl##DIV>DIV[style*="z-index:310"]
@@ -9903,7 +9909,6 @@ proplanta.de#@##ad_img
 proplanta.de#@##bottom_ad
 proplanta.de#@##mainAd
 proplanta.de#@#.searchad
-proxywiky.com###overlay-holder
 pssite.com#@#.adver
 pubs.xl.pt###descontos
 pudelek.pl##.mtb10
@@ -10003,7 +10008,6 @@ streaming-foot.info,stream-foot.tv,foot-live.info,total-sport.tv##.fb_twitter
 streaming-foot.info,stream-foot.tv,foot-live.info,total-sport.tv##[id^="timer"]
 streamlive.to###adblockplus
 streamsportlive.es###WarningCodecBanner
-strikeout.me,strikeout.co###overlayad
 strikeout.me,strikeout.co##.in.fade.modal-backdrop
 strmh24.com###b1
 swindonadvertiser.co.uk##.ad-blocker-warning
@@ -10070,7 +10074,6 @@ tv.wp.pl##SECTION>DIV.wide>DIV+DIV[class]
 tv.wp.pl##[class*="AdvPlaceholderLayout"]
 tv.wp.pl#?#div[class*=""][height]:-abp-has(>img[src^="https://v.wpimg.pl/"][src$="=="]:not([alt]))
 tvdesporto.com#@##ads1
-tvdez.com,casadossegredos.tv,estadiofutebol.com,televisaofutebol.com##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top:12px;z-index:9999;text-align:left"]
 tvdez.com,casadossegredos.tv,estadiofutebol.com,televisaofutebol.com#@##pub2
 tvdez.com,casadossegredos.tv,estadiofutebol.com,televisaofutebol.com#@##pubfooter
 tvfree.me,mytvfree.me,mytvfree2.me,mytvfree3.me,mytvfree4.me##[id^="template"]
@@ -10080,7 +10083,6 @@ tvgolo.com###hstp_interstitial
 tvi24.iol.pt###heightPH
 tvi24.iol.pt##iframe#barraIOL
 tvono.com#@#.adsbox
-tvportugalhd.info,tvportugalhd.com,tvportugalhd.org,tvphd.com,sporttv.pt.am,pogotv.eu,zonatugatv.com,flashstreams.net,cocas.tv,soccertoall.net,tvgente.com,sportvgratis1.com,icasthd.tv,hdtvtuga.com,hdembed.com,streamking.org,championsuefa.tv,canalescp.blogspot.com,miscanales21.blogspot.com,miscanalescp25.blogspot.com,peliculascp.blogspot.com,zeyutvcanales.com,turbocast.tv,torcidatricolor.eu,fixolas.net,wowhq.ws,wowhq.eu,futhd1.blogspot.com,tugastream.com,portugaldesportivo.com,cocas1.com,cbox.ws,uvue.de,sportstvonline.net,portalzuca.net,look-tvs.com,tvgente.eu,kingstreams.tv,micast.tv,wowhq.umbb.net,streaming-foot.me,footdirect24.com,wiz1.net,crichd.tv,stadium-live.biz,ligier-voiture.eu,match-foot-streaming.com,buzina.xyz,cast4u.tv,live9.net,megaviptv.me,wizhdsports.com,hdcast.info,premiersporthd.com,eplstream.com,lethalstreams.xyz,veecast.net,hdfree.tv,beinsport-streaming.com##[id^="floatLayer"]
 tvportugalhd.org,tvportugalhd.eu##.bidv468
 tvportugalhd.org,tvportugalhd.eu##.xbidv468
 tvrojadirecta.com##IMG[src="/close.gif"]
@@ -10103,7 +10105,6 @@ urlchecker.net###ads_notify
 urlchecker.org###adchecker
 urlchecker.org###adchecker_btn
 urlchecker.org###ads_notify
-usagoals.com###overlay
 verdirectotv.com###divPanel
 verdirectotv.com##[id^="total"]
 verdirectotv.com##div[id^="capa"]
@@ -10119,7 +10120,6 @@ videopremium.tv#@#.text-ads
 videopremium.tv#@#.textAd
 videopremium.tv#@#.text_ad
 videopremium.tv#@#.text_ads
-videoproxy.in###overlay-holder
 videotools.12pings.net###chucknorris
 videowood.tv#@#.pub_300x250
 videowood.tv#@#.pub_300x250m
@@ -10134,20 +10134,10 @@ ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
 vipbox.online###html3
-vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,vipleague.co,vipleague.sx,vipleague.ch,vipbox.tv,vipbox.co,vipbox.biz,vipbox.sx,vipbox.eu,vipbox.so,vipbox.nu,vipboxsa.co,strikeout.co,strikeout.me,homerun.re,vipboxtv.co,vipapp.me##script+script+script+style+div[id]
 vipracing.info##.in-video-adds
 vizer.tv#@#.adBlockDetected
 vizer.tv#@#.adsbox
-vostfr-vf.com##.fixe
-vostfr-vf.com##A[href="/100Mbs.html"]
-vostfr-vf.com##A[href^="http://api.adlure.net/partner/click/"]
-watcharab.com#@##adblock
-wawa-film.org##A[href^="http://api.adlure.net/partner/click/"]
 website/secure_download/
-wiadomosci.wp.pl##DIV[style="position:relative;top:0px;"]>A[target="_blank"]>DIV
-wiadomosci.wp.pl##[target="_blank"]>IMG[src^="https://v.wpimg.pl/"]
-wiadomosci.wp.pl,gwiazdy.wp.pl,teleshow.wp.pl##A[href*=".wp.pl/"][target="_blank"]:first-child>FIGURE[class^="_"]
-wiadomosci.wp.pl,tech.wp.pl,kobieta.wp.pl,gwiazdy.wp.pl,teleshow.wp.pl##A[class^="_"][href*=".wp.pl/"][target="_blank"]>FIGURE[class^="_"]+*H3[class*="teaser"]
 worldofgnome.org#@##wog-300x250-ads
 wowhq.umbb.net##IMG[width="160"][height="600"]
 wowhq.umbb.net##IMG[width="970"][height="90"]
@@ -11226,7 +11216,6 @@ brasil247.com##+js(bab-defuser.js)
 breviewofd.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 breviewofd.com##+js(abort-on-property-read.js, runAdBlocker)
 bro.adca.st###markup
-bro.adca.st###overlay
 bro.adca.st###roviralta
 bro.adca.st##.chabon
 bro.adca.st##.close
@@ -13061,7 +13050,6 @@ imgrock.*##+js(window.open-defuser.js)
 imgsay.com##+js(abort-on-property-read.js, ExoLoader)
 imgshots.com###introOverlayBg
 imgshots.com##+js(popads.net.js)
-imgsin.com###overlayBg
 imgsin.com##+js(window.open-defuser.js)
 imgskull.com##+js(abort-on-property-write.js, _pop)
 imgskull.com##+js(noeval.js)
@@ -13382,7 +13370,6 @@ kino.de,t-online.de##+js(nowebrtc.js)
 kinoger.to##+js(abort-current-inline-script.js, atob, decodeURIComponent)
 kinos.*,kinox.*##+js(abort-current-inline-script.js, adcashMacros)
 kinos.*,kinox.*##+js(abort-on-property-read.js, AaDetector)
-kiplinger.com###overlay
 kiplinger.com###wealthCreationModal
 kiplinger.com##body.modal-open:style(overflow: auto !important;)
 kissanime.*##+js(kissanime-defuser.js)
@@ -13676,7 +13663,6 @@ loadearn.com##.banner
 loadearn.com##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 loadearn.com##+js(setTimeout-defuser.js, nextFunction, 250)
 loadurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-loadvid.online###overlay-vcplayer
 loadvid.online##+js(abort-current-inline-script.js, fileID, adblock)
 loadvid.online##+js(abort-on-property-read.js, BetterJsPop)
 loadvid.online##+js(set-constant.js, adBlockNotDetected, true)
@@ -14111,7 +14097,6 @@ mp4hdmovies.co.in##+js(abort-on-property-read.js, AaDetector)
 mp4mania.xyz##+js(abort-on-property-read.js, zoneNativeSett)
 mp4mania.xyz##+js(nowebrtc.js)
 mp4mania.xyz##+js(setTimeout-defuser.js, _creatBait)
-mp4upload.com###overlay
 mp4upload.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 mp4upload.com##+js(addEventListener-defuser.js, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
 mp4upload.com##+js(popads-dummy.js)
@@ -14692,7 +14677,6 @@ playrust.io##+js(setTimeout-defuser.js, as_check, 3000)
 playtv.to##+js(abort-on-property-read.js, decodeURIComponent)
 playview.io##.ads_player
 pleximum.com##+js(abort-on-property-write.js, adBlockDetected)
-plusone8.com###overlay-advertising
 plusone8.com##+js(abort-on-property-read.js, ExoLoader.serve)
 pluspremieres.*##+js(setInterval-defuser.js, (), 2550)
 pluspremieres.*##+js(setInterval-defuser.js, getElementsByClassName)
@@ -16246,7 +16230,6 @@ uvnc.com##+js(addEventListener-defuser.js, load, nextFunction)
 vancouversun.com###postmedia_layouts_ad-top
 varagh.com##+js(abort-current-inline-script.js, $, adBlock)
 vaughnlive.tv##.abvsDynamic
-vcstream.to###overlay-vcplayer
 vcstream.to##+js(abort-on-property-read.js, BetterJsPop)
 vcstream.to##+js(set-constant.js, pop_cnt, 1)
 vcstream.to##+js(setTimeout-defuser.js, _creatBait)
@@ -16300,7 +16283,6 @@ vidcloud.co##+js(abort-on-property-read.js, BetterJsPop)
 vidcloud.co##+js(abort-on-property-write.js, adBlockDetected)
 vidcloud.co##+js(set-constant.js, pop_cnt, 1)
 videodistribution.com##+js(set-constant.js, canRunAds, true)
-videos.porndig.com###overlay
 videos.porndig.com##.pop_parent
 videos1002.com##+js(abort-current-inline-script.js, $, azar)
 video-static.tunnl.com##+js(set-constant.js, canRunAds, true)
