@@ -9,6 +9,7 @@
 /*id=$popup
 /*clickid=$popup
 /ensnes.pro$popup
+/ensnes.pro
 /best.hot-blogs$popup
 /?set=$popup
 /etreflased$popup
@@ -20197,4 +20198,5 @@ zutrox.link##+js(abort-on-property-write.js, PopUP)
 ||zzhomes.com^
 
 ! total : 13.633
+
 
