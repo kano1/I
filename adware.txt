@@ -9811,7 +9811,6 @@ money.pl##DIV[style="margin-bottom:10px"]+DIV>DIV>DIV+DIV+DIV[class]
 money.pl,moneyv.wp.pl###app>div[data-reactroot]>div[class]:matches-css(background-image:/v\.wpimg\.pl\/MjAxOTA/)
 money.pl,moneyv.wp.pl#?#div[class^="sc-"]:-abp-has(>img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 moto.wp.pl###aSlot3
-mp4upload.com,bro.adca.st,porndig.com,underhentai.net###overlay
 mrtzcmp3.net###hstp-bg-overlay
 mrtzcmp3.net###hstp_interstitial
 msp.money.pl##DIV>DIV[style*="z-index:310"]
@@ -10103,7 +10102,6 @@ urlchecker.net###ads_notify
 urlchecker.org###adchecker
 urlchecker.org###adchecker_btn
 urlchecker.org###ads_notify
-usagoals.com###overlay
 verdirectotv.com###divPanel
 verdirectotv.com##[id^="total"]
 verdirectotv.com##div[id^="capa"]
@@ -10119,7 +10117,6 @@ videopremium.tv#@#.text-ads
 videopremium.tv#@#.textAd
 videopremium.tv#@#.text_ad
 videopremium.tv#@#.text_ads
-videoproxy.in###overlay-holder
 videotools.12pings.net###chucknorris
 videowood.tv#@#.pub_300x250
 videowood.tv#@#.pub_300x250m
@@ -18422,4 +18419,6 @@ zrozz.com$popup,third-party
 zupload.me$popup,third-party
 zutrox.link$popup,third-party
 
-! total : 18.633
+! total : 18.422
+
+
