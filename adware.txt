@@ -13980,7 +13980,6 @@ hdpass.net|hdpopcorns.*|hdporn.net|hdpornt.com|hdrezka.ag|hdrezka.me|hdstreams.*
 /*tPzJEBhN8
 /*GVcDZi05ey5zL
 /*hidden=
-/redirector.php?
 /*clickid=$popup
 /*id=$popup
 /?pid=$popup
