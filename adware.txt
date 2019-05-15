@@ -10336,6 +10336,11 @@ zuuk.org###fl10
 ||entitlements.jwplayer.com^$third-party
 ||histats.com^
 /api/submit_form_request?p=a3948a51-d0ee-4959-a93d-12e42f83f8ad&ts=1557380326&z=2343095
+@@*chatango.com*
+@@drda5yf9kgz5p.cloudfront.net
+@@||oloadcdn.net/subtitle/*$xmlhttprequest,domain=openload.co
+@@||openload.co^$popup,first-party
+
 ! adware agent marketing
 
 |http://$script,domain=apiskywebbercom-a.akamaihd.net|gynvael.coldwind.pl|babylon.click|wajam.com|74055djs.info|aceadsys.net|addon.downloadterms.com|adserver.iminent.com|adsupplyads.com|al9l235gkc7d.ru|apiskywebbercom-a.akamaihd.net
@@ -18421,5 +18426,3 @@ zupload.me$popup,third-party
 zutrox.link$popup,third-party
 
 ! total : 18.422
-
-
