@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Adware Filter Scrip
 ! Homepage: https://github.com/kano1/I
-!-- List for bad isueads for public like adware and popup/ads that are exploited by hackers.
+!-- List for bad isueads for public like adware and popup/ads that are exploited by hackers
+
 /*bitcoadz
 /display/items.php?1268&344&300&250&4&0&0&0&0
 /ps.popcash$popup
@@ -23,6 +24,7 @@
 /*ssymphoking*$popup
 */cm0vv1m1*$popup
 */vb/attachments/9/1/5/6/7/9/2/bot.exe
+/*.info/*$popup
 *referrer$popup
 .bee.pl/d.php
 .bee.pl/index.php
