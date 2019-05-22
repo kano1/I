@@ -10306,6 +10306,8 @@ zuuk.org###fl10
 #@##sponsored-ad
 #@#.afs_ads
 #@#div[itemtype="http://schema.org/WPAdBlock"]ick?s=*^$popup
+#blocked$popup
+#blocked
 
 ! Popup block
 ##.brandBtn
