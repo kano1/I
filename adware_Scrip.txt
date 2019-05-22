@@ -10315,6 +10315,8 @@ zuuk.org###fl10
 ##vitroll
 ##w1kydor
 ##zt34one
+#blocked
+#blocked$popuo
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
