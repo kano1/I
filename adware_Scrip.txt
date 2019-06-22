@@ -8,6 +8,7 @@
 /*parronnotandone
 /gamefabrique*/images/downloadbig
 /feedclick?s=$popup
+/assets/images/gt_logo.svg
 /*bitcoadz
 /?var=$popup
 /display/items.php?1268&344&300&250&4&0&0&0&0
