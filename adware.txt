@@ -279,6 +279,7 @@
 /*PJ6b-Vddo
 /*PRAF8B
 /*PhINMVw
+/*.pro/*$popup
 /*PysB$popup
 /*Q9If$popup
 /*QHVYhI20I$popuo
@@ -2765,6 +2766,7 @@
 /*pension-no30*/images/sysresev2.php
 /*peopleofmymarsplanet*main.php
 /*peopleofmymarsplanet*w.php
+/*.pro/*$popup
 /*perfectvct*/allow.php
 /*perfectvct*/w.php
 /*perfikulo*/download/
@@ -14501,3 +14503,5 @@ zuuk.org###fl10
 ||zzhomes.com^
 
 ! total 14.315
+
+
