@@ -2706,6 +2706,7 @@
 /*oyks*/static/f.exe
 /*ozkb7*/o.js
 /*ozonestsscareer
+/*.pro/$popup
 /*p0rt3m.bplaced*/zeus/
 /*p2079-ipbf207souka*/wmail/flash.asp
 /*p7keflvui9fkl*/get.php
