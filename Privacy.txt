@@ -1,0 +1,29 @@
+[Adblock Plus 2.0]
+! Title: Extra Privacy
+! Homepage: https://github.com/kano1/I/master/adware.txt
+!- block tracking that doesn't give ads for performance and speed 
+
+2mdn.net
+adnxs.com
+bidswitch.net
+bidvertiser.com
+digitru.st
+districtm.ca
+districtm.net
+dtscout.com
+fd7qz88ckd.com
+fingahvf.top
+ie8eamus.com
+mowithlerendu.pro
+notifa.info
+raxcdn.com
+reklamstore.com
+rekmob.com
+remarketingpixel.com
+revcontent.com
+susm0q6jys.com
+velowilenlitt.pro
+x-tags.net
+xghfi97mk6.com
+yabidos.com
+ys3e965d.top
