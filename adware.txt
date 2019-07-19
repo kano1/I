@@ -9675,7 +9675,6 @@
 @@||oloadcdn.net/subtitle/*$xmlhttprequest,domain=openload.co
 @@||openload.co^$popup,first-party
 a/video_3.exe
-about:blank$popup
 adbuck.cc###col_publi
 afdah.com##.debridnok
 alientube.co###adblockContainer
