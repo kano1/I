@@ -3,6 +3,14 @@
 ! Homepage: https://github.com/kano1/I
 !-- List for bad isueads for public like adware and popup/ads that are exploited by hackers
 
+/mowithlerendu
+/TnNaSFkvETc8
+/hyperboardupil
+/mowithl
+/x-tags
+/notifa
+/enable-privacy
+/TnNaSFkvETc8
 */cm0vv1m1*$popup
 */vb/attachments/9/1/5/6/7/9/2/bot.exe
 *referrer$popup
@@ -11313,3 +11321,4 @@ zuuk.org###fl10
 ~www.wp.pl,wp.pl##[class^="css-"]
 
 ! total 11.315
+
