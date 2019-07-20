@@ -1457,7 +1457,6 @@
 /*icnzlx*/in.cgi
 /*icr-sg*/fresh.html
 /*ict-ck*/.sys/
-/*id=$popup
 /*id=65bc14ac-7c18-3c05-
 /*id=b0895dfc-8146-3c77-95
 /*id=d67099b183f59f03
