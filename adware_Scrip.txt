@@ -5931,7 +5931,6 @@
 /crome.exe
 /cron/kitchenone_img/1/id/
 /crossales.exe
-/crossdomain.xml
 /crpnp.exe
 /crylinen.js
 /cryochoice.js
