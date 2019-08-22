@@ -747,7 +747,6 @@
 /*erorr*.exe
 /*errorsmart*/install.php
 /*ertadbuferytagol
-/*ertan
 /*ervas*/americanexpress/security.html
 /*escanpc*/pgm/
 /*escar*/americanexpress/security.html
